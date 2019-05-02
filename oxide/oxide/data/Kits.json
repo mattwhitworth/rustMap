@@ -1,0 +1,217 @@
+{
+  "Kits": {
+    "basics": {
+      "name": "Basics",
+      "description": "Stone Axe, Stone Pick, Bow",
+      "max": 0,
+      "cooldown": 900.0,
+      "authlevel": 0,
+      "hide": false,
+      "npconly": false,
+      "permission": null,
+      "image": null,
+      "building": null,
+      "items": [
+        {
+          "itemid": 171931394,
+          "container": "belt",
+          "amount": 1,
+          "skinid": 0,
+          "weapon": false,
+          "blueprintTarget": 0,
+          "mods": []
+        },
+        {
+          "itemid": 1443579727,
+          "container": "belt",
+          "amount": 1,
+          "skinid": 0,
+          "weapon": true,
+          "blueprintTarget": 0,
+          "mods": []
+        },
+        {
+          "itemid": 215754713,
+          "container": "belt",
+          "amount": 10,
+          "skinid": 0,
+          "weapon": false,
+          "blueprintTarget": 0,
+          "mods": []
+        },
+        {
+          "itemid": -1583967946,
+          "container": "belt",
+          "amount": 1,
+          "skinid": 0,
+          "weapon": false,
+          "blueprintTarget": 0,
+          "mods": []
+        }
+      ]
+    },
+    "emergency": {
+      "name": "EMERGENCY",
+      "description": "M249, 100 HV, Large Medkit",
+      "max": 1,
+      "cooldown": 0.0,
+      "authlevel": 0,
+      "hide": false,
+      "npconly": false,
+      "permission": "kits.emergency",
+      "image": "http://tinyurl.com/y74jzdvv",
+      "building": null,
+      "items": [
+        {
+          "itemid": 254522515,
+          "container": "belt",
+          "amount": 1,
+          "skinid": 0,
+          "weapon": false,
+          "blueprintTarget": 0,
+          "mods": []
+        },
+        {
+          "itemid": -2069578888,
+          "container": "belt",
+          "amount": 1,
+          "skinid": 0,
+          "weapon": true,
+          "blueprintTarget": 0,
+          "mods": []
+        },
+        {
+          "itemid": 1712070256,
+          "container": "belt",
+          "amount": 100,
+          "skinid": 0,
+          "weapon": false,
+          "blueprintTarget": 0,
+          "mods": []
+        }
+      ]
+    },
+    "smaste": {
+      "name": "Smaste",
+      "description": "u gai",
+      "max": 1,
+      "cooldown": 0.0,
+      "authlevel": 0,
+      "hide": false,
+      "npconly": false,
+      "permission": "kits.smaste",
+      "image": null,
+      "building": null,
+      "items": [
+        {
+          "itemid": 1248356124,
+          "container": "main",
+          "amount": 1,
+          "skinid": 0,
+          "weapon": false,
+          "blueprintTarget": 0,
+          "mods": []
+        },
+        {
+          "itemid": 1712070256,
+          "container": "main",
+          "amount": 1,
+          "skinid": 0,
+          "weapon": false,
+          "blueprintTarget": 0,
+          "mods": []
+        },
+        {
+          "itemid": -1691396643,
+          "container": "main",
+          "amount": 1,
+          "skinid": 0,
+          "weapon": false,
+          "blueprintTarget": 0,
+          "mods": []
+        },
+        {
+          "itemid": 605467368,
+          "container": "main",
+          "amount": 1,
+          "skinid": 0,
+          "weapon": false,
+          "blueprintTarget": 0,
+          "mods": []
+        },
+        {
+          "itemid": 51984655,
+          "container": "main",
+          "amount": 1,
+          "skinid": 0,
+          "weapon": false,
+          "blueprintTarget": 0,
+          "mods": []
+        },
+        {
+          "itemid": -1841918730,
+          "container": "main",
+          "amount": 1,
+          "skinid": 0,
+          "weapon": false,
+          "blueprintTarget": 0,
+          "mods": []
+        },
+        {
+          "itemid": 1796682209,
+          "container": "belt",
+          "amount": 1,
+          "skinid": 0,
+          "weapon": true,
+          "blueprintTarget": 0,
+          "mods": []
+        },
+        {
+          "itemid": -1850571427,
+          "container": "belt",
+          "amount": 1,
+          "skinid": 0,
+          "weapon": false,
+          "blueprintTarget": 0,
+          "mods": []
+        },
+        {
+          "itemid": -855748505,
+          "container": "belt",
+          "amount": 1,
+          "skinid": 0,
+          "weapon": false,
+          "blueprintTarget": 0,
+          "mods": []
+        },
+        {
+          "itemid": 28201841,
+          "container": "belt",
+          "amount": 1,
+          "skinid": 0,
+          "weapon": true,
+          "blueprintTarget": 0,
+          "mods": []
+        },
+        {
+          "itemid": -1861522751,
+          "container": "belt",
+          "amount": 1,
+          "skinid": 0,
+          "weapon": false,
+          "blueprintTarget": 0,
+          "mods": []
+        },
+        {
+          "itemid": -932201673,
+          "container": "belt",
+          "amount": 1000,
+          "skinid": 0,
+          "weapon": false,
+          "blueprintTarget": 0,
+          "mods": []
+        }
+      ]
+    }
+  }
+}

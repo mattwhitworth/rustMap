@@ -1,0 +1,452 @@
+00:47 [Info] [Give] Meretrix 1 x Dragon Mask
+00:47 [Info] [Give] Meretrix 1 x Clatter Helmet
+00:48 [Info] [Give] Meretrix 1 x Riot Helmet
+00:48 [Info] [Give] Meretrix 1 x Scarecrow Wrap
+00:48 [Info] [Give] Meretrix 1 x Wood Armor Pants
+00:48 [Info] [Give] Meretrix 1 x Wood Chestplate
+00:48 [Info] [Give] Meretrix 1 x Bone Armor
+00:53 [Info] [Give] Meretrix 1 x Beenie Hat
+00:53 [Info] [Give] Meretrix 100 x Metal Shop Front
+00:54 [Info] [Give] Meretrix 1 x Wood
+00:54 [Info] [Give] Meretrix 1000 x Wood
+00:54 [Info] [Give] Meretrix 1000 x Wood
+00:54 [Info] [Give] Meretrix 1000 x Wood
+00:54 [Info] [Give] Meretrix 1000 x Wood
+00:54 [Info] [Give] Meretrix 1000 x Wood
+00:54 [Info] [Give] Meretrix 1000 x Wood
+00:54 [Info] [Give] Meretrix 1000 x Wood
+00:54 [Info] [Give] Meretrix 1000 x Wood
+00:54 [Info] [Give] Meretrix 1000 x Wood
+00:54 [Info] [Give] Meretrix 1000 x Wood
+00:54 [Info] [Give] Meretrix 1000 x Wood
+00:54 [Info] [Give] Meretrix 1000 x Stones
+00:54 [Info] [Give] Meretrix 1000 x Stones
+00:54 [Info] [Give] Meretrix 1000 x Stones
+00:54 [Info] [Give] Meretrix 1000 x Stones
+00:54 [Info] [Give] Meretrix 1000 x Stones
+00:54 [Info] [Give] Meretrix 1000 x Stones
+00:54 [Info] [Give] Meretrix 1000 x Stones
+00:54 [Info] [Give] Meretrix 1000 x Stones
+00:54 [Info] [Give] Meretrix 1000 x Stones
+00:54 [Info] [Give] Meretrix 1000 x Stones
+00:54 [Info] [Give] Meretrix 1000 x Stones
+00:55 [Info] [Give] Meretrix 1000 x Reinforced Glass Window
+00:56 [Info] [Give] Meretrix 1000 x Prison Cell Wall
+00:56 [Error] Failed to call hook 'OnPlayerInput' on plugin 'Build v2.0.82' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.Build+PlayerBuild.Execute () [0x00079] in <502e9f00e8b94fbea8db454c51283ff7>:0 
+  at Oxide.Plugins.Build.OnPlayerInput (BasePlayer player, InputState state) [0x00105] in <502e9f00e8b94fbea8db454c51283ff7>:0 
+  at Oxide.Plugins.Build.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x000c2] in <502e9f00e8b94fbea8db454c51283ff7>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <9affce1cd15c4ec183941adef8db1722>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <4452f821def6406d834e4149849fe7ea>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <4452f821def6406d834e4149849fe7ea>:0 
+00:56 [Error] Failed to call hook 'OnPlayerInput' on plugin 'Build v2.0.82' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.Build+PlayerBuild.Execute () [0x00079] in <502e9f00e8b94fbea8db454c51283ff7>:0 
+  at Oxide.Plugins.Build.OnPlayerInput (BasePlayer player, InputState state) [0x00105] in <502e9f00e8b94fbea8db454c51283ff7>:0 
+  at Oxide.Plugins.Build.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x000c2] in <502e9f00e8b94fbea8db454c51283ff7>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <9affce1cd15c4ec183941adef8db1722>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <4452f821def6406d834e4149849fe7ea>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <4452f821def6406d834e4149849fe7ea>:0 
+00:57 [Info] [Give] Meretrix 1000 x High Quality Metal
+01:02 [Info] [Give] Meretrix 1 x High Quality Metal
+01:02 [Info] [Give] Meretrix 1 x High Quality Metal
+01:02 [Info] [Give] Meretrix 1 x High Quality Metal
+01:02 [Info] [Give] Meretrix 1000 x High Quality Metal
+01:02 [Info] [Give] Meretrix 1000 x High Quality Metal
+01:02 [Info] [Give] Meretrix 1000 x High Quality Metal
+01:02 [Info] [Give] Meretrix 1000 x High Quality Metal
+01:02 [Info] [Give] Meretrix 1000 x High Quality Metal
+01:18 [Info] [Give] Meretrix 1000 x Armored Double Door
+01:36 [Info] [Give] Meretrix 1 x Large Wood Box
+01:36 [Info] [Give] Meretrix 1 x Large Wood Box
+01:37 [Info] [Give] Meretrix 1 x Ladder Hatch
+01:52 [Info] [Give] Meretrix 1000 x Laser Detector
+01:52 [Info] [Give] Meretrix 1000 x Small Generator
+01:52 [Info] [Give] Meretrix 1000 x Electrical Branch
+01:53 [Info] [Give] Meretrix 1000 x Switch
+01:53 [Info] [Give] Meretrix 1000 x Timer
+01:53 [Info] [Give] Meretrix 1000 x Pressure Pad
+01:53 [Info] [Give] Meretrix 1 x Armored Door
+01:53 [Info] [Give] Meretrix 1 x Door Controller
+01:53 [Info] [Give] Meretrix 1 x Door Closer
+01:54 [Info] [Give] Meretrix 1 x Code Lock
+01:57 [Info] [Give] Meretrix 1 x Memory Cell
+02:30 [Info] [Give] Meretrix 100 x Low Grade Fuel
+02:40 [Info] [NoDecay] NoDecay.OnEntityTakeDamage took 538.5159 ms to execute.
+02:40 [Warning] Calling 'OnEntityTakeDamage' on 'NoDecay v1.0.32' took 539ms [GARBAGE COLLECT]
+07:53 [Info] [NTeleportation] Smaste teleported back to previous location.
+07:55 [Info] [NTeleportation] Smaste teleported back to previous location.
+07:56 [Info] [NTeleportation] Smaste teleported back to previous location.
+08:05 [Info] [NTeleportation] Smaste teleported back to previous location.
+08:23 [Info] [Death Notes] Smaste blew up the Bradley APC with their Timed Explosive Charge.
+08:33 [Info] [NTeleportation] Smaste teleported back to previous location.
+08:36 [Info] [NTeleportation] Smaste teleported back to previous location.
+08:57 [Info] [NTeleportation] Smaste teleported back to previous location.
+09:51 [Info] [NTeleportation] Smaste teleported back to previous location.
+10:17 [Info] [NTeleportation] Smaste teleported back to previous location.
+10:20 [Info] [NTeleportation] Smaste teleported back to previous location.
+11:05 [Info] [NTeleportation] Smaste teleported back to previous location.
+11:16 [Info] [NTeleportation] Smaste teleported back to previous location.
+11:24 [Info] [NTeleportation] Smaste teleported back to previous location.
+11:27 [Info] [NTeleportation] Smaste teleported back to previous location.
+11:28 [Info] [NTeleportation] Smaste teleported back to previous location.
+11:28 [Info] [NTeleportation] Smaste teleported back to previous location.
+13:41 [Info] [Give] Meretrix 1000 x Siren Light
+13:41 [Info] [Give] Meretrix 1000 x Electrical Branch
+13:51 [Warning] Calling 'OnPlayerInit' on 'RustIO v2.15.0' took 792ms
+14:23 [Info] [Give] Meretrix 1 x OR Switch
+14:28 [Info] [Give] Meretrix 1000 x AND Switch
+14:35 [Info] [NTeleportation] Smaste teleported back to previous location.
+14:48 [Info] [NTeleportation] Smaste teleported back to previous location.
+14:54 [Info] [NTeleportation] Smaste teleported back to previous location.
+14:59 [Info] [Death Notes] Smaste blew up the Bradley APC with their Timed Explosive Charge.
+15:08 [Info] [NTeleportation] Smaste teleported back to previous location.
+15:18 [Info] [Give] Meretrix 1000 x Concrete Barricade
+15:22 [Info] [Give] Meretrix 1 x Sandbag Barricade
+15:26 [Info] [Give] Meretrix 10 x Low Grade Fuel
+15:39 [Info] [NTeleportation] Smaste teleported back to previous location.
+15:43 [Info] [NTeleportation] Smaste teleported back to previous location.
+15:57 [Info] [NTeleportation] Smaste teleported back to previous location.
+16:03 [Info] [NTeleportation] Smaste teleported back to previous location.
+17:15 [Info] [NTeleportation] Smaste teleported back to previous location.
+17:19 [Info] [NTeleportation] Smaste teleported back to previous location.
+17:20 [Info] [Death Notes] Smaste did not did not follow the rules in a safezone and was killed by a Scientist Sentry.
+17:20 [Info] [NTeleportation] Smaste teleported back to previous location.
+17:21 [Info] [Death Notes] Smaste became just a touch too radioactive.
+17:37 [Info] [NTeleportation] Meretrix teleported Smaste to Meretrix.
+17:37 [Info] [NTeleportation] Smaste teleported back to previous location.
+17:43 [Warning] Calling 'cmdBuildSelect' on 'Build v2.0.82' took 583ms [GARBAGE COLLECT]
+17:43 [Error] Failed to call hook 'OnPlayerInput' on plugin 'Build v2.0.82' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.Build+PlayerBuild.Execute () [0x00079] in <502e9f00e8b94fbea8db454c51283ff7>:0 
+  at Oxide.Plugins.Build.OnPlayerInput (BasePlayer player, InputState state) [0x00105] in <502e9f00e8b94fbea8db454c51283ff7>:0 
+  at Oxide.Plugins.Build.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x000c2] in <502e9f00e8b94fbea8db454c51283ff7>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <9affce1cd15c4ec183941adef8db1722>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <4452f821def6406d834e4149849fe7ea>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <4452f821def6406d834e4149849fe7ea>:0 
+17:46 [Info] [NTeleportation] Meretrix teleported Meretrix to Smaste.
+17:47 [Info] [NTeleportation] Meretrix teleported Meretrix to Smaste.
+17:50 [Info] [Death Notes] Smaste blew up the Bradley APC with their Timed Explosive Charge.
+17:52 [Info] [NTeleportation] Smaste teleported back to previous location.
+17:53 [Info] [Give] Meretrix 1 x Candle Hat
+17:54 [Info] [Give] Meretrix 100 x Low Grade Fuel
+17:55 [Info] [Give] Meretrix 1 x Scientist Suit
+17:55 [Info] [NTeleportation] Smaste teleported back to previous location.
+17:55 [Info] [Give] Meretrix 1 x Dragon Mask
+17:57 [Info] [NTeleportation] Meretrix teleported Smaste to Meretrix.
+18:13 [Info] [Give] Meretrix 1 x M249
+18:13 [Info] [Give] Meretrix 1000 x Explosive 5.56 Rifle Ammo
+18:17 [Info] [Give] Meretrix 100 x Low Grade Fuel
+18:21 [Info] [Give] Meretrix 100 x Low Grade Fuel
+18:23 [Info] [Give] Meretrix 100 x Low Grade Fuel
+18:24 [Info] [Give] Meretrix 100 x Low Grade Fuel
+18:26 [Info] [Give] Meretrix 1000 x SAM Ammo
+18:35 [Info] [NTeleportation] Smaste teleported back to previous location.
+18:36 [Info] [Give] Meretrix 100 x Low Grade Fuel
+18:37 [Info] [NTeleportation] Smaste teleported back to previous location.
+18:39 [Error] Failed to call hook 'GiveCommand' on plugin 'Give v3.0.2' (FormatException: Input string was not in a correct format.)
+  at System.Number.StringToNumber (System.String str, System.Globalization.NumberStyles options, System.Number+NumberBuffer& number, System.Globalization.NumberFormatInfo info, System.Boolean parseDecimal) [0x00057] in <ac823e2bb42b41bda67924a45a0173c3>:0 
+  at System.Number.ParseInt32 (System.String s, System.Globalization.NumberStyles style, System.Globalization.NumberFormatInfo info) [0x00013] in <ac823e2bb42b41bda67924a45a0173c3>:0 
+  at System.Int32.Parse (System.String s, System.IFormatProvider provider) [0x00008] in <ac823e2bb42b41bda67924a45a0173c3>:0 
+  at System.Convert.ToInt32 (System.String value) [0x0000b] in <ac823e2bb42b41bda67924a45a0173c3>:0 
+  at Oxide.Plugins.Give.GiveCommand (Oxide.Core.Libraries.Covalence.IPlayer player, System.String command, System.String[] args) [0x00050] in <502e9f00e8b94fbea8db454c51283ff7>:0 
+  at Oxide.Plugins.Give.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00255] in <502e9f00e8b94fbea8db454c51283ff7>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <9affce1cd15c4ec183941adef8db1722>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <4452f821def6406d834e4149849fe7ea>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <4452f821def6406d834e4149849fe7ea>:0 
+18:40 [Info] [Give] Meretrix 1000 x Low Grade Fuel
+18:50 [Info] [Give] Meretrix 1000 x Metal Fragments
+18:50 [Info] [Give] Meretrix 1000 x Metal Fragments
+18:50 [Info] [Give] Meretrix 1000 x Metal Fragments
+18:50 [Info] [Give] Meretrix 1000 x Metal Fragments
+18:50 [Info] [Give] Meretrix 1000 x Metal Fragments
+18:51 [Info] [NTeleportation] Smaste teleported back to previous location.
+18:54 [Info] [NTeleportation] Smaste teleported back to previous location.
+18:59 [Info] [Give] Meretrix 100 x High Quality Metal
+19:02 [Info] [Give] Meretrix 1000 x Low Grade Fuel
+19:04 [Info] [Give] Meretrix 1 x Jackhammer
+19:09 [Warning] Calling 'OnPlayerInput' on 'Build v2.0.82' took 1115ms
+19:09 [Warning] Calling 'OnPlayerInput' on 'Build v2.0.82' took 1126ms
+19:09 [Warning] Calling 'OnPlayerInput' on 'Build v2.0.82' took 1092ms
+19:09 [Warning] Calling 'OnPlayerInput' on 'Build v2.0.82' took 1154ms
+19:09 [Warning] Calling 'OnPlayerInput' on 'Build v2.0.82' took 1086ms
+19:09 [Warning] Calling 'OnPlayerInput' on 'Build v2.0.82' took average 4493ms
+19:09 [Warning] Calling 'OnPlayerInput' on 'Build v2.0.82' took 1042ms
+19:09 [Warning] Calling 'OnPlayerInput' on 'Build v2.0.82' took 1096ms
+19:09 [Warning] Calling 'OnPlayerInput' on 'Build v2.0.82' took 1100ms
+19:09 [Warning] Calling 'OnPlayerInput' on 'Build v2.0.82' took 1075ms
+19:09 [Warning] Calling 'OnPlayerInput' on 'Build v2.0.82' took 1071ms
+19:09 [Warning] Calling 'OnPlayerInput' on 'Build v2.0.82' took 1119ms
+19:09 [Warning] Calling 'OnPlayerInput' on 'Build v2.0.82' took 1172ms
+19:09 [Warning] Calling 'OnPlayerInput' on 'Build v2.0.82' took 1116ms
+19:09 [Warning] Calling 'OnPlayerInput' on 'Build v2.0.82' took 1123ms
+19:09 [Warning] Calling 'OnPlayerInput' on 'Build v2.0.82' took average 8791ms
+19:09 [Warning] Calling 'OnPlayerInput' on 'Build v2.0.82' took 1110ms
+19:09 [Warning] Calling 'OnPlayerInput' on 'Build v2.0.82' took 1087ms
+19:09 [Warning] Calling 'OnPlayerInput' on 'Build v2.0.82' took 1130ms
+19:09 [Warning] Calling 'OnPlayerInput' on 'Build v2.0.82' took 1103ms
+19:09 [Warning] Calling 'OnPlayerInput' on 'Build v2.0.82' took 1157ms
+19:09 [Warning] Calling 'OnPlayerInput' on 'Build v2.0.82' took 1129ms
+19:09 [Warning] Calling 'OnPlayerInput' on 'Build v2.0.82' took 1194ms
+19:09 [Warning] Calling 'OnPlayerInput' on 'Build v2.0.82' took 1189ms
+19:14 [Warning] Calling 'OnPlayerInput' on 'Build v2.0.82' took 1211ms
+19:14 [Warning] Calling 'OnPlayerInput' on 'Build v2.0.82' took 1176ms
+19:14 [Warning] Calling 'OnPlayerInput' on 'Build v2.0.82' took average 2392ms
+19:22 [Info] [Give] Meretrix 100 x Wood
+19:22 [Info] [Give] Meretrix 100 x Wood
+19:22 [Info] [Give] Meretrix 1000 x Wood
+19:22 [Info] [Give] Meretrix 1000 x Wood
+19:22 [Info] [Give] Meretrix 1000 x Wood
+19:23 [Info] [Give] Meretrix 1000 x Metal Fragments
+19:27 [Info] [NTeleportation] Smaste teleported back to previous location.
+19:28 [Info] [NTeleportation] Meretrix teleported Smaste to Meretrix.
+19:29 [Info] [Give] Meretrix 1000 x Low Grade Fuel
+19:29 [Info] [Give] Meretrix 1000 x Incendiary Rocket
+19:30 [Info] [Give] Meretrix 1 x Rocket Launcher
+19:30 [Info] [Give] Meretrix 1 x Rocket Launcher
+19:31 [Info] [Give] Meretrix 1000 x Low Grade Fuel
+19:31 [Info] [Give] Meretrix 1000 x Low Grade Fuel
+19:31 [Info] [Give] Meretrix 1000 x Low Grade Fuel
+19:31 [Info] [Give] Meretrix 1000 x Low Grade Fuel
+19:32 [Info] [Give] Meretrix 1000 x Low Grade Fuel
+19:39 [Info] [Give] Meretrix 1 x Diving Mask
+19:40 [Info] [Give] Meretrix 1 x Diving Tank
+19:40 [Info] [Give] Meretrix 1 x Diving Fins
+19:40 [Info] [Give] Meretrix 1 x Wetsuit
+19:41 [Info] [Give] Meretrix 1 x Large Wood Box
+19:41 [Info] [Give] Meretrix 1 x Large Wood Box
+19:42 [Info] [Give] Meretrix 1 x Bed
+19:42 [Info] [Give] Meretrix 1000 x High Velocity Rocket
+19:42 [Info] [Give] Meretrix 1000 x Rocket
+19:42 [Info] [Give] Meretrix 1000 x Smoke Rocket WIP!!!!
+19:42 [Info] [Give] Meretrix 1000 x 40mm Smoke Grenade
+19:42 [Info] [Give] Meretrix 1000 x 40mm Shotgun Round
+19:42 [Info] [Give] Meretrix 1000 x 40mm HE Grenade
+19:42 [Info] [Give] Meretrix 1 x Multiple Grenade Launcher
+19:42 [Info] [Give] Meretrix 1 x Multiple Grenade Launcher
+19:43 [Info] [Give] Meretrix 1000 x 40mm HE Grenade
+19:44 [Info] [Give] Meretrix 1000 x Low Grade Fuel
+19:44 [Info] [Give] Meretrix 1000 x Low Grade Fuel
+19:46 [Info] [Give] Meretrix 1000 x Low Grade Fuel
+19:46 [Info] [Give] Meretrix 1 x Diving Mask
+19:47 [Info] [Give] Meretrix 1000 x Low Grade Fuel
+19:48 [Error] Failed to call hook 'OnPlayerInput' on plugin 'Build v2.0.82' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.Build+PlayerBuild.Execute () [0x00079] in <502e9f00e8b94fbea8db454c51283ff7>:0 
+  at Oxide.Plugins.Build.OnPlayerInput (BasePlayer player, InputState state) [0x00105] in <502e9f00e8b94fbea8db454c51283ff7>:0 
+  at Oxide.Plugins.Build.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x000c2] in <502e9f00e8b94fbea8db454c51283ff7>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <9affce1cd15c4ec183941adef8db1722>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <4452f821def6406d834e4149849fe7ea>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <4452f821def6406d834e4149849fe7ea>:0 
+19:48 [Error] Failed to call hook 'OnPlayerInput' on plugin 'Build v2.0.82' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.Build+PlayerBuild.Execute () [0x00079] in <502e9f00e8b94fbea8db454c51283ff7>:0 
+  at Oxide.Plugins.Build.OnPlayerInput (BasePlayer player, InputState state) [0x00105] in <502e9f00e8b94fbea8db454c51283ff7>:0 
+  at Oxide.Plugins.Build.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x000c2] in <502e9f00e8b94fbea8db454c51283ff7>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <9affce1cd15c4ec183941adef8db1722>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <4452f821def6406d834e4149849fe7ea>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <4452f821def6406d834e4149849fe7ea>:0 
+19:48 [Error] Failed to call hook 'OnPlayerInput' on plugin 'Build v2.0.82' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.Build+PlayerBuild.Execute () [0x00079] in <502e9f00e8b94fbea8db454c51283ff7>:0 
+  at Oxide.Plugins.Build.OnPlayerInput (BasePlayer player, InputState state) [0x00105] in <502e9f00e8b94fbea8db454c51283ff7>:0 
+  at Oxide.Plugins.Build.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x000c2] in <502e9f00e8b94fbea8db454c51283ff7>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <9affce1cd15c4ec183941adef8db1722>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <4452f821def6406d834e4149849fe7ea>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <4452f821def6406d834e4149849fe7ea>:0 
+19:48 [Error] Failed to call hook 'OnPlayerInput' on plugin 'Build v2.0.82' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.Build+PlayerBuild.Execute () [0x00079] in <502e9f00e8b94fbea8db454c51283ff7>:0 
+  at Oxide.Plugins.Build.OnPlayerInput (BasePlayer player, InputState state) [0x00105] in <502e9f00e8b94fbea8db454c51283ff7>:0 
+  at Oxide.Plugins.Build.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x000c2] in <502e9f00e8b94fbea8db454c51283ff7>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <9affce1cd15c4ec183941adef8db1722>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <4452f821def6406d834e4149849fe7ea>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <4452f821def6406d834e4149849fe7ea>:0 
+19:48 [Error] Failed to call hook 'OnPlayerInput' on plugin 'Build v2.0.82' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.Build+PlayerBuild.Execute () [0x00079] in <502e9f00e8b94fbea8db454c51283ff7>:0 
+  at Oxide.Plugins.Build.OnPlayerInput (BasePlayer player, InputState state) [0x00105] in <502e9f00e8b94fbea8db454c51283ff7>:0 
+  at Oxide.Plugins.Build.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x000c2] in <502e9f00e8b94fbea8db454c51283ff7>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <9affce1cd15c4ec183941adef8db1722>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <4452f821def6406d834e4149849fe7ea>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <4452f821def6406d834e4149849fe7ea>:0 
+19:49 [Error] Failed to call hook 'OnPlayerInput' on plugin 'Build v2.0.82' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.Build+PlayerBuild.Execute () [0x00079] in <502e9f00e8b94fbea8db454c51283ff7>:0 
+  at Oxide.Plugins.Build.OnPlayerInput (BasePlayer player, InputState state) [0x00105] in <502e9f00e8b94fbea8db454c51283ff7>:0 
+  at Oxide.Plugins.Build.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x000c2] in <502e9f00e8b94fbea8db454c51283ff7>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <9affce1cd15c4ec183941adef8db1722>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <4452f821def6406d834e4149849fe7ea>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <4452f821def6406d834e4149849fe7ea>:0 
+19:49 [Info] [Give] Meretrix 1000 x Low Grade Fuel
+19:52 [Info] [Give] Meretrix 1000 x Low Grade Fuel
+19:52 [Info] [Give] Meretrix 1 x Low Grade Fuel
+19:52 [Info] [Give] Meretrix 1000 x Low Grade Fuel
+19:53 [Info] [Give] Meretrix 1000 x Low Grade Fuel
+20:06 [Info] [Give] Meretrix 1000 x Beancan Grenade
+20:07 [Info] [Give] Meretrix 1 x LR-300 Assault Rifle
+20:07 [Info] [Give] Meretrix 1000 x Explosive 5.56 Rifle Ammo
+20:08 [Info] [Give] Meretrix 1 x Scientist Suit
+20:10 [Info] [NTeleportation] Smaste teleported back to previous location.
+20:11 [Info] [NTeleportation] Meretrix teleported to Smaste.
+20:12 [Info] [NTeleportation] Meretrix teleported Smaste to Meretrix.
+20:13 [Info] [Give] Meretrix 1000 x Low Grade Fuel
+20:17 [Info] [Death Notes] Smaste blew up the Bradley APC with their Rocket.
+20:18 [Info] [Give] Meretrix 100 x F1 Grenade
+20:22 [Info] [Death Notes] Smaste was uncautious and ran into a Landmine.
+20:22 [Info] [NTeleportation] Meretrix teleported Smaste to Meretrix.
+20:24 [Warning] 
+20:24 [Warning]   at (wrapper managed-to-native) UnityEngine.GameObject.GetComponentInParent(UnityEngine.GameObject,System.Type)
+  at UnityEngine.GameObject.GetComponentInParent[T] () [0x00001] in <945c24c342914372bc599495ca1ade0d>:0 
+  at Oxide.Plugins.Build.cmdBuildSelect (ConsoleSystem+Arg arg) [0x00753] in <502e9f00e8b94fbea8db454c51283ff7>:0 
+20:24 [Warning] 
+20:24 [Warning]   at (wrapper managed-to-native) UnityEngine.GameObject.GetComponentInParent(UnityEngine.GameObject,System.Type)
+  at UnityEngine.GameObject.GetComponentInParent[T] () [0x00001] in <945c24c342914372bc599495ca1ade0d>:0 
+  at Oxide.Plugins.Build.cmdBuildSelect (ConsoleSystem+Arg arg) [0x00753] in <502e9f00e8b94fbea8db454c51283ff7>:0 
+20:24 [Warning] 
+20:24 [Warning]   at (wrapper managed-to-native) UnityEngine.GameObject.GetComponentInParent(UnityEngine.GameObject,System.Type)
+  at UnityEngine.GameObject.GetComponentInParent[T] () [0x00001] in <945c24c342914372bc599495ca1ade0d>:0 
+  at Oxide.Plugins.Build.cmdBuildSelect (ConsoleSystem+Arg arg) [0x00753] in <502e9f00e8b94fbea8db454c51283ff7>:0 
+20:24 [Warning] 
+20:24 [Warning]   at (wrapper managed-to-native) UnityEngine.GameObject.GetComponentInParent(UnityEngine.GameObject,System.Type)
+  at UnityEngine.GameObject.GetComponentInParent[T] () [0x00001] in <945c24c342914372bc599495ca1ade0d>:0 
+  at Oxide.Plugins.Build.cmdBuildSelect (ConsoleSystem+Arg arg) [0x00753] in <502e9f00e8b94fbea8db454c51283ff7>:0 
+20:24 [Warning] 
+20:24 [Warning]   at (wrapper managed-to-native) UnityEngine.GameObject.GetComponentInParent(UnityEngine.GameObject,System.Type)
+  at UnityEngine.GameObject.GetComponentInParent[T] () [0x00001] in <945c24c342914372bc599495ca1ade0d>:0 
+  at Oxide.Plugins.Build.cmdBuildSelect (ConsoleSystem+Arg arg) [0x00753] in <502e9f00e8b94fbea8db454c51283ff7>:0 
+20:24 [Warning] 
+20:24 [Warning]   at (wrapper managed-to-native) UnityEngine.GameObject.GetComponentInParent(UnityEngine.GameObject,System.Type)
+  at UnityEngine.GameObject.GetComponentInParent[T] () [0x00001] in <945c24c342914372bc599495ca1ade0d>:0 
+  at Oxide.Plugins.Build.cmdBuildSelect (ConsoleSystem+Arg arg) [0x00753] in <502e9f00e8b94fbea8db454c51283ff7>:0 
+20:24 [Warning] 
+20:24 [Warning]   at (wrapper managed-to-native) UnityEngine.GameObject.GetComponentInParent(UnityEngine.GameObject,System.Type)
+  at UnityEngine.GameObject.GetComponentInParent[T] () [0x00001] in <945c24c342914372bc599495ca1ade0d>:0 
+  at Oxide.Plugins.Build.cmdBuildSelect (ConsoleSystem+Arg arg) [0x00753] in <502e9f00e8b94fbea8db454c51283ff7>:0 
+20:24 [Warning] 
+20:24 [Warning]   at (wrapper managed-to-native) UnityEngine.GameObject.GetComponentInParent(UnityEngine.GameObject,System.Type)
+  at UnityEngine.GameObject.GetComponentInParent[T] () [0x00001] in <945c24c342914372bc599495ca1ade0d>:0 
+  at Oxide.Plugins.Build.cmdBuildSelect (ConsoleSystem+Arg arg) [0x00753] in <502e9f00e8b94fbea8db454c51283ff7>:0 
+20:25 [Warning] 
+20:25 [Warning]   at (wrapper managed-to-native) UnityEngine.GameObject.GetComponentInParent(UnityEngine.GameObject,System.Type)
+  at UnityEngine.GameObject.GetComponentInParent[T] () [0x00001] in <945c24c342914372bc599495ca1ade0d>:0 
+  at Oxide.Plugins.Build.cmdBuildSelect (ConsoleSystem+Arg arg) [0x00753] in <502e9f00e8b94fbea8db454c51283ff7>:0 
+20:26 [Info] [Death Notes] Smaste was uncautious and ran into a Landmine.
+20:27 [Info] [NTeleportation] Meretrix teleported Smaste to Meretrix.
+20:27 [Info] [Give] Meretrix 1000 x Low Grade Fuel
+20:35 [Info] [Give] Meretrix 1000 x Low Grade Fuel
+20:35 [Info] [Give] Meretrix 1 x M249
+20:36 [Info] [Give] Meretrix 1000 x Explosive 5.56 Rifle Ammo
+20:36 [Info] [NTeleportation] Smaste teleported back to previous location.
+20:44 [Info] [Death Notes] Meretrix killed a Boar using their 40mm_grenade_he.
+20:45 [Error] Failed to call hook 'OnPlayerInput' on plugin 'Build v2.0.82' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.Build+PlayerBuild.Execute () [0x00079] in <502e9f00e8b94fbea8db454c51283ff7>:0 
+  at Oxide.Plugins.Build.OnPlayerInput (BasePlayer player, InputState state) [0x00105] in <502e9f00e8b94fbea8db454c51283ff7>:0 
+  at Oxide.Plugins.Build.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x000c2] in <502e9f00e8b94fbea8db454c51283ff7>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <9affce1cd15c4ec183941adef8db1722>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <4452f821def6406d834e4149849fe7ea>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <4452f821def6406d834e4149849fe7ea>:0 
+20:47 [Info] [Give] Meretrix 1 x Spas-12 Shotgun
+20:47 [Info] [Give] Meretrix 1000 x 12 Gauge Buckshot
+20:53 [Info] [Death Notes] Smaste killed Smaste using their Rocket.
+20:54 [Info] [NTeleportation] Meretrix teleported Smaste to Meretrix.
+20:54 [Info] [Give] Meretrix 1000 x Timed Explosive Charge
+20:55 [Info] [Give] Meretrix 1000 x Timed Explosive Charge
+20:59 [Info] [Death Notes] Smaste killed Smaste using their Timed Explosive Charge.
+21:00 [Info] [NTeleportation] Meretrix teleported Smaste to Meretrix.
+21:04 [Info] [Death Notes] Smaste killed Smaste using their Timed Explosive Charge.
+21:05 [Info] [NTeleportation] Meretrix teleported Smaste to Meretrix.
+21:09 [Info] [Give] Meretrix 1000 x Satchel Charge
+21:09 [Info] [Give] Meretrix 1000 x Timed Explosive Charge
+21:09 [Info] [Death Notes] Smaste killed Smaste using their 40mm_grenade_he.
+21:10 [Info] [NTeleportation] Meretrix teleported Smaste to Meretrix.
+21:18 [Info] [Death Notes] Smaste was uncautious and ran into a Landmine.
+21:18 [Info] [NTeleportation] Meretrix teleported Smaste to Meretrix.
+21:19 [Info] [Death Notes] Smaste was uncautious and ran into a Landmine.
+21:20 [Info] [NTeleportation] Meretrix teleported Smaste to Meretrix.
+21:21 [Info] [Death Notes] Smaste killed Smaste using their Rocket.
+21:23 [Info] [NTeleportation] Meretrix teleported Smaste to Meretrix.
+21:29 [Info] [Death Notes] Smaste had no chance against the Helicopter.
+21:30 [Info] [NTeleportation] Meretrix teleported [God] Smaste to Meretrix.
+21:33 [Info] [Death Notes] The Helicopter was finally shot down.
+21:33 [Info] [Death Notes] [God] Smaste burned to death.
+21:36 [Info] [NTeleportation] Meretrix teleported [God] Smaste to Meretrix.
+21:37 [Info] [Death Notes] [God] Smaste blew up the Bradley APC with their Timed Explosive Charge.
+21:38 [Info] [Death Notes] [God] Smaste blew up the Bradley APC with their Timed Explosive Charge.
+21:38 [Info] [Death Notes] [God] Smaste blew up the Bradley APC with their Timed Explosive Charge.
+21:39 [Info] [Death Notes] [God] Smaste blew up the Bradley APC with their Timed Explosive Charge.
+21:39 [Info] [Death Notes] [God] Smaste blew up the Bradley APC with their Timed Explosive Charge.
+21:39 [Info] [Death Notes] [God] Smaste blew up the Bradley APC with their Timed Explosive Charge.
+21:39 [Info] [Death Notes] [God] Smaste blew up the Bradley APC with their Timed Explosive Charge.
+21:39 [Info] [Death Notes] [God] Smaste blew up the Bradley APC with their Timed Explosive Charge.
+21:39 [Info] [Death Notes] [God] Smaste blew up the Bradley APC with their Timed Explosive Charge.
+21:39 [Info] [Death Notes] [God] Smaste blew up the Bradley APC with their Timed Explosive Charge.
+21:40 [Info] [Death Notes] Meretrix blew up the Bradley APC with their Timed Explosive Charge.
+21:40 [Info] [Death Notes] Meretrix blew up the Bradley APC with their Timed Explosive Charge.
+21:40 [Info] [Death Notes] Meretrix blew up the Bradley APC with their Timed Explosive Charge.
+21:40 [Info] [Death Notes] Meretrix blew up the Bradley APC with their Timed Explosive Charge.
+21:40 [Info] [Death Notes] [God] Smaste blew up the Bradley APC with their Timed Explosive Charge.
+21:40 [Info] [Death Notes] Meretrix blew up the Bradley APC with their Timed Explosive Charge.
+21:40 [Info] [Death Notes] Meretrix blew up the Bradley APC with their Timed Explosive Charge.
+21:40 [Info] [Death Notes] Meretrix blew up the Bradley APC with their Timed Explosive Charge.
+21:40 [Info] [Death Notes] Meretrix blew up the Bradley APC with their Timed Explosive Charge.
+21:40 [Info] [Death Notes] Meretrix blew up the Bradley APC with their Timed Explosive Charge.
+21:41 [Info] [Death Notes] Meretrix blew up the Bradley APC with their Timed Explosive Charge.
+21:41 [Info] [Death Notes] Meretrix blew up the Bradley APC with their Timed Explosive Charge.
+21:41 [Info] [Death Notes] Meretrix blew up the Bradley APC with their Timed Explosive Charge.
+21:41 [Warning] Calling 'OnEntityTakeDamage' on 'ZLevelsRemastered v2.9.5' took 602ms [GARBAGE COLLECT]
+21:42 [Info] [NTeleportation] [God] Smaste teleported back to previous location.
+22:02 [Info] [NTeleportation] Smaste teleported back to previous location.
+22:03 [Info] [NTeleportation] Smaste teleported back to previous location.
+22:05 [Info] [NTeleportation] Smaste teleported back to previous location.
+22:06 [Info] [NTeleportation] Smaste teleported back to previous location.
+22:07 [Info] [NTeleportation] Smaste teleported back to previous location.
+22:19 [Info] [Death Notes] Meretrix blew up the Bradley APC with their Timed Explosive Charge.
+22:19 [Info] [Death Notes] Meretrix blew up the Bradley APC with their Timed Explosive Charge.
+22:19 [Info] [Death Notes] Meretrix blew up the Bradley APC with their Timed Explosive Charge.
+22:19 [Info] [Death Notes] Meretrix blew up the Bradley APC with their Timed Explosive Charge.
+22:20 [Info] [Give] Meretrix 1 x Jackhammer
+22:20 [Info] [Give] Meretrix 1 x Jackhammer
+22:20 [Info] [Give] Meretrix 1 x Jackhammer
+22:21 [Info] [Death Notes] Smaste blew up the Bradley APC with their Timed Explosive Charge.
+22:21 [Info] [Death Notes] Smaste blew up the Bradley APC with their Timed Explosive Charge.
+22:21 [Info] [Death Notes] Smaste blew up the Bradley APC with their Timed Explosive Charge.
+22:25 [Warning] Calling 'OnEntityTakeDamage' on 'ZLevelsRemastered v2.9.5' took 621ms [GARBAGE COLLECT]
+22:28 [Info] [NTeleportation] Meretrix teleported Smaste to Meretrix.
+22:31 [Info] [Give] Meretrix 1 x Python Revolver
+22:31 [Info] [Give] Meretrix 1000 x Pistol Bullet
+22:36 [Info] [Give] Meretrix 1 x Compound Bow
+22:36 [Info] [Give] Meretrix 1000 x Fire Arrow
+22:40 [Info] [Give] Meretrix 1000 x Pistol Bullet
+22:42 [Info] [Give] Meretrix 1 x Crossbow
+22:42 [Info] [Give] Meretrix 1 x Weapon Lasersight
+22:43 [Info] [Give] Meretrix 1 x Weapon Lasersight
+22:43 [Info] [Give] Meretrix 1 x Weapon Lasersight
+22:46 [Info] [Death Notes] Meretrix inflamed Smaste with their .
+22:47 [Info] [NTeleportation] Meretrix teleported Smaste to Meretrix.
+22:49 [Info] [Death Notes] Smaste shot Meretrix using their Python Revolver over a distance of 1.7 meters.
+22:49 [Info] [NTeleportation] Meretrix teleported Meretrix to Smaste.
+22:50 [Info] [Give] Meretrix 1 x M39 Rifle
+22:50 [Info] [Give] Meretrix 1 x M39 Rifle
+22:50 [Info] [Give] Meretrix 1000 x HV 5.56 Rifle Ammo
+22:50 [Info] [Death Notes] Smaste killed Meretrix using their 40mm_grenade_he.
+22:50 [Info] [NTeleportation] Smaste teleported back to previous location.
+22:51 [Info] [Death Notes] Meretrix had enough of life.
+22:51 [Info] [NTeleportation] Meretrix teleported Meretrix to Smaste.
+22:52 [Info] [Give] Meretrix 1 x Riot Helmet
+22:52 [Info] [Give] Meretrix 1 x Heavy Plate Jacket
+22:52 [Info] [Give] Meretrix 1 x Heavy Plate Pants
+22:52 [Info] [Give] Meretrix 1 x Heavy Plate Helmet
+22:53 [Info] [Give] Meretrix 1 x M249
+22:53 [Info] [Give] Meretrix 1000 x Explosive 5.56 Rifle Ammo
+22:55 [Info] [Death Notes] Meretrix turned into an ice statue.
+22:56 [Info] [NTeleportation] [God] Meretrix teleported [God] Meretrix to Smaste.
+22:58 [Info] [NTeleportation] [God] Meretrix teleported Smaste to [God] Meretrix.
+22:58 [Info] [Give] [God] Meretrix 1 x Heavy Scientist Suit
+22:58 [Info] [Give] [God] Meretrix 1 x Scientist Suit
+23:02 [Info] [Give] [God] Meretrix 1 x Heavy Scientist Suit
+23:03 [Info] [Give] [God] Meretrix 1 x Python Revolver
+23:14 [Info] [Give] [God] Meretrix 1 x Compound Bow
+23:14 [Info] [Give] [God] Meretrix 1000 x Fire Arrow
+23:15 [Info] [Give] [God] Meretrix 1000 x Pistol Bullet
+23:20 [Info] [Give] [God] Meretrix 1 x Wire Tool
+23:22 [Info] [Give] [God] Meretrix 1 x Hammer
+23:26 [Info] [Give] [God] Meretrix 500 x Low Grade Fuel
+23:33 [Info] [Give] [God] Meretrix 1 x Torch
+23:40 [Info] [Give] [God] Meretrix 100 x Simple Light
+23:42 [Info] [Give] [God] Meretrix 1000 x Medical Syringe
+23:52 [Info] [Death Notes] Smaste shot Meretrix using their Python Revolver over a distance of 3.9 meters.
+23:52 [Info] [NTeleportation] Meretrix teleported Meretrix to Smaste.
+23:55 [Info] [Death Notes] Smaste shot Meretrix using their Python Revolver over a distance of 0.8 meters.

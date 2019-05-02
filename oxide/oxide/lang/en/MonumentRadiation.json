@@ -1,0 +1,14 @@
+{
+  "InfoToConsole": "<color=#B6B6B6>Check your ingame console for more information!</color>",
+  "Title": "<color=#B6B6B6><color=#ce422b>Monument Radiation</color> : </color>",
+  "NoRadiationZones": "<color=#B6B6B6>There are no radiation zones setup</color>",
+  "Minutes": "minutes",
+  "Seconds": "seconds",
+  "RadiationDownIn": "<color=#B6B6B6>Monument radiation levels will be down in <color=#00FF00>{0} {1}</color>!</color>",
+  "RadiationUpIn": "<color=#B6B6B6>Monument radiation levels will be back up in <color=#00FF00>{0} {1}</color>!</color>",
+  "RadiationEnabled": "<color=#B6B6B6>Monument radiation levels are back up for <color=#00FF00>{0} minutes</color>!</color>",
+  "RadiationDisabled": "<color=#B6B6B6>Monument radiation levels are down for <color=#00FF00>{0} minutes</color>!</color>",
+  "EnterRadiation": "<color=#ce422b>WARNING: </color><color=#B6B6B6>You are entering a irradiated area!</color>",
+  "LeaveRadiation": "<color=#ce422b>CAUTION: </color><color=#B6B6B6>You are leaving a irradiated area! </color>",
+  "NoPermission": "<color=#B6B6B6>You have insufficient permission to use this command</color>"
+}

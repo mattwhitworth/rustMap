@@ -1,0 +1,153 @@
+12:13 [Info] Loading Oxide Core v2.0.3867...
+12:13 [Info] Loading extensions...
+12:13 [Info] Latest compiler MD5: 5fbca0bf39b1c09ddf2fb3686b869242
+12:13 [Info] Local compiler MD5: 0
+12:13 [Info] Compiler hashes did not match, downloading latest
+12:13 [Info] Downloading Compiler.exe for .cs (C#) plugin compilation
+12:13 [Info] Local hash did not match remote hash for Compiler.exe, attempting download again
+12:13 [Info] Latest compiler MD5: 5fbca0bf39b1c09ddf2fb3686b869242
+12:13 [Info] Local compiler MD5: 5fbca0bf39b1c09ddf2fb3686b869242
+12:13 [Info] Loaded extension CSharp v2.0.4000 by Oxide and Contributors
+12:13 [Info] Loaded extension Rust:IO for Oxide v2.15.0 by playrust.io / dcode
+12:13 [Info] Loaded extension MySql v2.0.3755 by Oxide and Contributors
+12:13 [Info] Loaded extension Rust v2.0.4185 by Oxide and Contributors
+12:13 [Info] Loaded extension SQLite v2.0.3754 by Oxide and Contributors
+12:13 [Info] Loaded extension Unity v2.0.3756 by Oxide and Contributors
+12:13 [Info] Using Covalence provider for game 'Rust'
+12:13 [Info] Loading plugins...
+12:13 [Info] Loaded plugin Rust v2.0.4185 by Oxide and Contributors
+12:13 [Info] Loaded plugin Unity v2.0.3756 by Oxide and Contributors
+12:13 [Info] Loaded plugin Rust:IO for Oxide v2.15.0 by playrust.io / dcode
+12:24 [Info] Loading Oxide Core v2.0.3867...
+12:24 [Info] Loading extensions...
+12:24 [Info] Latest compiler MD5: 5fbca0bf39b1c09ddf2fb3686b869242
+12:24 [Info] Local compiler MD5: 5fbca0bf39b1c09ddf2fb3686b869242
+12:24 [Info] Loaded extension CSharp v2.0.4000 by Oxide and Contributors
+12:24 [Info] Loaded extension Rust:IO for Oxide v2.15.0 by playrust.io / dcode
+12:24 [Info] Loaded extension MySql v2.0.3755 by Oxide and Contributors
+12:24 [Info] Loaded extension Rust v2.0.4185 by Oxide and Contributors
+12:24 [Info] Loaded extension SQLite v2.0.3754 by Oxide and Contributors
+12:24 [Info] Loaded extension Unity v2.0.3756 by Oxide and Contributors
+12:24 [Info] Using Covalence provider for game 'Rust'
+12:24 [Info] Loading plugins...
+12:24 [Info] Loaded plugin Rust v2.0.4185 by Oxide and Contributors
+12:24 [Info] Loaded plugin Unity v2.0.3756 by Oxide and Contributors
+12:24 [Info] Loaded plugin Rust:IO for Oxide v2.15.0 by playrust.io / dcode
+12:24 [Info] DeathNotes was compiled successfully in 2682ms
+12:24 [Warning] [Death Notes] Generating new configuration file...
+12:24 [Info] Loaded plugin Death Notes v6.2.0 by LaserHydra
+12:27 [Info] IP address from command-line: 172.96.165.106
+12:27 [Info] Updating Rust:IO ...
+12:27 [Info] Rust:IO: Update complete
+12:27 [Info] Installing Rust:IO ...
+12:27 [Info] Rust:IO> Setting up Rust:IO 2.3.6854.11652 ...
+12:27 [Info] Rust:IO> Creating directories ...
+12:27 [Info] Rust:IO> Applying config ...
+12:27 [Info] Rust:IO> Initializing database ...
+12:27 [Info] Rust:IO> Generating map image (this may take a while) ...
+12:27 [Info] Rust:IO> Generation complete
+--------- Summary --------
+Render       :  3721.285ms
+Postprocess  :  6170.059ms
+  Shadows    :   284.288ms
+  FXAA       :  5849.416ms
+Encoding     :    51.823ms
+Other        :    20.844ms
+--------------------------
+Total        :  9964.010ms
+12:27 [Info] Rust:IO> Starting HTTP server on 172.96.165.106:28435 ...
+12:27 [Info] Rust:IO> Installed.
+12:27 [Info] Rust:IO> Now ticking
+12:27 [Warning] Calling 'OnTick' on 'RustIO v2.15.0' took 10331ms [GARBAGE COLLECT]
+12:27 [Warning] Calling 'OnTick' on 'RustIO v2.15.0' took average 0ms [GARBAGE COLLECT]
+12:27 [Info] Rust:IO> External IP address obtained from lookup: 172.96.165.106
+12:41 [Info] [Death Notes] jokerswildj couldn't run away from the Boar.
+13:33 [Info] [Death Notes] jokerswildj turned into an ice statue.
+16:31 [Info] [Death Notes] Smaste shot a Wolf using their Semi-Automatic Pistol over a distance of 1.9 meters.
+16:47 [Info] [Death Notes] Smaste killed a Wolf using their Chainsaw.
+17:37 [Info] [Death Notes] Smaste shot a Wolf using their Custom SMG over a distance of 1.7 meters.
+17:46 [Info] [Death Notes] Smaste shot a Wolf using their Custom SMG over a distance of 2.7 meters.
+18:04 [Info] [Death Notes] Smaste did not want to be a part of the Scientist's experiments.
+18:18 [Info] [Death Notes] Smaste did not want to be a part of the Scientist's experiments.
+18:43 [Info] [Death Notes] Smaste did not want to be a part of the Scientist's experiments.
+20:11 [Info] [Death Notes] Smaste did not want to be a part of the Scientist's experiments.
+20:11 [Info] [Death Notes] Smaste shot a Bear using their Double Barrel Shotgun over a distance of 10.1 meters.
+20:35 [Info] Loading Oxide Core v2.0.3867...
+20:35 [Info] Loading extensions...
+20:36 [Info] Loading Oxide Core v2.0.3867...
+20:36 [Info] Loading extensions...
+20:36 [Info] Latest compiler MD5: 5fbca0bf39b1c09ddf2fb3686b869242
+20:36 [Info] Local compiler MD5: 5fbca0bf39b1c09ddf2fb3686b869242
+20:36 [Info] Loaded extension CSharp v2.0.4000 by Oxide and Contributors
+20:36 [Info] Loaded extension Rust:IO for Oxide v2.15.0 by playrust.io / dcode
+20:36 [Info] Loaded extension MySql v2.0.3755 by Oxide and Contributors
+20:36 [Info] Loaded extension Rust v2.0.4185 by Oxide and Contributors
+20:36 [Info] Loaded extension SQLite v2.0.3754 by Oxide and Contributors
+20:36 [Info] Loaded extension Unity v2.0.3756 by Oxide and Contributors
+20:36 [Info] Using Covalence provider for game 'Rust'
+20:36 [Info] Loading plugins...
+20:36 [Info] Loaded plugin Rust v2.0.4185 by Oxide and Contributors
+20:36 [Info] Loaded plugin Unity v2.0.3756 by Oxide and Contributors
+20:36 [Info] Loaded plugin Rust:IO for Oxide v2.15.0 by playrust.io / dcode
+20:36 [Info] DeathNotes, FurnaceSplitter, InfoPanel and StackSizeController were compiled successfully in 2970ms
+20:36 [Info] Loaded plugin Death Notes v6.2.0 by LaserHydra
+20:36 [Warning] [Furnace Splitter] Creating default config for FurnaceSplitter.
+20:36 [Info] Loaded plugin Furnace Splitter v2.1.7 by Skipcast
+20:36 [Warning] [InfoPanel] Default configuration file created.
+20:36 [Info] Loaded plugin InfoPanel v0.9.9 by Ghosst / Nogrod
+20:36 [Info] [Stack Size Controller] Generating a new config file...
+20:36 [Info] Loaded plugin Stack Size Controller v2.0.0 by Canopy Sheep
+20:47 [Info] Loading Oxide Core v2.0.3867...
+20:47 [Info] Loading extensions...
+20:47 [Info] Latest compiler MD5: 5fbca0bf39b1c09ddf2fb3686b869242
+20:47 [Info] Local compiler MD5: 5fbca0bf39b1c09ddf2fb3686b869242
+20:47 [Info] Loaded extension CSharp v2.0.4000 by Oxide and Contributors
+20:47 [Info] Loaded extension Rust:IO for Oxide v2.15.0 by playrust.io / dcode
+20:47 [Info] Loaded extension MySql v2.0.3755 by Oxide and Contributors
+20:47 [Info] Loaded extension Rust v2.0.4185 by Oxide and Contributors
+20:47 [Info] Loaded extension SQLite v2.0.3754 by Oxide and Contributors
+20:47 [Info] Loaded extension Unity v2.0.3756 by Oxide and Contributors
+20:47 [Info] Using Covalence provider for game 'Rust'
+20:47 [Info] Loading plugins...
+20:47 [Info] Loaded plugin Rust v2.0.4185 by Oxide and Contributors
+20:47 [Info] Loaded plugin Unity v2.0.3756 by Oxide and Contributors
+20:47 [Info] Loaded plugin Rust:IO for Oxide v2.15.0 by playrust.io / dcode
+20:47 [Info] Added '// Reference: System.Drawing' in plugin 'SignArtist'
+20:47 [Info] DeathNotes, FurnaceSplitter, InfoPanel, SignArtist and StackSizeController were compiled successfully in 2969ms
+20:47 [Info] Loaded plugin Death Notes v6.2.0 by LaserHydra
+20:47 [Info] Loaded plugin Furnace Splitter v2.1.7 by Skipcast
+20:47 [Info] Loaded plugin InfoPanel v0.9.9 by Ghosst / Nogrod
+20:47 [Info] Loaded plugin Sign Artist v1.1.2 by Mughisi
+20:47 [Info] Loaded plugin Stack Size Controller v2.0.0 by Canopy Sheep
+20:50 [Info] IP address from command-line: 172.96.165.106
+20:50 [Info] Updating Rust:IO ...
+20:50 [Warning] Calling 'OnServerInitialized' on 'InfoPanel v0.9.9' took 566ms
+20:50 [Info] Rust:IO: Update complete
+20:50 [Info] Installing Rust:IO ...
+20:50 [Info] Rust:IO> Setting up Rust:IO 2.3.6854.11652 ...
+20:50 [Info] Rust:IO> Creating directories ...
+20:50 [Info] Rust:IO> Applying config ...
+20:50 [Info] Rust:IO> Initializing database ...
+20:50 [Info] Rust:IO> Generating map image (this may take a while) ...
+20:50 [Info] Rust:IO> Generation complete
+--------- Summary --------
+Render       :  3916.436ms
+Postprocess  :  6194.765ms
+  Shadows    :   292.305ms
+  FXAA       :  5864.964ms
+Encoding     :    52.202ms
+Other        :    20.316ms
+--------------------------
+Total        :  10183.719ms
+20:50 [Info] Rust:IO> Starting HTTP server on 172.96.165.106:28435 ...
+20:50 [Info] Rust:IO> Installed.
+20:50 [Info] Rust:IO> Now ticking
+20:50 [Warning] Calling 'OnTick' on 'RustIO v2.15.0' took 10507ms [GARBAGE COLLECT]
+20:50 [Warning] Calling 'OnTick' on 'RustIO v2.15.0' took average 0ms [GARBAGE COLLECT]
+20:50 [Info] Rust:IO> External IP address obtained from lookup: 172.96.165.106
+21:17 [Info] [Death Notes] Smaste shot a Wolf using their Custom SMG over a distance of 2.6 meters.
+21:21 [Info] [Death Notes] Smaste shot a Boar using their Custom SMG over a distance of 11.2 meters.
+21:21 [Info] [Death Notes] Smaste shot a Boar using their Custom SMG over a distance of 8.7 meters.
+21:56 [Info] [Death Notes] Smaste did not want to be a part of the Scientist's experiments.
+23:37 [Info] [Death Notes] Smaste shot a Wolf using their Custom SMG over a distance of 2.6 meters.
+23:47 [Info] [Death Notes] Smaste did not want to be a part of the Scientist's experiments.

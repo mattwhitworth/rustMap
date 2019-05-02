@@ -1,0 +1,284 @@
+00:39 [Info] [Death Notes] Meretrix did not want to be a part of the Scientist's experiments.
+00:40 [Info] [Give] Meretrix 1 x L96 Rifle
+00:40 [Info] [Give] Meretrix 1 x 16x Zoom Scope
+00:40 [Info] [Give] Meretrix 1 x Spas-12 Shotgun
+00:41 [Info] [Give] Meretrix 1000 x 12 Gauge Slug
+00:41 [Info] [Give] Meretrix 1 x Assault Rifle
+00:42 [Info] [Give] Meretrix 1 x M39 Rifle
+00:43 [Info] [Give] Meretrix 1 x Holosight
+00:43 [Info] [Give] Meretrix 1 x Holosight
+00:43 [Info] [Give] Meretrix 1 x Weapon Lasersight
+00:43 [Info] [Give] Meretrix 1 x Weapon Lasersight
+00:45 [Info] [Give] Meretrix 1 x Glowing Eyes
+00:46 [Info] [Give] Meretrix 1 x Metal Facemask
+00:46 [Info] [Give] Meretrix 1 x Metal Chest Plate
+00:46 [Info] [Give] Meretrix 1 x Road Sign Kilt
+00:46 [Info] [Give] Meretrix 1 x Scarecrow Wrap
+00:46 [Info] [Give] Meretrix 1 x Roadsign Gloves
+00:46 [Info] [Give] Meretrix 1 x Tactical Gloves
+00:46 [Info] [Give] Meretrix 1 x Boots
+00:46 [Info] [Give] Meretrix 1 x Boots
+00:46 [Info] [Give] Meretrix 1 x Hoodie
+00:46 [Info] [Give] Meretrix 1 x Jacket
+00:46 [Info] [Give] Meretrix 1 x Longsleeve T-Shirt
+00:46 [Info] [Give] Meretrix 1 x Tank Top
+00:47 [Info] [Give] Meretrix 1 x Pants
+00:48 [Info] [Give] Meretrix 1 x Holosight
+00:49 [Info] [Give] Meretrix 1 x Weapon Lasersight
+00:49 [Info] [Give] Meretrix 1 x Weapon Lasersight
+00:50 [Info] [Give] Meretrix 1 x Heavy Plate Helmet
+00:50 [Info] [Give] Meretrix 1 x Heavy Plate Jacket
+00:50 [Info] [Give] Meretrix 1 x Heavy Plate Pants
+00:50 [Info] [Give] Meretrix 1000 x HV 5.56 Rifle Ammo
+00:51 [Info] [Give] Meretrix 1 x Multiple Grenade Launcher
+00:51 [Info] [Give] Meretrix 1000 x 40mm Shotgun Round
+00:52 [Info] [Give] Meretrix 1000 x 40mm HE Grenade
+00:53 [Info] [NTeleportation] Meretrix teleported Smaste to Meretrix.
+00:54 [Info] [Death Notes] Smaste did not want to be a part of the Scientist's experiments.
+00:55 [Info] [Death Notes] Meretrix did not want to be a part of the Scientist's experiments.
+00:57 [Info] [Death Notes] Meretrix did not want to be a part of the Scientist's experiments.
+00:57 [Info] [Death Notes] Smaste did not want to be a part of the Scientist's experiments.
+00:58 [Info] [Death Notes] Meretrix did not want to be a part of the Scientist's experiments.
+00:59 [Info] [Death Notes] Smaste did not want to be a part of the Scientist's experiments.
+01:00 [Info] [Death Notes] Meretrix did not want to be a part of the Scientist's experiments.
+01:01 [Info] [Death Notes] Smaste did not want to be a part of the Scientist's experiments.
+01:02 [Info] [Death Notes] Smaste did not want to be a part of the Scientist's experiments.
+01:02 [Info] [Death Notes] Smaste did not want to be a part of the Scientist's experiments.
+01:03 [Info] [Death Notes] Smaste did not want to be a part of the Scientist's experiments.
+01:03 [Info] [Death Notes] Smaste did not want to be a part of the Scientist's experiments.
+01:04 [Info] [Death Notes] Meretrix did not want to be a part of the Scientist's experiments.
+01:04 [Info] [Death Notes] Meretrix did not want to be a part of the Scientist's experiments.
+01:05 [Info] [Death Notes] Smaste did not want to be a part of the Scientist's experiments.
+01:06 [Info] [Death Notes] Smaste did not want to be a part of the Scientist's experiments.
+01:06 [Info] [Death Notes] Meretrix did not want to be a part of the Scientist's experiments.
+01:06 [Info] [Death Notes] Meretrix did not want to be a part of the Scientist's experiments.
+01:07 [Info] [Death Notes] Meretrix did not want to be a part of the Scientist's experiments.
+01:08 [Info] [Give] Meretrix 1 x 12 Gauge Incendiary Shell
+01:08 [Info] [Give] Meretrix 1000 x F1 Grenade
+01:09 [Info] [Give] Meretrix 1 x Red Keycard
+01:09 [Info] [Give] Meretrix 1 x Red Keycard
+01:10 [Info] [Death Notes] Smaste did not want to be a part of the Scientist's experiments.
+01:11 [Info] [Death Notes] Meretrix did not want to be a part of the Scientist's experiments.
+01:11 [Info] [Death Notes] A Scientist shot down Smaste.
+01:11 [Info] [Death Notes] Meretrix did not want to be a part of the Scientist's experiments.
+01:11 [Info] [NTeleportation] Meretrix teleported Smaste to Meretrix.
+01:15 [Info] [Death Notes] Meretrix did not want to be a part of the Scientist's experiments.
+01:18 [Info] [Give] Meretrix 1 x Blue Keycard
+01:19 [Info] [Death Notes] Smaste did not want to be a part of the Scientist's experiments.
+01:20 [Info] [Death Notes] Smaste did not want to be a part of the Scientist's experiments.
+01:21 [Info] [Death Notes] A Scientist shot down Meretrix.
+01:21 [Info] [Death Notes] Smaste did not want to be a part of the Scientist's experiments.
+01:21 [Info] [NTeleportation] Meretrix teleported Meretrix to Smaste.
+01:21 [Info] [Death Notes] A Scientist shot down Smaste.
+01:22 [Info] [NTeleportation] Meretrix teleported Smaste to Meretrix.
+01:22 [Info] [Death Notes] Meretrix did not want to be a part of the Scientist's experiments.
+01:23 [Info] [Death Notes] Meretrix did not want to be a part of the Scientist's experiments.
+01:24 [Info] [Death Notes] Meretrix did not want to be a part of the Scientist's experiments.
+01:24 [Info] [Death Notes] Meretrix did not want to be a part of the Scientist's experiments.
+01:24 [Info] [Death Notes] Smaste did not want to be a part of the Scientist's experiments.
+01:26 [Info] [Death Notes] Smaste did not want to be a part of the Scientist's experiments.
+01:27 [Info] [Give] Meretrix 1 x Electric Fuse
+01:28 [Info] [Death Notes] Meretrix did not want to be a part of the Scientist's experiments.
+01:28 [Info] [Death Notes] Meretrix did not want to be a part of the Scientist's experiments.
+01:31 [Info] [Give] Meretrix 1000 x 40mm Shotgun Round
+01:32 [Info] [Death Notes] Meretrix did not want to be a part of the Scientist's experiments.
+01:35 [Info] [Death Notes] Meretrix shot Smaste using their M39 Rifle over a distance of 0.6 meters.
+01:35 [Info] [NTeleportation] Meretrix teleported Smaste to Meretrix.
+01:35 [Info] [NTeleportation] Meretrix teleported Smaste to Meretrix.
+01:40 [Info] [Give] Meretrix 1 x 8x Zoom Scope
+01:40 [Info] [Give] Meretrix 1 x L96 Rifle
+01:40 [Info] [Give] Meretrix 1 x Weapon Lasersight
+01:43 [Info] [Death Notes] Smaste shot Meretrix using their Multiple Grenade Launcher over a distance of 2.6 meters.
+01:44 [Info] [NTeleportation] [God] Meretrix teleported [God] Meretrix to Smaste.
+01:47 [Info] [NTeleportation] [God] Meretrix teleported [God] Meretrix to Smaste.
+01:47 [Info] [NTeleportation] Smaste teleported back to previous location.
+01:47 [Info] [NTeleportation] [God] Meretrix teleported [God] Meretrix to Smaste.
+01:48 [Warning] 
+01:48 [Warning]   at (wrapper managed-to-native) UnityEngine.GameObject.GetComponentInParent(UnityEngine.GameObject,System.Type)
+  at UnityEngine.GameObject.GetComponentInParent[T] () [0x00001] in <945c24c342914372bc599495ca1ade0d>:0 
+  at Oxide.Plugins.Build.cmdBuildSelect (ConsoleSystem+Arg arg) [0x00753] in <502e9f00e8b94fbea8db454c51283ff7>:0 
+01:48 [Warning] 
+01:48 [Warning]   at (wrapper managed-to-native) UnityEngine.GameObject.GetComponentInParent(UnityEngine.GameObject,System.Type)
+  at UnityEngine.GameObject.GetComponentInParent[T] () [0x00001] in <945c24c342914372bc599495ca1ade0d>:0 
+  at Oxide.Plugins.Build.cmdBuildSelect (ConsoleSystem+Arg arg) [0x00753] in <502e9f00e8b94fbea8db454c51283ff7>:0 
+01:48 [Warning] 
+01:48 [Warning]   at (wrapper managed-to-native) UnityEngine.GameObject.GetComponentInParent(UnityEngine.GameObject,System.Type)
+  at UnityEngine.GameObject.GetComponentInParent[T] () [0x00001] in <945c24c342914372bc599495ca1ade0d>:0 
+  at Oxide.Plugins.Build.cmdBuildSelect (ConsoleSystem+Arg arg) [0x00753] in <502e9f00e8b94fbea8db454c51283ff7>:0 
+01:48 [Warning] 
+01:48 [Warning]   at (wrapper managed-to-native) UnityEngine.GameObject.GetComponentInParent(UnityEngine.GameObject,System.Type)
+  at UnityEngine.GameObject.GetComponentInParent[T] () [0x00001] in <945c24c342914372bc599495ca1ade0d>:0 
+  at Oxide.Plugins.Build.cmdBuildSelect (ConsoleSystem+Arg arg) [0x00753] in <502e9f00e8b94fbea8db454c51283ff7>:0 
+01:48 [Warning] 
+01:48 [Warning]   at (wrapper managed-to-native) UnityEngine.GameObject.GetComponentInParent(UnityEngine.GameObject,System.Type)
+  at UnityEngine.GameObject.GetComponentInParent[T] () [0x00001] in <945c24c342914372bc599495ca1ade0d>:0 
+  at Oxide.Plugins.Build.cmdBuildSelect (ConsoleSystem+Arg arg) [0x00753] in <502e9f00e8b94fbea8db454c51283ff7>:0 
+01:48 [Warning] 
+01:48 [Warning]   at (wrapper managed-to-native) UnityEngine.GameObject.GetComponentInParent(UnityEngine.GameObject,System.Type)
+  at UnityEngine.GameObject.GetComponentInParent[T] () [0x00001] in <945c24c342914372bc599495ca1ade0d>:0 
+  at Oxide.Plugins.Build.cmdBuildSelect (ConsoleSystem+Arg arg) [0x00753] in <502e9f00e8b94fbea8db454c51283ff7>:0 
+01:48 [Warning] 
+01:48 [Warning]   at (wrapper managed-to-native) UnityEngine.GameObject.GetComponentInParent(UnityEngine.GameObject,System.Type)
+  at UnityEngine.GameObject.GetComponentInParent[T] () [0x00001] in <945c24c342914372bc599495ca1ade0d>:0 
+  at Oxide.Plugins.Build.cmdBuildSelect (ConsoleSystem+Arg arg) [0x00753] in <502e9f00e8b94fbea8db454c51283ff7>:0 
+01:48 [Warning] 
+01:48 [Warning]   at (wrapper managed-to-native) UnityEngine.GameObject.GetComponentInParent(UnityEngine.GameObject,System.Type)
+  at UnityEngine.GameObject.GetComponentInParent[T] () [0x00001] in <945c24c342914372bc599495ca1ade0d>:0 
+  at Oxide.Plugins.Build.cmdBuildSelect (ConsoleSystem+Arg arg) [0x00753] in <502e9f00e8b94fbea8db454c51283ff7>:0 
+01:48 [Warning] 
+01:48 [Warning]   at (wrapper managed-to-native) UnityEngine.GameObject.GetComponentInParent(UnityEngine.GameObject,System.Type)
+  at UnityEngine.GameObject.GetComponentInParent[T] () [0x00001] in <945c24c342914372bc599495ca1ade0d>:0 
+  at Oxide.Plugins.Build.cmdBuildSelect (ConsoleSystem+Arg arg) [0x00753] in <502e9f00e8b94fbea8db454c51283ff7>:0 
+01:48 [Warning] 
+01:48 [Warning]   at (wrapper managed-to-native) UnityEngine.GameObject.GetComponentInParent(UnityEngine.GameObject,System.Type)
+  at UnityEngine.GameObject.GetComponentInParent[T] () [0x00001] in <945c24c342914372bc599495ca1ade0d>:0 
+  at Oxide.Plugins.Build.cmdBuildSelect (ConsoleSystem+Arg arg) [0x00753] in <502e9f00e8b94fbea8db454c51283ff7>:0 
+01:48 [Warning] 
+01:48 [Warning]   at (wrapper managed-to-native) UnityEngine.GameObject.GetComponentInParent(UnityEngine.GameObject,System.Type)
+  at UnityEngine.GameObject.GetComponentInParent[T] () [0x00001] in <945c24c342914372bc599495ca1ade0d>:0 
+  at Oxide.Plugins.Build.cmdBuildSelect (ConsoleSystem+Arg arg) [0x00753] in <502e9f00e8b94fbea8db454c51283ff7>:0 
+01:48 [Warning] 
+01:48 [Warning]   at (wrapper managed-to-native) UnityEngine.GameObject.GetComponentInParent(UnityEngine.GameObject,System.Type)
+  at UnityEngine.GameObject.GetComponentInParent[T] () [0x00001] in <945c24c342914372bc599495ca1ade0d>:0 
+  at Oxide.Plugins.Build.cmdBuildSelect (ConsoleSystem+Arg arg) [0x00753] in <502e9f00e8b94fbea8db454c51283ff7>:0 
+01:48 [Warning] 
+01:48 [Warning]   at (wrapper managed-to-native) UnityEngine.GameObject.GetComponentInParent(UnityEngine.GameObject,System.Type)
+  at UnityEngine.GameObject.GetComponentInParent[T] () [0x00001] in <945c24c342914372bc599495ca1ade0d>:0 
+  at Oxide.Plugins.Build.cmdBuildSelect (ConsoleSystem+Arg arg) [0x00753] in <502e9f00e8b94fbea8db454c51283ff7>:0 
+01:48 [Warning] 
+01:48 [Warning]   at (wrapper managed-to-native) UnityEngine.GameObject.GetComponentInParent(UnityEngine.GameObject,System.Type)
+  at UnityEngine.GameObject.GetComponentInParent[T] () [0x00001] in <945c24c342914372bc599495ca1ade0d>:0 
+  at Oxide.Plugins.Build.cmdBuildSelect (ConsoleSystem+Arg arg) [0x00753] in <502e9f00e8b94fbea8db454c51283ff7>:0 
+01:48 [Warning] 
+01:48 [Warning]   at (wrapper managed-to-native) UnityEngine.GameObject.GetComponentInParent(UnityEngine.GameObject,System.Type)
+  at UnityEngine.GameObject.GetComponentInParent[T] () [0x00001] in <945c24c342914372bc599495ca1ade0d>:0 
+  at Oxide.Plugins.Build.cmdBuildSelect (ConsoleSystem+Arg arg) [0x00753] in <502e9f00e8b94fbea8db454c51283ff7>:0 
+01:48 [Warning] 
+01:48 [Warning]   at (wrapper managed-to-native) UnityEngine.GameObject.GetComponentInParent(UnityEngine.GameObject,System.Type)
+  at UnityEngine.GameObject.GetComponentInParent[T] () [0x00001] in <945c24c342914372bc599495ca1ade0d>:0 
+  at Oxide.Plugins.Build.cmdBuildSelect (ConsoleSystem+Arg arg) [0x00753] in <502e9f00e8b94fbea8db454c51283ff7>:0 
+01:48 [Warning] 
+01:48 [Warning]   at (wrapper managed-to-native) UnityEngine.GameObject.GetComponentInParent(UnityEngine.GameObject,System.Type)
+  at UnityEngine.GameObject.GetComponentInParent[T] () [0x00001] in <945c24c342914372bc599495ca1ade0d>:0 
+  at Oxide.Plugins.Build.cmdBuildSelect (ConsoleSystem+Arg arg) [0x00753] in <502e9f00e8b94fbea8db454c51283ff7>:0 
+01:50 [Warning] Calling 'cmdBuildSelect' on 'Build v2.0.82' took 710ms [GARBAGE COLLECT]
+01:52 [Info] [Give] [God] Meretrix 1000 x Low Grade Fuel
+01:54 [Info] [Give] [God] Meretrix 1000 x Low Grade Fuel
+02:01 [Info] [NTeleportation] [God] Meretrix teleported [God] Meretrix to Smaste.
+02:01 [Info] [Give] [God] Meretrix 1000 x Low Grade Fuel
+02:03 [Info] [NTeleportation] [God] Meretrix teleported Smaste to [God] Meretrix.
+02:21 [Error] Failed to call hook 'OnPlayerInput' on plugin 'Build v2.0.82' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.Build+PlayerBuild.Execute () [0x00079] in <502e9f00e8b94fbea8db454c51283ff7>:0 
+  at Oxide.Plugins.Build.OnPlayerInput (BasePlayer player, InputState state) [0x00105] in <502e9f00e8b94fbea8db454c51283ff7>:0 
+  at Oxide.Plugins.Build.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x000c2] in <502e9f00e8b94fbea8db454c51283ff7>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <9affce1cd15c4ec183941adef8db1722>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <4452f821def6406d834e4149849fe7ea>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <4452f821def6406d834e4149849fe7ea>:0 
+02:21 [Error] Failed to call hook 'OnPlayerInput' on plugin 'Build v2.0.82' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.Build+PlayerBuild.Execute () [0x00079] in <502e9f00e8b94fbea8db454c51283ff7>:0 
+  at Oxide.Plugins.Build.OnPlayerInput (BasePlayer player, InputState state) [0x00105] in <502e9f00e8b94fbea8db454c51283ff7>:0 
+  at Oxide.Plugins.Build.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x000c2] in <502e9f00e8b94fbea8db454c51283ff7>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <9affce1cd15c4ec183941adef8db1722>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <4452f821def6406d834e4149849fe7ea>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <4452f821def6406d834e4149849fe7ea>:0 
+02:21 [Error] Failed to call hook 'OnPlayerInput' on plugin 'Build v2.0.82' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.Build+PlayerBuild.Execute () [0x00079] in <502e9f00e8b94fbea8db454c51283ff7>:0 
+  at Oxide.Plugins.Build.OnPlayerInput (BasePlayer player, InputState state) [0x00105] in <502e9f00e8b94fbea8db454c51283ff7>:0 
+  at Oxide.Plugins.Build.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x000c2] in <502e9f00e8b94fbea8db454c51283ff7>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <9affce1cd15c4ec183941adef8db1722>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <4452f821def6406d834e4149849fe7ea>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <4452f821def6406d834e4149849fe7ea>:0 
+02:21 [Info] [Give] [God] Meretrix 1000 x Low Grade Fuel
+02:31 [Info] [Give] [God] Meretrix 1 x Custom SMG
+02:31 [Info] [Give] [God] Meretrix 1 x Hammer
+02:31 [Info] [Give] [God] Meretrix 1000 x Metal Fragments
+02:35 [Info] [Give] [God] Meretrix 1000 x Pistol Bullet
+02:38 [Info] [Give] [God] Meretrix 1 x RF Pager
+02:38 [Info] [Give] [God] Meretrix 1 x RF Transmitter
+02:51 [Info] [Give] [God] Meretrix 1 x Strobe Light
+02:51 [Info] [Give] [God] Meretrix 1 x Strobe Light
+02:55 [Info] [Give] [God] Meretrix 1 x F1 Grenade
+02:55 [Info] [Give] [God] Meretrix 100 x F1 Grenade
+02:59 [Info] [Give] [God] Meretrix 100 x F1 Grenade
+03:01 [Info] [Death Notes] Smaste killed Smaste using their F1 Grenade.
+03:01 [Info] [Give] [God] Meretrix 1 x Large Planter Box
+03:03 [Warning] Calling 'OnPlayerInput' on 'Build v2.0.82' took 1057ms
+03:03 [Warning] Calling 'OnPlayerInput' on 'Build v2.0.82' took average 1062ms
+03:03 [Warning] Calling 'OnPlayerInput' on 'Build v2.0.82' took 1156ms
+03:03 [Warning] Calling 'OnPlayerInput' on 'Build v2.0.82' took 1165ms
+03:03 [Warning] Calling 'OnPlayerInput' on 'Build v2.0.82' took 1200ms
+03:03 [Warning] Calling 'OnPlayerInput' on 'Build v2.0.82' took 1200ms
+03:03 [Warning] Calling 'OnPlayerInput' on 'Build v2.0.82' took 1147ms
+03:03 [Warning] Calling 'OnPlayerInput' on 'Build v2.0.82' took 1183ms
+03:03 [Warning] Calling 'OnPlayerInput' on 'Build v2.0.82' took average 5869ms
+03:03 [Warning] Calling 'OnPlayerInput' on 'Build v2.0.82' took 1173ms
+03:03 [Warning] Calling 'OnPlayerInput' on 'Build v2.0.82' took 1149ms
+03:03 [Warning] Calling 'OnPlayerInput' on 'Build v2.0.82' took 1178ms
+03:03 [Warning] Calling 'OnPlayerInput' on 'Build v2.0.82' took 1173ms
+03:03 [Warning] Calling 'OnPlayerInput' on 'Build v2.0.82' took 1141ms
+03:03 [Warning] Calling 'OnPlayerInput' on 'Build v2.0.82' took 1112ms
+03:03 [Warning] Calling 'OnPlayerInput' on 'Build v2.0.82' took 1169ms
+03:03 [Warning] Calling 'OnPlayerInput' on 'Build v2.0.82' took 1120ms
+03:03 [Warning] Calling 'OnPlayerInput' on 'Build v2.0.82' took average 9216ms
+03:03 [Warning] Calling 'OnPlayerInput' on 'Build v2.0.82' took 1125ms
+03:03 [Warning] Calling 'OnPlayerInput' on 'Build v2.0.82' took 1158ms
+03:03 [Warning] Calling 'OnPlayerInput' on 'Build v2.0.82' took 1186ms
+03:03 [Warning] Calling 'OnPlayerInput' on 'Build v2.0.82' took 1210ms
+03:03 [Warning] Calling 'OnPlayerInput' on 'Build v2.0.82' took 1176ms
+03:03 [Warning] Calling 'OnPlayerInput' on 'Build v2.0.82' took 1170ms
+03:03 [Warning] Calling 'OnPlayerInput' on 'Build v2.0.82' took 1177ms
+03:03 [Warning] Calling 'OnPlayerInput' on 'Build v2.0.82' took 1159ms
+03:03 [Warning] Calling 'OnPlayerInput' on 'Build v2.0.82' took average 8201ms
+03:03 [Warning] Calling 'OnPlayerInput' on 'Build v2.0.82' took 1156ms
+03:03 [Warning] Calling 'OnPlayerInput' on 'Build v2.0.82' took 1243ms
+03:03 [Warning] Calling 'OnPlayerInput' on 'Build v2.0.82' took 1204ms
+03:03 [Warning] Calling 'OnPlayerInput' on 'Build v2.0.82' took 1185ms
+03:03 [Warning] Calling 'OnPlayerInput' on 'Build v2.0.82' took 1194ms
+03:03 [Warning] Calling 'OnPlayerInput' on 'Build v2.0.82' took 1136ms
+03:03 [Warning] Calling 'OnPlayerInput' on 'Build v2.0.82' took 1175ms
+03:04 [Warning] Calling 'OnPlayerInput' on 'Build v2.0.82' took 1189ms
+03:04 [Warning] Calling 'OnPlayerInput' on 'Build v2.0.82' took average 8294ms
+03:04 [Warning] Calling 'OnPlayerInput' on 'Build v2.0.82' took 1209ms
+03:04 [Warning] Calling 'OnPlayerInput' on 'Build v2.0.82' took 1155ms
+03:04 [Warning] Calling 'OnPlayerInput' on 'Build v2.0.82' took 1174ms
+03:04 [Warning] Calling 'OnPlayerInput' on 'Build v2.0.82' took 1188ms
+03:04 [Warning] Calling 'OnPlayerInput' on 'Build v2.0.82' took 1195ms
+03:04 [Warning] Calling 'OnPlayerInput' on 'Build v2.0.82' took 1178ms
+03:04 [Warning] Calling 'OnPlayerInput' on 'Build v2.0.82' took 1182ms
+03:04 [Warning] Calling 'OnPlayerInput' on 'Build v2.0.82' took 1184ms
+03:04 [Warning] Calling 'OnPlayerInput' on 'Build v2.0.82' took average 8282ms
+03:04 [Warning] Calling 'OnPlayerInput' on 'Build v2.0.82' took 1237ms
+03:04 [Warning] Calling 'OnPlayerInput' on 'Build v2.0.82' took 1611ms
+03:04 [Warning] Calling 'OnPlayerInput' on 'Build v2.0.82' took 1555ms
+03:04 [Warning] Calling 'OnPlayerInput' on 'Build v2.0.82' took 1523ms
+03:04 [Warning] Calling 'OnPlayerInput' on 'Build v2.0.82' took 1537ms
+03:04 [Warning] Calling 'OnPlayerInput' on 'Build v2.0.82' took 1566ms
+03:04 [Warning] Calling 'OnPlayerInput' on 'Build v2.0.82' took 1549ms
+03:04 [Warning] Calling 'OnPlayerInput' on 'Build v2.0.82' took average 9029ms
+03:04 [Warning] Calling 'OnPlayerInput' on 'Build v2.0.82' took 1544ms
+03:04 [Warning] Calling 'OnPlayerInput' on 'Build v2.0.82' took 1447ms
+03:04 [Warning] Calling 'OnPlayerInput' on 'Build v2.0.82' took 1538ms
+03:04 [Warning] Calling 'OnPlayerInput' on 'Build v2.0.82' took 1528ms
+03:04 [Warning] Calling 'OnPlayerInput' on 'Build v2.0.82' took 1517ms
+03:04 [Warning] Calling 'OnPlayerInput' on 'Build v2.0.82' took 1485ms
+03:04 [Warning] Calling 'OnPlayerInput' on 'Build v2.0.82' took 1547ms
+03:04 [Warning] Calling 'OnPlayerInput' on 'Build v2.0.82' took average 9061ms
+03:04 [Warning] Calling 'OnPlayerInput' on 'Build v2.0.82' took 1541ms
+03:13 [Info] [Give] Meretrix 1 x Door Closer
+13:02 [Info] [NoDecay] NoDecay.OnEntityTakeDamage took 653.6259 ms to execute.
+13:02 [Warning] Calling 'OnEntityTakeDamage' on 'NoDecay v1.0.32' took 654ms [GARBAGE COLLECT]
+13:14 [Warning] Calling 'OnEntityDeath' on 'RustIO v2.15.0' took 210ms
+18:04 [Info] [Death Notes] Smaste did not want to be a part of the Scientist's experiments.
+18:05 [Info] [Death Notes] Smaste shot a Boar using their Assault Rifle over a distance of 29.8 meters.
+18:10 [Info] [Death Notes] Smaste did not want to be a part of the Scientist's experiments.
+18:18 [Info] [Death Notes] Smaste did not want to be a part of the Scientist's experiments.
+18:19 [Info] [Death Notes] Smaste did not want to be a part of the Scientist's experiments.
+18:24 [Info] [Death Notes] Smaste shot a Boar using their Assault Rifle over a distance of 0.9 meters.
+18:38 [Info] [Death Notes] Smaste did not want to be a part of the Scientist's experiments.
+18:41 [Info] [Death Notes] Smaste shot a Boar using their Assault Rifle over a distance of 21.3 meters.
+18:41 [Info] [Death Notes] Smaste shot a Boar using their Assault Rifle over a distance of 23.7 meters.
+18:44 [Info] [Death Notes] Smaste did not want to be a part of the Scientist's experiments.
+18:50 [Info] [Death Notes] Smaste did not want to be a part of the Scientist's experiments.
+18:51 [Info] [Death Notes] Smaste did not want to be a part of the Scientist's experiments.
+18:52 [Info] [Death Notes] Smaste did not want to be a part of the Scientist's experiments.
+23:24 [Info] [NTeleportation] Smaste teleported back to previous location.

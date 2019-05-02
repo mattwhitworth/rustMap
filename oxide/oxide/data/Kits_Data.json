@@ -1,0 +1,52 @@
+{
+  "76561198066315183": {
+    "basics": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "emergency": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "smaste": {
+      "max": 1,
+      "cooldown": 0.0
+    }
+  },
+  "76561198060894633": {
+    "basics": {
+      "max": 0,
+      "cooldown": 1554954511.5514402
+    },
+    "emergency": {
+      "max": 1,
+      "cooldown": 0.0
+    },
+    "smaste": {
+      "max": 1,
+      "cooldown": 0.0
+    }
+  },
+  "76561198106826862": {
+    "basics": {
+      "max": 0,
+      "cooldown": 1554890493.5405
+    },
+    "emergency": {
+      "max": 1,
+      "cooldown": 0.0
+    }
+  },
+  "76561197992590466": {
+    "basics": {
+      "max": 0,
+      "cooldown": 1554877386.5474987
+    }
+  },
+  "76561198058539108": {
+    "basics": {
+      "max": 0,
+      "cooldown": 1555020696.9484882
+    }
+  }
+}

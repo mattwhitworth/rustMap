@@ -1,0 +1,728 @@
+00:08 [Info] [Death Notes] Smaste did not want to be a part of the Scientist's experiments.
+00:27 [Info] [NTeleportation] Meretrix teleported to Smaste.
+00:58 [Info] [NTeleportation] Meretrix teleported Smaste to Meretrix.
+01:00 [Info] [NTeleportation] Smaste teleported back to previous location.
+01:03 [Error] Failed to call hook 'GiveCommand' on plugin 'Give v3.0.2' (FormatException: Input string was not in a correct format.)
+  at System.Number.StringToNumber (System.String str, System.Globalization.NumberStyles options, System.Number+NumberBuffer& number, System.Globalization.NumberFormatInfo info, System.Boolean parseDecimal) [0x00057] in <ac823e2bb42b41bda67924a45a0173c3>:0 
+  at System.Number.ParseInt32 (System.String s, System.Globalization.NumberStyles style, System.Globalization.NumberFormatInfo info) [0x00013] in <ac823e2bb42b41bda67924a45a0173c3>:0 
+  at System.Int32.Parse (System.String s, System.IFormatProvider provider) [0x00008] in <ac823e2bb42b41bda67924a45a0173c3>:0 
+  at System.Convert.ToInt32 (System.String value) [0x0000b] in <ac823e2bb42b41bda67924a45a0173c3>:0 
+  at Oxide.Plugins.Give.GiveCommand (Oxide.Core.Libraries.Covalence.IPlayer player, System.String command, System.String[] args) [0x00050] in <292b2431a9a7439593a2029c83f88645>:0 
+  at Oxide.Plugins.Give.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00255] in <292b2431a9a7439593a2029c83f88645>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <9affce1cd15c4ec183941adef8db1722>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <4452f821def6406d834e4149849fe7ea>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <4452f821def6406d834e4149849fe7ea>:0 
+01:03 [Error] Failed to call hook 'GiveCommand' on plugin 'Give v3.0.2' (FormatException: Input string was not in a correct format.)
+  at System.Number.StringToNumber (System.String str, System.Globalization.NumberStyles options, System.Number+NumberBuffer& number, System.Globalization.NumberFormatInfo info, System.Boolean parseDecimal) [0x00057] in <ac823e2bb42b41bda67924a45a0173c3>:0 
+  at System.Number.ParseInt32 (System.String s, System.Globalization.NumberStyles style, System.Globalization.NumberFormatInfo info) [0x00013] in <ac823e2bb42b41bda67924a45a0173c3>:0 
+  at System.Int32.Parse (System.String s, System.IFormatProvider provider) [0x00008] in <ac823e2bb42b41bda67924a45a0173c3>:0 
+  at System.Convert.ToInt32 (System.String value) [0x0000b] in <ac823e2bb42b41bda67924a45a0173c3>:0 
+  at Oxide.Plugins.Give.GiveCommand (Oxide.Core.Libraries.Covalence.IPlayer player, System.String command, System.String[] args) [0x00050] in <292b2431a9a7439593a2029c83f88645>:0 
+  at Oxide.Plugins.Give.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00255] in <292b2431a9a7439593a2029c83f88645>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <9affce1cd15c4ec183941adef8db1722>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <4452f821def6406d834e4149849fe7ea>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <4452f821def6406d834e4149849fe7ea>:0 
+01:03 [Error] Failed to call hook 'GiveCommand' on plugin 'Give v3.0.2' (OverflowException: Value was either too large or too small for an Int32.)
+  at System.Number.ParseInt32 (System.String s, System.Globalization.NumberStyles style, System.Globalization.NumberFormatInfo info) [0x00057] in <ac823e2bb42b41bda67924a45a0173c3>:0 
+  at System.Int32.Parse (System.String s, System.IFormatProvider provider) [0x00008] in <ac823e2bb42b41bda67924a45a0173c3>:0 
+  at System.Convert.ToInt32 (System.String value) [0x0000b] in <ac823e2bb42b41bda67924a45a0173c3>:0 
+  at Oxide.Plugins.Give.GiveCommand (Oxide.Core.Libraries.Covalence.IPlayer player, System.String command, System.String[] args) [0x00050] in <292b2431a9a7439593a2029c83f88645>:0 
+  at Oxide.Plugins.Give.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00255] in <292b2431a9a7439593a2029c83f88645>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <9affce1cd15c4ec183941adef8db1722>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <4452f821def6406d834e4149849fe7ea>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <4452f821def6406d834e4149849fe7ea>:0 
+01:04 [Info] [Death Notes] Meretrix shot a Stag using their Hunting Bow over a distance of 23.4 meters.
+01:16 [Info] [NTeleportation] Meretrix teleported to Smaste.
+01:16 [Info] [NTeleportation] Meretrix teleported back to previous location.
+01:16 [Info] [NTeleportation] Meretrix teleported Smaste to Meretrix.
+01:27 [Info] Loading Oxide Core v2.0.3867...
+01:27 [Info] Loading extensions...
+01:27 [Info] Latest compiler MD5: 5fbca0bf39b1c09ddf2fb3686b869242
+01:27 [Info] Local compiler MD5: 5fbca0bf39b1c09ddf2fb3686b869242
+01:27 [Info] Loaded extension CSharp v2.0.4000 by Oxide and Contributors
+01:27 [Info] Loaded extension Rust:IO for Oxide v2.15.0 by playrust.io / dcode
+01:27 [Info] Loaded extension MySql v2.0.3755 by Oxide and Contributors
+01:27 [Info] Loaded extension Rust v2.0.4185 by Oxide and Contributors
+01:27 [Info] Loaded extension SQLite v2.0.3754 by Oxide and Contributors
+01:27 [Info] Loaded extension Unity v2.0.3756 by Oxide and Contributors
+01:27 [Info] Using Covalence provider for game 'Rust'
+01:27 [Info] Loading plugins...
+01:27 [Info] Loaded plugin Rust v2.0.4185 by Oxide and Contributors
+01:27 [Info] Loaded plugin Unity v2.0.3756 by Oxide and Contributors
+01:27 [Info] Loaded plugin Rust:IO for Oxide v2.15.0 by playrust.io / dcode
+01:27 [Info] Added '// Reference: System.Drawing' in plugin 'SignArtist'
+01:27 [Info] DeathNotes, FurnaceSplitter, Give, Godmode, InfoPanel, Kits, MonumentRadiation, NoDecay, NoEscape, NTeleportation, PermissionsManager, PlayerAdministration, QuickSort, RemoveDefaultRadiation, RemoverTool, SaveAnnouncer, ServerRewards, SignArtist, SkipNightVote, SmoothRestart, StackSizeController, Vanish and ZLevelsRemastered were compiled successfully in 3703ms
+01:27 [Info] Loaded plugin Death Notes v6.2.0 by LaserHydra
+01:27 [Info] Loaded plugin Furnace Splitter v2.1.7 by Skipcast
+01:27 [Info] Loaded plugin Give v3.0.2 by Wulf/lukespragg
+01:27 [Info] Loaded plugin Godmode v4.1.1 by Wulf/lukespragg
+01:27 [Info] Loaded plugin InfoPanel v0.9.9 by Ghosst / Nogrod
+01:27 [Info] Loaded plugin Kits v3.2.93 by Reneb
+01:27 [Info] Loaded plugin MonumentRadiation v0.2.55 by k1lly0u
+01:27 [Info] Loaded plugin NoDecay v1.0.32 by Diesel_42o
+01:27 [Info] Loaded plugin NoEscape v2.1.22 by Calytic
+01:27 [Info] Loaded plugin NTeleportation v1.0.53 by RFC1920
+01:27 [Info] Loaded plugin PermissionsManager v0.1.1 by Steenamaroo
+01:27 [Info] Loaded plugin PlayerAdministration v1.3.21 by ThibmoRozier
+01:27 [Info] Loaded plugin Quick Sort v1.3.4 by Frenk92
+01:27 [Info] Loaded plugin RemoveDefaultRadiation v0.1.0 by k1lly0u
+01:27 [Info] Loaded plugin RemoverTool v4.2.10 by Reneb/Fuji
+01:27 [Info] Loaded plugin Save Announcer v1.0.4 by Ryan
+01:27 [Info] Loaded plugin ServerRewards v0.4.67 by k1lly0u
+01:27 [Info] Loaded plugin Sign Artist v1.1.2 by Mughisi
+01:27 [Info] Loaded plugin SkipNightVote v0.1.4 by k1lly0u
+01:27 [Info] Loaded plugin SmoothRestart v1.2.5 by Fujikura/Visagalis
+01:27 [Info] Loaded plugin Stack Size Controller v2.0.0 by Canopy Sheep
+01:27 [Info] Loaded plugin Vanish v0.7.4 by nivex
+01:27 [Info] Loaded plugin ZLevelsRemastered v2.9.5 by FuJiCuRa
+01:32 [Info] IP address from command-line: 172.96.165.106
+01:32 [Info] Updating Rust:IO ...
+01:32 [Info] Rust:IO: Update complete
+01:32 [Warning] Calling 'OnServerInitialized' on 'InfoPanel v0.9.9' took 740ms
+01:32 [Info] [MonumentRadiation] Created 4 monument radiation zones
+01:32 [Warning] Calling 'OnServerInitialized' on 'MonumentRadiation v0.2.55' took 1036ms [GARBAGE COLLECT]
+01:32 [Warning] [RemoveDefaultRadiation] All radiation elements destroyed, reloading plugins that use radiation
+01:32 [Warning] Calling 'OnServerInitialized' on 'RemoveDefaultRadiation v0.1.0' took 194ms
+01:32 [Warning] Calling 'OnServerInitialized' on 'RemoverTool v4.2.10' took 197ms
+01:32 [Warning] [ServerRewards] Image Library not detected, unloading ServerRewards
+01:32 [Info] Unloaded plugin ServerRewards v0.4.67 by k1lly0u
+01:32 [Info] [ZLevelsRemastered] Stats can be reset by > zl.reset <
+01:32 [Warning] Calling 'OnServerInitialized' on 'ZLevelsRemastered v2.9.5' took 301ms
+01:32 [Info] [SmoothRestart] Your servers Oxide build is up to date
+01:32 [Info] Installing Rust:IO ...
+01:32 [Info] Rust:IO> Setting up Rust:IO 2.3.6854.11652 ...
+01:32 [Info] Rust:IO> Creating directories ...
+01:32 [Info] Rust:IO> Applying config ...
+01:32 [Info] Rust:IO> Initializing database ...
+01:32 [Info] Rust:IO> Map wipe detected, resetting map specific data
+01:32 [Info] Rust:IO> Generating map image (this may take a while) ...
+01:32 [Info] Rust:IO> Generation complete
+--------- Summary --------
+Render       :  7639.855ms
+Postprocess  :  6144.106ms
+  Shadows    :   353.188ms
+  FXAA       :  5756.244ms
+Encoding     :    55.865ms
+Other        :    27.262ms
+--------------------------
+Total        :  13867.087ms
+01:32 [Info] Rust:IO> Starting HTTP server on 172.96.165.106:28435 ...
+01:32 [Info] Rust:IO> Installed.
+01:32 [Info] Rust:IO> Now ticking
+01:32 [Warning] Calling 'OnTick' on 'RustIO v2.15.0' took 14233ms [GARBAGE COLLECT]
+01:32 [Warning] Calling 'OnTick' on 'RustIO v2.15.0' took average 5ms [GARBAGE COLLECT]
+01:32 [Info] MonumentRadiation was compiled successfully in 2831ms
+01:32 [Warning] Calling 'Unload' on 'MonumentRadiation v0.2.55' took 167ms
+01:32 [Info] Unloaded plugin MonumentRadiation v0.2.55 by k1lly0u
+01:32 [Info] [MonumentRadiation] Created 4 monument radiation zones
+01:32 [Warning] Calling 'OnServerInitialized' on 'MonumentRadiation v0.2.55' took 596ms
+01:32 [Info] Loaded plugin MonumentRadiation v0.2.55 by k1lly0u
+01:32 [Info] Rust:IO> External IP address obtained from lookup: 172.96.165.106
+01:41 [Info] Loading Oxide Core v2.0.3867...
+01:41 [Info] Loading extensions...
+01:41 [Info] Latest compiler MD5: 5fbca0bf39b1c09ddf2fb3686b869242
+01:41 [Info] Local compiler MD5: 5fbca0bf39b1c09ddf2fb3686b869242
+01:41 [Info] Loaded extension CSharp v2.0.4000 by Oxide and Contributors
+01:41 [Info] Loaded extension Rust:IO for Oxide v2.15.0 by playrust.io / dcode
+01:41 [Info] Loaded extension MySql v2.0.3755 by Oxide and Contributors
+01:41 [Info] Loaded extension Rust v2.0.4185 by Oxide and Contributors
+01:41 [Info] Loaded extension SQLite v2.0.3754 by Oxide and Contributors
+01:41 [Info] Loaded extension Unity v2.0.3756 by Oxide and Contributors
+01:41 [Info] Using Covalence provider for game 'Rust'
+01:41 [Info] Loading plugins...
+01:41 [Info] Loaded plugin Rust v2.0.4185 by Oxide and Contributors
+01:41 [Info] Loaded plugin Unity v2.0.3756 by Oxide and Contributors
+01:41 [Info] Loaded plugin Rust:IO for Oxide v2.15.0 by playrust.io / dcode
+01:41 [Info] Added '// Reference: System.Drawing' in plugin 'SignArtist'
+01:41 [Info] DeathNotes, FurnaceSplitter, Give, Godmode, InfoPanel, Kits, MonumentRadiation, NoDecay, NoEscape, NTeleportation, PermissionsManager, PlayerAdministration, QuickSort, RemoveDefaultRadiation, RemoverTool, SaveAnnouncer, ServerRewards, SignArtist, SkipNightVote, SmoothRestart, StackSizeController, Vanish and ZLevelsRemastered were compiled successfully in 3835ms
+01:41 [Info] Loaded plugin Death Notes v6.2.0 by LaserHydra
+01:41 [Info] Loaded plugin Furnace Splitter v2.1.7 by Skipcast
+01:41 [Info] Loaded plugin Give v3.0.2 by Wulf/lukespragg
+01:41 [Info] Loaded plugin Godmode v4.1.1 by Wulf/lukespragg
+01:41 [Info] Loaded plugin InfoPanel v0.9.9 by Ghosst / Nogrod
+01:41 [Info] Loaded plugin Kits v3.2.93 by Reneb
+01:41 [Info] Loaded plugin MonumentRadiation v0.2.55 by k1lly0u
+01:41 [Info] Loaded plugin NoDecay v1.0.32 by Diesel_42o
+01:41 [Info] Loaded plugin NoEscape v2.1.22 by Calytic
+01:41 [Info] Loaded plugin NTeleportation v1.0.53 by RFC1920
+01:41 [Info] Loaded plugin PermissionsManager v0.1.1 by Steenamaroo
+01:41 [Info] Loaded plugin PlayerAdministration v1.3.21 by ThibmoRozier
+01:41 [Info] Loaded plugin Quick Sort v1.3.4 by Frenk92
+01:41 [Info] Loaded plugin RemoveDefaultRadiation v0.1.0 by k1lly0u
+01:41 [Info] Loaded plugin RemoverTool v4.2.10 by Reneb/Fuji
+01:41 [Info] Loaded plugin Save Announcer v1.0.4 by Ryan
+01:41 [Info] Loaded plugin ServerRewards v0.4.67 by k1lly0u
+01:41 [Info] Loaded plugin Sign Artist v1.1.2 by Mughisi
+01:41 [Info] Loaded plugin SkipNightVote v0.1.4 by k1lly0u
+01:41 [Info] Loaded plugin SmoothRestart v1.2.5 by Fujikura/Visagalis
+01:41 [Info] Loaded plugin Stack Size Controller v2.0.0 by Canopy Sheep
+01:41 [Info] Loaded plugin Vanish v0.7.4 by nivex
+01:41 [Info] Loaded plugin ZLevelsRemastered v2.9.5 by FuJiCuRa
+01:46 [Info] IP address from command-line: 172.96.165.106
+01:46 [Info] Updating Rust:IO ...
+01:46 [Info] Rust:IO: Update complete
+01:46 [Warning] Calling 'OnServerInitialized' on 'InfoPanel v0.9.9' took 761ms
+01:46 [Info] [MonumentRadiation] Created 4 monument radiation zones
+01:46 [Warning] Calling 'OnServerInitialized' on 'MonumentRadiation v0.2.55' took 1060ms [GARBAGE COLLECT]
+01:46 [Warning] [RemoveDefaultRadiation] All radiation elements destroyed, reloading plugins that use radiation
+01:46 [Warning] Calling 'OnServerInitialized' on 'RemoveDefaultRadiation v0.1.0' took 199ms
+01:46 [Warning] Calling 'OnServerInitialized' on 'RemoverTool v4.2.10' took 196ms
+01:46 [Warning] [ServerRewards] Image Library not detected, unloading ServerRewards
+01:46 [Info] Unloaded plugin ServerRewards v0.4.67 by k1lly0u
+01:46 [Info] [ZLevelsRemastered] Stats can be reset by > zl.reset <
+01:46 [Warning] Calling 'OnServerInitialized' on 'ZLevelsRemastered v2.9.5' took 301ms
+01:46 [Info] [SmoothRestart] Your servers Oxide build is up to date
+01:46 [Info] Installing Rust:IO ...
+01:46 [Info] Rust:IO> Setting up Rust:IO 2.3.6854.11652 ...
+01:46 [Info] Rust:IO> Creating directories ...
+01:46 [Info] Rust:IO> Applying config ...
+01:46 [Info] Rust:IO> Initializing database ...
+01:46 [Info] Rust:IO> Generating map image (this may take a while) ...
+01:46 [Info] Rust:IO> Generation complete
+--------- Summary --------
+Render       :  8119.475ms
+Postprocess  :  5717.100ms
+  Shadows    :   342.012ms
+  FXAA       :  5339.759ms
+Encoding     :    54.608ms
+Other        :    22.282ms
+--------------------------
+Total        :  13913.466ms
+01:46 [Info] Rust:IO> Starting HTTP server on 172.96.165.106:28435 ...
+01:46 [Info] Rust:IO> Installed.
+01:46 [Info] Rust:IO> Now ticking
+01:46 [Warning] Calling 'OnTick' on 'RustIO v2.15.0' took 14242ms [GARBAGE COLLECT]
+01:46 [Warning] Calling 'OnTick' on 'RustIO v2.15.0' took average 0ms [GARBAGE COLLECT]
+01:46 [Info] MonumentRadiation was compiled successfully in 3147ms
+01:46 [Warning] Calling 'Unload' on 'MonumentRadiation v0.2.55' took 152ms
+01:46 [Info] Unloaded plugin MonumentRadiation v0.2.55 by k1lly0u
+01:46 [Info] [MonumentRadiation] Created 4 monument radiation zones
+01:46 [Warning] Calling 'OnServerInitialized' on 'MonumentRadiation v0.2.55' took 646ms
+01:46 [Info] Loaded plugin MonumentRadiation v0.2.55 by k1lly0u
+01:46 [Info] Rust:IO> External IP address obtained from lookup: 172.96.165.106
+01:56 [Info] [NTeleportation] Meretrix teleported Smaste to Meretrix.
+01:57 [Info] [Give] Meretrix 1 x Jacket
+01:57 [Info] [Give] Smaste 1 x Jacket
+01:57 [Info] [Give] Meretrix 1 x Pants
+01:57 [Info] [Give] Smaste 1 x Pants
+01:57 [Info] [Give] Meretrix 1 x Boots
+01:57 [Info] [Give] Smaste 1 x Boots
+01:57 [Info] [Give] Meretrix 1 x Hoodie
+01:57 [Info] [Give] Smaste 1 x Hoodie
+01:58 [Info] [Give] Meretrix 1 x Hatchet
+01:58 [Info] [Give] Smaste 1 x Hatchet
+01:58 [Info] [Give] Meretrix 1 x Pickaxe
+01:58 [Info] [Give] Smaste 1 x Pickaxe
+01:58 [Info] [Give] Meretrix 1 x Wind Turbine
+01:58 [Info] [Give] Smaste 1 x Wind Turbine
+02:00 [Info] [Give] Meretrix 1 x Audio Alarm
+02:00 [Info] [Give] Smaste 1 x Audio Alarm
+02:00 [Info] [Give] Meretrix 1 x Bed
+02:00 [Info] [Give] Smaste 1 x Bed
+02:00 [Info] [Give] Meretrix 1 x Assault Rifle
+02:00 [Info] [Give] Smaste 1 x Assault Rifle
+02:00 [Info] [Give] Meretrix 1 x Door Controller
+02:00 [Info] [Give] Smaste 1 x Door Controller
+02:00 [Info] [Give] Meretrix 1 x Switch
+02:00 [Info] [Give] Smaste 1 x Switch
+02:01 [Info] [Give] Meretrix 1 x HBHF Sensor
+02:01 [Info] [Give] Smaste 1 x HBHF Sensor
+02:01 [Info] [Give] Meretrix 1 x RF Broadcaster
+02:01 [Info] [Give] Smaste 1 x RF Broadcaster
+02:01 [Info] [Give] Meretrix 1 x RF Receiver
+02:01 [Info] [Give] Smaste 1 x RF Receiver
+02:02 [Info] [Give] Meretrix 1 x Wooden Ladder
+02:02 [Info] [Give] Smaste 1 x Wooden Ladder
+02:02 [Info] [Give] Meretrix 1000 x Metal Fragments
+02:02 [Info] [Give] Meretrix 1000 x Metal Fragments
+02:02 [Info] [Give] Meretrix 1000 x Metal Fragments
+02:02 [Info] [Give] Meretrix 1000 x Metal Fragments
+02:02 [Info] [Give] Meretrix 1000 x Metal Fragments
+02:02 [Info] [Give] Meretrix 1000 x Metal Fragments
+02:02 [Info] [Give] Meretrix 1000 x Metal Fragments
+02:02 [Info] [Give] Meretrix 1000 x Metal Fragments
+02:02 [Info] [Give] Meretrix 1000 x Metal Fragments
+02:02 [Info] [Give] Meretrix 1000 x Metal Fragments
+02:02 [Info] [Give] Meretrix 1000 x Wood
+02:02 [Info] [Give] Meretrix 1000 x Wood
+02:02 [Info] [Give] Meretrix 1000 x Wood
+02:02 [Info] [Give] Meretrix 1000 x Wood
+02:02 [Info] [Give] Meretrix 1000 x Wood
+02:02 [Info] [Give] Meretrix 1000 x Wood
+02:02 [Info] [Give] Meretrix 1000 x Wood
+02:02 [Info] [Give] Meretrix 1000 x Wood
+02:02 [Info] [Give] Meretrix 1000 x Wood
+02:02 [Info] [Give] Meretrix 1000 x Wood
+02:02 [Info] [Give] Meretrix 1000 x Wood
+02:02 [Info] [Give] Meretrix 1000 x Wood
+02:02 [Info] [Give] Meretrix 1000 x Wood
+02:02 [Info] [Give] Meretrix 1000 x Wood
+02:02 [Info] [Give] Meretrix 1000 x Wood
+02:02 [Info] [Give] Meretrix 1000 x Wood
+02:02 [Info] [Give] Meretrix 1000 x Wood
+02:02 [Info] [Give] Meretrix 1000 x Wood
+02:02 [Info] [Give] Meretrix 1000 x Wood
+02:02 [Info] [Give] Meretrix 1000 x Wood
+02:02 [Info] [Give] Meretrix 1000 x Wood
+02:02 [Info] [Give] Meretrix 1000 x Wood
+02:02 [Info] [Give] Meretrix 1000 x Wood
+02:02 [Info] [Give] Meretrix 1000 x Wood
+02:02 [Info] [Give] Meretrix 1000 x Wood
+02:02 [Info] [Give] Meretrix 1000 x Wood
+02:02 [Info] [Give] Meretrix 1000 x Wood
+02:02 [Info] [Give] Meretrix 1000 x Wood
+02:02 [Info] [Give] Meretrix 1000 x Wood
+02:02 [Info] [Give] Meretrix 1000 x Wood
+02:02 [Info] [Give] Meretrix 1000 x Wood
+02:02 [Info] [Give] Meretrix 1000 x Wood
+02:02 [Info] [Give] Meretrix 1000 x Wood
+02:02 [Info] [Give] Meretrix 1000 x Wood
+02:02 [Info] [Give] Meretrix 1000 x Wood
+02:02 [Info] [Give] Meretrix 1000 x Wood
+02:02 [Info] [Give] Meretrix 1000 x Wood
+02:02 [Info] [Give] Meretrix 1000 x Wood
+02:02 [Info] [Give] Meretrix 1000 x Wood
+02:02 [Info] [Give] Meretrix 1000 x Wood
+02:02 [Info] [Give] Meretrix 1000 x Wood
+02:02 [Info] [Give] Meretrix 1000 x Wood
+02:02 [Info] [Give] Meretrix 1000 x Wood
+02:02 [Info] [Give] Meretrix 1000 x Wood
+02:02 [Info] [Give] Meretrix 1000 x Wood
+02:02 [Info] [Give] Meretrix 1000 x Wood
+02:02 [Info] [Give] Meretrix 1000 x Wood
+02:02 [Info] [Give] Meretrix 1000 x Wood
+02:02 [Info] [Give] Meretrix 1000 x Wood
+02:02 [Info] [Give] Meretrix 1000 x Wood
+02:02 [Info] [Give] Meretrix 1000 x Stones
+02:02 [Info] [Give] Meretrix 1000 x Stones
+02:02 [Info] [Give] Meretrix 1000 x Stones
+02:02 [Info] [Give] Meretrix 1000 x Stones
+02:02 [Info] [Give] Meretrix 1000 x Stones
+02:02 [Info] [Give] Meretrix 1000 x Stones
+02:02 [Info] [Give] Meretrix 1000 x Stones
+02:02 [Info] [Give] Meretrix 1000 x Stones
+02:02 [Info] [Give] Meretrix 1000 x Stones
+02:02 [Info] [Give] Meretrix 1000 x Stones
+02:02 [Info] [Give] Meretrix 1000 x Stones
+02:02 [Info] [Give] Meretrix 1000 x Stones
+02:02 [Info] [Give] Meretrix 1000 x Stones
+02:02 [Info] [Give] Meretrix 1000 x Stones
+02:02 [Info] [Give] Meretrix 1000 x Stones
+02:02 [Info] [Give] Meretrix 1000 x Stones
+02:02 [Info] [Give] Meretrix 1000 x Stones
+02:02 [Info] [Give] Meretrix 1000 x Stones
+02:02 [Info] [Give] Meretrix 1000 x Stones
+02:02 [Info] [Give] Meretrix 1000 x Stones
+02:02 [Info] [Give] Meretrix 1000 x Stones
+02:02 [Info] [Give] Meretrix 1000 x Stones
+02:02 [Info] [Give] Meretrix 1000 x Stones
+02:02 [Info] [Give] Meretrix 1000 x Stones
+02:02 [Info] [Give] Meretrix 1000 x Stones
+02:02 [Info] [Give] Meretrix 1000 x Stones
+02:03 [Info] [Give] Meretrix 1 x Building Plan
+02:03 [Info] [Give] Meretrix 1 x Research Table
+02:03 [Info] [Give] Smaste 1 x Research Table
+02:03 [Info] [Give] Meretrix 1 x Work Bench Level 2
+02:03 [Info] [Give] Smaste 1 x Work Bench Level 2
+02:03 [Info] [Give] Meretrix 1 x Timed Explosive Charge
+02:03 [Info] [Give] Smaste 1 x Timed Explosive Charge
+02:05 [Info] [Give] Smaste 70000 x Wood
+02:05 [Info] [Give] Meretrix 80000 x Metal Fragments
+02:05 [Info] [Give] Smaste 80000 x Metal Fragments
+02:06 [Info] [Give] Meretrix 10000 x Scrap
+02:06 [Info] [Give] Smaste 10000 x Scrap
+02:07 [Info] [Give] Meretrix 100000 x Explosives
+02:07 [Info] [Give] Smaste 100000 x Explosives
+02:09 [Info] [Give] Meretrix 1 x Roadsign Gloves
+02:09 [Info] [Give] Smaste 1 x Roadsign Gloves
+02:09 [Info] [Give] Meretrix 1 x Road Sign Jacket
+02:09 [Info] [Give] Smaste 1 x Road Sign Jacket
+02:36 [Info] [Give] Meretrix 1 x Small Rechargable Battery
+02:36 [Info] [Give] Meretrix 1 x Large Rechargable Battery
+02:36 [Info] [Give] Meretrix 1 x Large Rechargable Battery
+02:36 [Info] [Give] Meretrix 1 x Large Rechargable Battery
+02:36 [Info] [Give] Meretrix 1 x Large Rechargable Battery
+02:36 [Info] [Give] Meretrix 1 x Large Rechargable Battery
+02:36 [Info] [Give] Meretrix 1 x Large Rechargable Battery
+02:37 [Info] [Give] Meretrix 1 x Wire Tool
+02:55 [Info] [Give] Meretrix 1000 x High Quality Metal
+02:56 [Info] [Give] Meretrix 1 x Code Lock
+02:57 [Info] [Give] Meretrix 1 x Mining Quarry
+02:58 [Info] [Give] Meretrix 1 x Armored Door
+03:03 [Info] [Give] Meretrix 1 x Sheet Metal Door
+03:04 [Info] [Give] Meretrix 1 x Code Lock
+03:04 [Info] [Give] Meretrix 1 x Code Lock
+03:12 [Info] [Give] Meretrix 1 x Root Combiner
+03:17 [Info] [Give] Meretrix 1 x Large Solar Panel
+03:21 [Info] [Give] Meretrix 1 x Wind Turbine
+03:28 [Info] [Death Notes] Leonidas {reborn} couldn't run away from the Boar.
+03:34 [Info] [Death Notes] Leonidas {reborn} couldn't run away from the Bear.
+03:35 [Info] [Give] Meretrix 1 x Large Solar Panel
+03:35 [Info] [Give] Meretrix 1 x Large Solar Panel
+03:35 [Info] [Give] Meretrix 1 x Large Solar Panel
+03:35 [Info] [Give] Meretrix 1 x Large Solar Panel
+03:35 [Info] [Give] Meretrix 1 x Large Solar Panel
+03:35 [Info] [Give] Meretrix 1 x Large Solar Panel
+03:35 [Info] [Give] Meretrix 1 x Large Solar Panel
+03:35 [Info] [Give] Meretrix 1 x Large Solar Panel
+03:38 [Info] [Give] Meretrix 10 x Root Combiner
+03:42 [Info] [Give] Meretrix 1 x Splitter
+03:48 [Info] [Death Notes] Leonidas {reborn} couldn't run away from the Wolf.
+03:52 [Info] [Give] Meretrix 1 x Large Rechargable Battery
+03:54 [Info] [Give] Meretrix 100 x Large Rechargable Battery
+03:55 [Info] [Give] Meretrix 100 x Counter
+03:56 [Info] [Give] Meretrix 10 x Splitter
+04:14 [Info] [Death Notes] Leonidas {reborn} killed a Chicken using their Stone Pickaxe.
+04:15 [Info] [Death Notes] Leonidas {reborn} killed a Chicken using their Stone Hatchet.
+04:16 [Info] [Give] Meretrix 10 x Large Rechargable Battery
+10:17 [Info] [Death Notes] Smaste shot a Bear using their M249 over a distance of 29.5 meters.
+10:19 [Info] [Death Notes] jokerswildj shot a Boar using their Hunting Bow over a distance of 13.6 meters.
+10:22 [Info] [Death Notes] jokerswildj shot a Boar using their Hunting Bow over a distance of 13.3 meters.
+10:31 [Info] [Death Notes] jokerswildj killed a Boar using their Mace.
+10:33 [Info] [Death Notes] Smaste shot a Boar using their M249 over a distance of 56.1 meters.
+10:36 [Info] [Death Notes] jokerswildj killed a Wolf using their Mace.
+10:56 [Info] [Death Notes] Smaste shot a Bear using their M249 over a distance of 10 meters.
+13:35 [Info] [NTeleportation] jokerswildj teleported back to previous location.
+13:36 [Info] [NTeleportation] Smaste teleported back to previous location.
+13:46 [Info] [Death Notes] Smaste did not want to be a part of the Scientist's experiments.
+13:47 [Info] [Death Notes] Smaste shot a Boar using their M249 over a distance of 16.2 meters.
+13:47 [Info] [Death Notes] Smaste did not want to be a part of the Scientist's experiments.
+14:29 [Info] [NTeleportation] Smaste teleported back to previous location.
+14:45 [Info] [Death Notes] jokerswildj killed a Boar using their Salvaged Cleaver.
+15:22 [Info] [NTeleportation] Smaste teleported back to previous location.
+15:25 [Info] [Death Notes] jokerswildj killed a Wolf using their Salvaged Cleaver.
+15:36 [Info] [Death Notes] jokerswildj did not want to be a part of the Scientist's experiments.
+15:37 [Info] [Death Notes] Smaste did not want to be a part of the Scientist's experiments.
+15:37 [Info] [Death Notes] jokerswildj did not want to be a part of the Scientist's experiments.
+15:38 [Info] [Death Notes] Smaste did not want to be a part of the Scientist's experiments.
+15:38 [Info] [Death Notes] Smaste did not want to be a part of the Scientist's experiments.
+15:41 [Info] [Death Notes] Smaste did not want to be a part of the Scientist's experiments.
+15:41 [Info] [Death Notes] jokerswildj did not want to be a part of the Scientist's experiments.
+15:42 [Info] [Death Notes] jokerswildj did not want to be a part of the Scientist's experiments.
+15:44 [Info] [Death Notes] A Scientist shot down Smaste.
+15:45 [Info] [Death Notes] A Scientist shot down Smaste.
+15:45 [Info] [Death Notes] A Scientist shot down jokerswildj.
+15:47 [Info] [Death Notes] Smaste did not want to be a part of the Scientist's experiments.
+15:47 [Info] [Death Notes] Smaste did not want to be a part of the Scientist's experiments.
+15:48 [Info] [Death Notes] Smaste did not want to be a part of the Scientist's experiments.
+15:54 [Info] [Death Notes] Smaste did not want to be a part of the Scientist's experiments.
+15:55 [Info] [Death Notes] Smaste did not want to be a part of the Scientist's experiments.
+15:55 [Info] [Death Notes] Smaste did not want to be a part of the Scientist's experiments.
+15:59 [Info] [Death Notes] Smaste did not want to be a part of the Scientist's experiments.
+15:59 [Info] [Death Notes] jokerswildj did not want to be a part of the Scientist's experiments.
+15:59 [Info] [Death Notes] Smaste did not want to be a part of the Scientist's experiments.
+16:01 [Info] [Give] Meretrix 1 x High Quality Metal Ore
+16:01 [Info] [Give] Meretrix 1000 x High Quality Metal Ore
+16:02 [Info] [Death Notes] jokerswildj did not want to be a part of the Scientist's experiments.
+16:02 [Info] [Give] Meretrix 1 x Furnace
+16:02 [Info] [Give] Meretrix 1 x Furnace
+16:02 [Info] [Give] Meretrix 1 x Furnace
+16:02 [Info] [Give] Meretrix 1 x Furnace
+16:02 [Info] [Death Notes] Smaste killed jokerswildj using their F1 Grenade.
+16:02 [Info] [Give] Meretrix 1 x Large Furnace
+16:06 [Info] [Give] Meretrix 1000 x High Quality Metal
+16:06 [Info] [Give] Meretrix 1000 x High Quality Metal
+16:06 [Info] [Give] Meretrix 1000 x High Quality Metal
+16:06 [Info] [Give] Meretrix 1000 x High Quality Metal
+16:06 [Info] [Give] Meretrix 1000 x High Quality Metal
+16:07 [Info] [NTeleportation] Smaste teleported back to previous location.
+16:09 [Info] [Give] Meretrix 100 x Armored Door
+16:09 [Info] [Give] Meretrix 100 x Code Lock
+16:15 [Info] [Give] Meretrix 1000 x High Quality Metal
+16:15 [Info] [Give] Meretrix 1000 x High Quality Metal
+16:15 [Info] [Give] Meretrix 1000 x High Quality Metal
+16:15 [Info] [Give] Meretrix 1000 x High Quality Metal
+16:15 [Info] [Give] Meretrix 1000 x High Quality Metal
+16:15 [Info] [Give] Meretrix 1000 x Wood
+16:15 [Info] [Give] Meretrix 1000 x Wood
+16:15 [Info] [Give] Meretrix 1000 x Wood
+16:15 [Info] [Give] Meretrix 1000 x Wood
+16:15 [Info] [Give] Meretrix 1000 x Wood
+16:15 [Info] [Give] Meretrix 1000 x Stones
+16:15 [Info] [Give] Meretrix 1000 x Stones
+16:15 [Info] [Give] Meretrix 1000 x Stones
+16:15 [Info] [Give] Meretrix 1000 x Stones
+16:15 [Info] [Give] Meretrix 1000 x Stones
+16:15 [Info] [Give] Meretrix 1000 x Stones
+16:15 [Info] [Give] Meretrix 1000 x Stones
+16:15 [Info] [Give] Meretrix 1000 x Stones
+16:15 [Info] [Give] Meretrix 1000 x Stones
+16:15 [Info] [Give] Meretrix 1000 x Stones
+16:15 [Info] [Give] Meretrix 1000 x Stones
+16:15 [Info] [Give] Meretrix 1000 x Stones
+16:15 [Info] [Give] Meretrix 1000 x Stones
+16:15 [Info] [Give] Meretrix 1000 x Stones
+16:15 [Info] [Give] Meretrix 1000 x Stones
+16:15 [Info] [Give] Meretrix 1000 x Stones
+16:15 [Info] [Give] Meretrix 1000 x Stones
+16:15 [Info] [Give] Meretrix 1000 x Stones
+16:15 [Info] [Give] Meretrix 1000 x Stones
+16:15 [Info] [Give] Meretrix 1000 x Stones
+16:15 [Info] [Give] Meretrix 1000 x Wood
+16:15 [Info] [Give] Meretrix 1000 x Wood
+16:15 [Info] [Give] Meretrix 1000 x Wood
+16:15 [Info] [Give] Meretrix 1000 x Wood
+16:15 [Info] [Give] Meretrix 1000 x Wood
+16:15 [Info] [Give] Meretrix 1000 x Wood
+16:15 [Info] [Give] Meretrix 1000 x Wood
+16:15 [Info] [Give] Meretrix 1000 x Wood
+16:15 [Info] [Give] Meretrix 1000 x Wood
+16:15 [Info] [Give] Meretrix 1000 x Wood
+16:15 [Info] [Give] Meretrix 1000 x Wood
+16:15 [Info] [Give] Meretrix 1000 x Wood
+16:15 [Info] [Give] Meretrix 1000 x Wood
+16:15 [Info] [Give] Meretrix 1000 x Wood
+16:15 [Info] [Give] Meretrix 1000 x Wood
+16:15 [Info] [Give] Meretrix 1000 x Wood
+16:15 [Info] [Give] Meretrix 1000 x Wood
+16:15 [Info] [Give] Meretrix 1000 x Wood
+16:52 [Info] [Death Notes] jokerswildj shot a Boar using their Custom SMG over a distance of 17.4 meters.
+16:56 [Info] [Death Notes] jokerswildj did not want to be a part of the Scientist's experiments.
+16:57 [Info] [Death Notes] A Scientist shot down jokerswildj.
+17:03 [Info] [Death Notes] Smaste shot a Chicken using their Assault Rifle over a distance of 3.4 meters.
+17:03 [Info] [Death Notes] jokerswildj did not want to be a part of the Scientist's experiments.
+17:38 [Warning] Calling 'OnTick' on 'RustIO v2.15.0' took 455ms [GARBAGE COLLECT]
+18:34 [Info] [NTeleportation] Smaste teleported back to previous location.
+19:32 [Info] [Death Notes] Smaste shot a Wolf using their Assault Rifle over a distance of 3.6 meters.
+19:45 [Info] [Death Notes] Smaste did not want to be a part of the Scientist's experiments.
+19:46 [Info] [Death Notes] Smaste did not want to be a part of the Scientist's experiments.
+20:32 [Info] [NTeleportation] jokerswildj teleported back to previous location.
+20:39 [Info] [Give] Meretrix 1000 x Wood
+20:42 [Info] [Give] Meretrix 1000 x Stones
+20:42 [Info] [Give] Meretrix 1000 x Stones
+20:42 [Info] [Give] Meretrix 1000 x Stones
+20:42 [Info] [Give] Meretrix 1000 x Wood
+20:42 [Info] [Give] Meretrix 1000 x Wood
+20:42 [Info] [Give] Meretrix 1000 x Wood
+20:47 [Info] [Give] Meretrix 1000 x Counter
+20:47 [Info] [Give] Meretrix 1000 x Splitter
+20:48 [Info] [Give] Meretrix 1000 x Electrical Branch
+20:48 [Info] [Give] Meretrix 1000 x Root Combiner
+20:48 [Info] [Give] Meretrix 1000 x Large Rechargable Battery
+20:48 [Info] [Give] Meretrix 1000 x Large Solar Panel
+20:54 [Info] [Death Notes] Smaste shot a Bear using their Assault Rifle over a distance of 3 meters.
+20:55 [Info] [Death Notes] Smaste shot a Wolf using their Assault Rifle over a distance of 0.9 meters.
+21:00 [Info] [Give] Meretrix 1000 x Wood
+21:00 [Info] [Give] Meretrix 1000 x Wood
+21:00 [Info] [Give] Meretrix 1000 x Wood
+21:00 [Info] [Give] Meretrix 1000 x Wood
+21:00 [Info] [Give] Meretrix 1000 x Wood
+21:00 [Info] [Give] Meretrix 1000 x Wood
+21:00 [Info] [Give] Meretrix 1000 x Wood
+21:00 [Info] [Give] Meretrix 1000 x Wood
+21:00 [Info] [Give] Meretrix 1000 x Wood
+21:00 [Info] [Give] Meretrix 1000 x Wood
+21:00 [Info] [Give] Meretrix 1000 x Wood
+21:00 [Info] [Give] Meretrix 1000 x Wood
+21:00 [Info] [Give] Meretrix 1000 x Wood
+21:00 [Info] [Give] Meretrix 1000 x Wood
+21:00 [Info] [Give] Meretrix 1000 x Wood
+21:00 [Info] [Give] Meretrix 1000 x Wood
+21:00 [Info] [Give] Meretrix 1000 x Stones
+21:00 [Info] [Give] Meretrix 1000 x Stones
+21:00 [Info] [Give] Meretrix 1000 x Stones
+21:00 [Info] [Give] Meretrix 1000 x Stones
+21:00 [Info] [Give] Meretrix 1000 x Stones
+21:00 [Info] [Give] Meretrix 1 x Stones
+21:00 [Info] [Give] Meretrix 1000 x Stones
+21:00 [Info] [Give] Meretrix 1000 x Stones
+21:00 [Info] [Give] Meretrix 1000 x Stones
+21:00 [Info] [Give] Meretrix 100 x Stones
+21:00 [Info] [Give] Meretrix 1000 x Stones
+21:00 [Info] [Give] Meretrix 1000 x Stones
+21:00 [Info] [Give] Meretrix 1000 x Stones
+21:00 [Info] [Give] Meretrix 1000 x Stones
+21:00 [Info] [Give] Meretrix 1000 x Stones
+21:00 [Info] [Give] Meretrix 1000 x Stones
+21:00 [Info] [Give] Meretrix 1000 x Stones
+21:01 [Info] [Give] Meretrix 100 x High Quality Metal
+21:02 [Info] [Give] Meretrix 1 x Wooden Ladder
+21:10 [Info] [Give] Meretrix 1 x Cable Tunnel
+21:10 [Info] [Give] Meretrix 1 x Cable Tunnel
+21:10 [Info] [Give] Meretrix 1 x Cable Tunnel
+21:23 [Info] [Give] Meretrix 100 x Root Combiner
+21:34 [Info] [NTeleportation] Smaste teleported back to previous location.
+21:52 [Info] Loading Oxide Core v2.0.3867...
+21:52 [Info] Loading extensions...
+21:52 [Info] Latest compiler MD5: 5fbca0bf39b1c09ddf2fb3686b869242
+21:52 [Info] Local compiler MD5: 5fbca0bf39b1c09ddf2fb3686b869242
+21:52 [Info] Loaded extension CSharp v2.0.4000 by Oxide and Contributors
+21:52 [Info] Loaded extension Rust:IO for Oxide v2.15.0 by playrust.io / dcode
+21:52 [Info] Loaded extension MySql v2.0.3755 by Oxide and Contributors
+21:52 [Info] Loaded extension Rust v2.0.4185 by Oxide and Contributors
+21:52 [Info] Loaded extension SQLite v2.0.3754 by Oxide and Contributors
+21:52 [Info] Loaded extension Unity v2.0.3756 by Oxide and Contributors
+21:52 [Info] Using Covalence provider for game 'Rust'
+21:52 [Info] Loading plugins...
+21:52 [Info] Loaded plugin Rust v2.0.4185 by Oxide and Contributors
+21:52 [Info] Loaded plugin Unity v2.0.3756 by Oxide and Contributors
+21:52 [Info] Loaded plugin Rust:IO for Oxide v2.15.0 by playrust.io / dcode
+21:52 [Info] Added '// Reference: System.Drawing' in plugin 'SignArtist'
+21:53 [Info] DeathNotes, FurnaceSplitter, Give, Godmode, InfoPanel, Kits, MonumentRadiation, NoDecay, NoEscape, NTeleportation, PermissionsManager, PlayerAdministration, QuickSort, RemoveDefaultRadiation, RemoverTool, SaveAnnouncer, ServerRewards, SignArtist, SkipNightVote, SmoothRestart, StackSizeController, Vanish and ZLevelsRemastered were compiled successfully in 3686ms
+21:53 [Info] Loaded plugin Death Notes v6.2.0 by LaserHydra
+21:53 [Info] Loaded plugin Furnace Splitter v2.1.7 by Skipcast
+21:53 [Info] Loaded plugin Give v3.0.2 by Wulf/lukespragg
+21:53 [Info] Loaded plugin Godmode v4.1.1 by Wulf/lukespragg
+21:53 [Info] Loaded plugin InfoPanel v0.9.9 by Ghosst / Nogrod
+21:53 [Info] Loaded plugin Kits v3.2.93 by Reneb
+21:53 [Info] Loaded plugin MonumentRadiation v0.2.55 by k1lly0u
+21:53 [Info] Loaded plugin NoDecay v1.0.32 by Diesel_42o
+21:53 [Info] Loaded plugin NoEscape v2.1.22 by Calytic
+21:53 [Info] Loaded plugin NTeleportation v1.0.53 by RFC1920
+21:53 [Info] Loaded plugin PermissionsManager v0.1.1 by Steenamaroo
+21:53 [Info] Loaded plugin PlayerAdministration v1.3.21 by ThibmoRozier
+21:53 [Info] Loaded plugin Quick Sort v1.3.4 by Frenk92
+21:53 [Info] Loaded plugin RemoveDefaultRadiation v0.1.0 by k1lly0u
+21:53 [Info] Loaded plugin RemoverTool v4.2.10 by Reneb/Fuji
+21:53 [Info] Loaded plugin Save Announcer v1.0.4 by Ryan
+21:53 [Info] Loaded plugin ServerRewards v0.4.67 by k1lly0u
+21:53 [Info] Loaded plugin Sign Artist v1.1.2 by Mughisi
+21:53 [Info] Loaded plugin SkipNightVote v0.1.4 by k1lly0u
+21:53 [Info] Loaded plugin SmoothRestart v1.2.5 by Fujikura/Visagalis
+21:53 [Info] Loaded plugin Stack Size Controller v2.0.0 by Canopy Sheep
+21:53 [Info] Loaded plugin Vanish v0.7.4 by nivex
+21:53 [Info] Loaded plugin ZLevelsRemastered v2.9.5 by FuJiCuRa
+21:56 [Error] Failed to call hook 'OnEntitySpawned' on plugin 'InfoPanel v0.9.9' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.InfoPanel.OnEntitySpawned (BaseEntity Entity) [0x000cc] in <cb9e853fdebe44de8234055d43ba7d33>:0 
+  at Oxide.Plugins.InfoPanel.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x0063e] in <cb9e853fdebe44de8234055d43ba7d33>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <9affce1cd15c4ec183941adef8db1722>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <4452f821def6406d834e4149849fe7ea>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <4452f821def6406d834e4149849fe7ea>:0 
+21:56 [Info] IP address from command-line: 172.96.165.106
+21:56 [Info] Updating Rust:IO ...
+21:56 [Warning] Calling 'OnServerInitialized' on 'InfoPanel v0.9.9' took 703ms
+21:56 [Info] Rust:IO: Update complete
+21:56 [Info] [MonumentRadiation] Created 4 monument radiation zones
+21:56 [Warning] Calling 'OnServerInitialized' on 'MonumentRadiation v0.2.55' took 1252ms [GARBAGE COLLECT]
+21:56 [Warning] [RemoveDefaultRadiation] All radiation elements destroyed, reloading plugins that use radiation
+21:56 [Warning] Calling 'OnServerInitialized' on 'RemoveDefaultRadiation v0.1.0' took 174ms
+21:56 [Warning] Calling 'OnServerInitialized' on 'RemoverTool v4.2.10' took 178ms
+21:56 [Warning] [ServerRewards] Image Library not detected, unloading ServerRewards
+21:56 [Info] Unloaded plugin ServerRewards v0.4.67 by k1lly0u
+21:56 [Info] [ZLevelsRemastered] Stats can be reset by > zl.reset <
+21:56 [Warning] Calling 'OnServerInitialized' on 'ZLevelsRemastered v2.9.5' took 249ms
+21:57 [Info] [SmoothRestart] Your servers Oxide build is up to date
+21:57 [Info] Installing Rust:IO ...
+21:57 [Info] Rust:IO> Setting up Rust:IO 2.3.6854.11652 ...
+21:57 [Info] Rust:IO> Creating directories ...
+21:57 [Info] Rust:IO> Applying config ...
+21:57 [Info] Rust:IO> Initializing database ...
+21:57 [Info] Rust:IO> Generating map image (this may take a while) ...
+21:57 [Info] Rust:IO> Generation complete
+--------- Summary --------
+Render       :  5502.428ms
+Postprocess  :  5889.822ms
+  Shadows    :   351.593ms
+  FXAA       :  5503.168ms
+Encoding     :    54.736ms
+Other        :    21.626ms
+--------------------------
+Total        :  11468.612ms
+21:57 [Info] Rust:IO> Starting HTTP server on 172.96.165.106:28435 ...
+21:57 [Info] Rust:IO> Installed.
+21:57 [Info] Rust:IO> Now ticking
+21:57 [Warning] Calling 'OnTick' on 'RustIO v2.15.0' took 11801ms [GARBAGE COLLECT]
+21:57 [Warning] Calling 'OnTick' on 'RustIO v2.15.0' took average 0ms [GARBAGE COLLECT]
+21:57 [Info] MonumentRadiation was compiled successfully in 2905ms
+21:57 [Warning] Calling 'Unload' on 'MonumentRadiation v0.2.55' took 180ms
+21:57 [Info] Unloaded plugin MonumentRadiation v0.2.55 by k1lly0u
+21:57 [Info] [MonumentRadiation] Created 4 monument radiation zones
+21:57 [Warning] Calling 'OnServerInitialized' on 'MonumentRadiation v0.2.55' took 933ms [GARBAGE COLLECT]
+21:57 [Info] Loaded plugin MonumentRadiation v0.2.55 by k1lly0u
+21:57 [Info] Rust:IO> External IP address obtained from lookup: 172.96.165.106
+22:12 [Info] [Give] Meretrix 1 x Small Generator
+22:13 [Info] [Give] Meretrix 100 x Small Generator
+22:13 [Info] [Give] Meretrix 100 x Small Generator
+22:27 [Info] [NTeleportation] Meretrix teleported Smaste to Meretrix.
+22:32 [Info] [Give] Meretrix 1 x Snow Machine
+22:32 [Info] [Give] Meretrix 1 x Fogger-3000
+22:32 [Info] [Give] Meretrix 1 x HBHF Sensor
+22:45 [Info] [Give] Meretrix 1 x Electrical Branch
+22:53 [Info] [Give] Meretrix 1 x Blocker
+23:06 [Info] [Give] Meretrix 1 x Electrical Branch
+23:09 [Info] [Give] Meretrix 1 x Blocker
+23:18 [Info] [Give] Meretrix 1 x Low Grade Fuel
+23:18 [Info] [Give] Meretrix 100 x Low Grade Fuel
+23:32 [Info] Loading Oxide Core v2.0.3867...
+23:32 [Info] Loading extensions...
+23:32 [Info] Latest compiler MD5: 5fbca0bf39b1c09ddf2fb3686b869242
+23:32 [Info] Local compiler MD5: 5fbca0bf39b1c09ddf2fb3686b869242
+23:32 [Info] Loaded extension CSharp v2.0.4000 by Oxide and Contributors
+23:32 [Info] Loaded extension Rust:IO for Oxide v2.15.0 by playrust.io / dcode
+23:32 [Info] Loaded extension MySql v2.0.3755 by Oxide and Contributors
+23:32 [Info] Loaded extension Rust v2.0.4185 by Oxide and Contributors
+23:32 [Info] Loaded extension SQLite v2.0.3754 by Oxide and Contributors
+23:32 [Info] Loaded extension Unity v2.0.3756 by Oxide and Contributors
+23:32 [Info] Using Covalence provider for game 'Rust'
+23:32 [Info] Loading plugins...
+23:32 [Info] Loaded plugin Rust v2.0.4185 by Oxide and Contributors
+23:32 [Info] Loaded plugin Unity v2.0.3756 by Oxide and Contributors
+23:32 [Info] Loaded plugin Rust:IO for Oxide v2.15.0 by playrust.io / dcode
+23:32 [Info] Added '// Reference: System.Drawing' in plugin 'SignArtist'
+23:32 [Info] DeathNotes, FurnaceSplitter, Give, Godmode, InfoPanel, Kits, MonumentRadiation, NoDecay, NoEscape, NTeleportation, PermissionsManager, PlayerAdministration, QuickSort, RemoveDefaultRadiation, RemoverTool, SaveAnnouncer, ServerRewards, SignArtist, SkipNightVote, SmoothRestart, StackSizeController, Vanish and ZLevelsRemastered were compiled successfully in 3733ms
+23:32 [Info] Loaded plugin Death Notes v6.2.0 by LaserHydra
+23:32 [Info] Loaded plugin Furnace Splitter v2.1.7 by Skipcast
+23:32 [Info] Loaded plugin Give v3.0.2 by Wulf/lukespragg
+23:32 [Info] Loaded plugin Godmode v4.1.1 by Wulf/lukespragg
+23:32 [Info] Loaded plugin InfoPanel v0.9.9 by Ghosst / Nogrod
+23:32 [Info] Loaded plugin Kits v3.2.93 by Reneb
+23:32 [Info] Loaded plugin MonumentRadiation v0.2.55 by k1lly0u
+23:32 [Info] Loaded plugin NoDecay v1.0.32 by Diesel_42o
+23:32 [Info] Loaded plugin NoEscape v2.1.22 by Calytic
+23:32 [Info] Loaded plugin NTeleportation v1.0.53 by RFC1920
+23:32 [Info] Loaded plugin PermissionsManager v0.1.1 by Steenamaroo
+23:32 [Info] Loaded plugin PlayerAdministration v1.3.21 by ThibmoRozier
+23:32 [Info] Loaded plugin Quick Sort v1.3.4 by Frenk92
+23:32 [Info] Loaded plugin RemoveDefaultRadiation v0.1.0 by k1lly0u
+23:32 [Info] Loaded plugin RemoverTool v4.2.10 by Reneb/Fuji
+23:32 [Info] Loaded plugin Save Announcer v1.0.4 by Ryan
+23:32 [Info] Loaded plugin ServerRewards v0.4.67 by k1lly0u
+23:32 [Info] Loaded plugin Sign Artist v1.1.2 by Mughisi
+23:32 [Info] Loaded plugin SkipNightVote v0.1.4 by k1lly0u
+23:32 [Info] Loaded plugin SmoothRestart v1.2.5 by Fujikura/Visagalis
+23:32 [Info] Loaded plugin Stack Size Controller v2.0.0 by Canopy Sheep
+23:32 [Info] Loaded plugin Vanish v0.7.4 by nivex
+23:32 [Info] Loaded plugin ZLevelsRemastered v2.9.5 by FuJiCuRa
+23:36 [Info] IP address from command-line: 172.96.165.106
+23:36 [Info] Updating Rust:IO ...
+23:36 [Info] Rust:IO: Update complete
+23:36 [Warning] Calling 'OnServerInitialized' on 'InfoPanel v0.9.9' took 1358ms [GARBAGE COLLECT]
+23:36 [Info] [MonumentRadiation] Created 4 monument radiation zones
+23:36 [Warning] Calling 'OnServerInitialized' on 'MonumentRadiation v0.2.55' took 654ms
+23:36 [Warning] [RemoveDefaultRadiation] All radiation elements destroyed, reloading plugins that use radiation
+23:36 [Warning] Calling 'OnServerInitialized' on 'RemoveDefaultRadiation v0.1.0' took 168ms
+23:36 [Warning] Calling 'OnServerInitialized' on 'RemoverTool v4.2.10' took 184ms
+23:36 [Warning] [ServerRewards] Image Library not detected, unloading ServerRewards
+23:36 [Info] Unloaded plugin ServerRewards v0.4.67 by k1lly0u
+23:36 [Info] [ZLevelsRemastered] Stats can be reset by > zl.reset <
+23:36 [Warning] Calling 'OnServerInitialized' on 'ZLevelsRemastered v2.9.5' took 237ms
+23:36 [Info] [SmoothRestart] Your servers Oxide build is up to date
+23:36 [Info] Installing Rust:IO ...
+23:36 [Info] Rust:IO> Setting up Rust:IO 2.3.6854.11652 ...
+23:36 [Info] Rust:IO> Creating directories ...
+23:36 [Info] Rust:IO> Applying config ...
+23:36 [Info] Rust:IO> Initializing database ...
+23:36 [Info] Rust:IO> Generating map image (this may take a while) ...
+23:36 [Info] Rust:IO> Generation complete
+--------- Summary --------
+Render       :  5611.083ms
+Postprocess  :  5848.379ms
+  Shadows    :   352.756ms
+  FXAA       :  5458.748ms
+Encoding     :    55.085ms
+Other        :    19.932ms
+--------------------------
+Total        :  11534.478ms
+23:36 [Info] Rust:IO> Starting HTTP server on 172.96.165.106:28435 ...
+23:36 [Info] Rust:IO> Installed.
+23:36 [Info] Rust:IO> Now ticking
+23:36 [Warning] Calling 'OnTick' on 'RustIO v2.15.0' took 11886ms [GARBAGE COLLECT]
+23:36 [Warning] Calling 'OnTick' on 'RustIO v2.15.0' took average 0ms [GARBAGE COLLECT]
+23:36 [Info] MonumentRadiation was compiled successfully in 3088ms
+23:36 [Warning] Calling 'Unload' on 'MonumentRadiation v0.2.55' took 158ms
+23:36 [Info] Unloaded plugin MonumentRadiation v0.2.55 by k1lly0u
+23:36 [Info] [MonumentRadiation] Created 4 monument radiation zones
+23:36 [Warning] Calling 'OnServerInitialized' on 'MonumentRadiation v0.2.55' took 944ms [GARBAGE COLLECT]
+23:36 [Info] Loaded plugin MonumentRadiation v0.2.55 by k1lly0u
+23:36 [Info] Rust:IO> External IP address obtained from lookup: 172.96.165.106
+23:39 [Info] [NTeleportation] Smaste teleported back to previous location.

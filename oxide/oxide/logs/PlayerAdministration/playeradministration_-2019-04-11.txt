@@ -1,0 +1,7 @@
+[05:57:46] INFO > Meretrix: Opened the menu
+[05:57:52] INFO > Meretrix: Healed user ID 76561198060894633 for 100 points
+[05:57:54] INFO > Meretrix: Recovered the metabolism of user ID 76561198060894633
+[10:26:14] INFO > Meretrix: Opened the menu
+[10:26:21] INFO > Meretrix: Healed user ID 76561198058539108 for 100 points
+[10:26:22] INFO > Meretrix: Recovered the metabolism of user ID 76561198058539108
+[10:26:23] INFO > Meretrix: Opened the permissions manager for user ID 76561198058539108

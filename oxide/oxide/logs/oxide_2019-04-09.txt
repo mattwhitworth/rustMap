@@ -1,0 +1,1882 @@
+01:18 [Info] [Death Notes] Smaste did not want to be a part of the Scientist's experiments.
+01:36 [Info] Loading Oxide Core v2.0.3867...
+01:36 [Info] Loading extensions...
+01:36 [Info] Latest compiler MD5: 5fbca0bf39b1c09ddf2fb3686b869242
+01:36 [Info] Local compiler MD5: 5fbca0bf39b1c09ddf2fb3686b869242
+01:36 [Info] Loaded extension CSharp v2.0.4000 by Oxide and Contributors
+01:36 [Info] Loaded extension Rust:IO for Oxide v2.15.0 by playrust.io / dcode
+01:36 [Info] Loaded extension MySql v2.0.3755 by Oxide and Contributors
+01:36 [Info] Loaded extension Rust v2.0.4185 by Oxide and Contributors
+01:36 [Info] Loaded extension SQLite v2.0.3754 by Oxide and Contributors
+01:36 [Info] Loaded extension Unity v2.0.3756 by Oxide and Contributors
+01:36 [Info] Using Covalence provider for game 'Rust'
+01:36 [Info] Loading plugins...
+01:36 [Info] Loaded plugin Rust v2.0.4185 by Oxide and Contributors
+01:36 [Info] Loaded plugin Unity v2.0.3756 by Oxide and Contributors
+01:36 [Info] Loaded plugin Rust:IO for Oxide v2.15.0 by playrust.io / dcode
+01:36 [Info] Added '// Reference: System.Drawing' in plugin 'SignArtist'
+01:36 [Info] BetterLoot, DeathNotes, FurnaceSplitter, InfoPanel, MonumentRadiation, NoDecay, QuickSort, RemoveDefaultRadiation, SignArtist, SkipNightVote and StackSizeController were compiled successfully in 3291ms
+01:36 [Info] Loaded plugin BetterLoot v3.0.0 by FuJiCuRa / dcode
+01:36 [Info] Loaded plugin Death Notes v6.2.0 by LaserHydra
+01:36 [Info] Loaded plugin Furnace Splitter v2.1.7 by Skipcast
+01:36 [Info] Loaded plugin InfoPanel v0.9.9 by Ghosst / Nogrod
+01:36 [Info] Loaded plugin MonumentRadiation v0.2.55 by k1lly0u
+01:36 [Info] [NoDecay] New configuration file created.
+01:36 [Info] [NoDecay] Configuration file updated.
+01:36 [Info] Loaded plugin NoDecay v1.0.32 by Diesel_42o
+01:36 [Warning] [Quick Sort] Could not load a valid configuration file, creating a new configuration file at C:\TCAFiles\Users\matthew2\5260\oxide\config\QuickSort.json
+01:36 [Info] Loaded plugin Quick Sort v1.3.4 by Frenk92
+01:36 [Info] Loaded plugin RemoveDefaultRadiation v0.1.0 by k1lly0u
+01:36 [Info] Loaded plugin Sign Artist v1.1.2 by Mughisi
+01:36 [Info] Loaded plugin SkipNightVote v0.1.4 by k1lly0u
+01:36 [Info] Loaded plugin Stack Size Controller v2.0.0 by Canopy Sheep
+01:41 [Info] Loading Oxide Core v2.0.3867...
+01:41 [Info] Loading extensions...
+01:41 [Info] Latest compiler MD5: 5fbca0bf39b1c09ddf2fb3686b869242
+01:41 [Info] Local compiler MD5: 5fbca0bf39b1c09ddf2fb3686b869242
+01:41 [Info] Loaded extension CSharp v2.0.4000 by Oxide and Contributors
+01:41 [Info] Loaded extension Rust:IO for Oxide v2.15.0 by playrust.io / dcode
+01:41 [Info] Loaded extension MySql v2.0.3755 by Oxide and Contributors
+01:41 [Info] Loaded extension Rust v2.0.4185 by Oxide and Contributors
+01:41 [Info] Loaded extension SQLite v2.0.3754 by Oxide and Contributors
+01:41 [Info] Loaded extension Unity v2.0.3756 by Oxide and Contributors
+01:41 [Info] Using Covalence provider for game 'Rust'
+01:41 [Info] Loading plugins...
+01:41 [Info] Loaded plugin Rust v2.0.4185 by Oxide and Contributors
+01:41 [Info] Loaded plugin Unity v2.0.3756 by Oxide and Contributors
+01:41 [Info] Loaded plugin Rust:IO for Oxide v2.15.0 by playrust.io / dcode
+01:41 [Info] Added '// Reference: System.Drawing' in plugin 'SignArtist'
+01:41 [Info] BetterLoot, DeathNotes, FurnaceSplitter, InfoPanel, MonumentRadiation, NoDecay, QuickSort, RemoveDefaultRadiation, SignArtist, SkipNightVote and StackSizeController were compiled successfully in 3248ms
+01:41 [Info] Loaded plugin BetterLoot v3.0.0 by FuJiCuRa / dcode
+01:41 [Info] Loaded plugin Death Notes v6.2.0 by LaserHydra
+01:41 [Info] Loaded plugin Furnace Splitter v2.1.7 by Skipcast
+01:41 [Info] Loaded plugin InfoPanel v0.9.9 by Ghosst / Nogrod
+01:41 [Info] Loaded plugin MonumentRadiation v0.2.55 by k1lly0u
+01:41 [Info] Loaded plugin NoDecay v1.0.32 by Diesel_42o
+01:41 [Info] Loaded plugin Quick Sort v1.3.4 by Frenk92
+01:41 [Info] Loaded plugin RemoveDefaultRadiation v0.1.0 by k1lly0u
+01:41 [Info] Loaded plugin Sign Artist v1.1.2 by Mughisi
+01:41 [Info] Loaded plugin SkipNightVote v0.1.4 by k1lly0u
+01:41 [Info] Loaded plugin Stack Size Controller v2.0.0 by Canopy Sheep
+01:44 [Info] IP address from command-line: 172.96.165.106
+01:44 [Info] Updating Rust:IO ...
+01:44 [Info] [BetterLoot] Using '18' active of '20' supported containertypes
+01:44 [Info] [BetterLoot] Exported 476 items to 'NamesList'
+01:44 [Info] [BetterLoot] Updating internals ...
+01:44 [Warning] Calling 'OnServerInitialized' on 'InfoPanel v0.9.9' took 600ms
+01:44 [Info] Rust:IO: Update complete
+01:44 [Info] [MonumentRadiation] Created 4 monument radiation zones
+01:44 [Warning] Calling 'OnServerInitialized' on 'MonumentRadiation v0.2.55' took 543ms
+01:44 [Warning] [RemoveDefaultRadiation] All radiation elements destroyed, reloading plugins that use radiation
+01:44 [Warning] Calling 'OnServerInitialized' on 'RemoveDefaultRadiation v0.1.0' took 128ms
+01:44 [Info] [BetterLoot] No stacked LootContainer found.
+01:44 [Info] [BetterLoot] Populated '2' supported containers.
+01:44 [Info] Installing Rust:IO ...
+01:44 [Info] Rust:IO> Setting up Rust:IO 2.3.6854.11652 ...
+01:44 [Info] Rust:IO> Creating directories ...
+01:44 [Info] Rust:IO> Applying config ...
+01:44 [Info] Rust:IO> Initializing database ...
+01:44 [Info] Rust:IO> Generating map image (this may take a while) ...
+01:44 [Info] Rust:IO> Generation complete
+--------- Summary --------
+Render       :  4311.410ms
+Postprocess  :  5858.017ms
+  Shadows    :   310.138ms
+  FXAA       :  5506.690ms
+Encoding     :    55.909ms
+Other        :   252.447ms
+--------------------------
+Total        :  10477.783ms
+01:44 [Info] Rust:IO> Starting HTTP server on 172.96.165.106:28435 ...
+01:44 [Info] Rust:IO> Installed.
+01:44 [Info] Rust:IO> Now ticking
+01:44 [Warning] Calling 'OnTick' on 'RustIO v2.15.0' took 10798ms [GARBAGE COLLECT]
+01:44 [Warning] Calling 'OnTick' on 'RustIO v2.15.0' took average 0ms [GARBAGE COLLECT]
+01:44 [Info] MonumentRadiation was compiled successfully in 3235ms
+01:44 [Warning] Calling 'Unload' on 'MonumentRadiation v0.2.55' took 162ms
+01:44 [Info] Unloaded plugin MonumentRadiation v0.2.55 by k1lly0u
+01:45 [Info] [MonumentRadiation] Created 4 monument radiation zones
+01:45 [Warning] Calling 'OnServerInitialized' on 'MonumentRadiation v0.2.55' took 540ms
+01:45 [Info] Loaded plugin MonumentRadiation v0.2.55 by k1lly0u
+01:45 [Info] Rust:IO> External IP address obtained from lookup: 172.96.165.106
+02:03 [Info] Unloaded plugin BetterLoot v3.0.0 by FuJiCuRa / dcode
+02:04 [Error] Error while compiling: HWKits.cs(405,21): error CS0246: The type or namespace name `PlayerSession' could not be found. Are you missing an assembly reference?
+02:05 [Info] ZLevelsRemastered was compiled successfully in 3021ms
+02:05 [Info] [ZLevelsRemastered] Stats can be reset by > zl.reset <
+02:05 [Warning] Calling 'OnServerInitialized' on 'ZLevelsRemastered v2.9.5' took 264ms
+02:05 [Info] Loaded plugin ZLevelsRemastered v2.9.5 by FuJiCuRa
+02:07 [Info] Kits was compiled successfully in 2744ms
+02:07 [Info] Loaded plugin Kits v3.2.93 by Reneb
+02:07 [Info] [Death Notes] As Smaste just found out, breathing underwater is rather difficult.
+02:08 [Info] ServerRewards was compiled successfully in 761ms
+02:08 [Warning] [ServerRewards] Image Library not detected, unloading ServerRewards
+02:08 [Info] Unloaded plugin ServerRewards v0.4.67 by k1lly0u
+02:08 [Info] Loaded plugin ServerRewards v0.4.67 by k1lly0u
+02:09 [Info] AdminPanel was compiled successfully in 2581ms
+02:09 [Info] Loaded plugin Admin Panel v1.3.0 by BuzZ
+02:12 [Info] SaveAnnouncer was compiled successfully in 2640ms
+02:12 [Warning] [Save Announcer] Creating a new configuration file.
+02:12 [Info] Loaded plugin Save Announcer v1.0.4 by Ryan
+02:15 [Info] Underworld was compiled successfully in 2688ms
+02:15 [Warning] [Underworld] Creating a new configuration file
+02:15 [Info] Loaded plugin Underworld v1.0.4 by nivex
+02:16 [Info] Loading Oxide Core v2.0.3867...
+02:16 [Info] Loading extensions...
+02:16 [Info] Latest compiler MD5: 5fbca0bf39b1c09ddf2fb3686b869242
+02:16 [Info] Local compiler MD5: 5fbca0bf39b1c09ddf2fb3686b869242
+02:16 [Info] Loaded extension CSharp v2.0.4000 by Oxide and Contributors
+02:16 [Info] Loaded extension Rust:IO for Oxide v2.15.0 by playrust.io / dcode
+02:16 [Info] Loaded extension MySql v2.0.3755 by Oxide and Contributors
+02:16 [Info] Loaded extension Rust v2.0.4185 by Oxide and Contributors
+02:16 [Info] Loaded extension SQLite v2.0.3754 by Oxide and Contributors
+02:16 [Info] Loaded extension Unity v2.0.3756 by Oxide and Contributors
+02:16 [Info] Using Covalence provider for game 'Rust'
+02:16 [Info] Loading plugins...
+02:16 [Info] Loaded plugin Rust v2.0.4185 by Oxide and Contributors
+02:16 [Info] Loaded plugin Unity v2.0.3756 by Oxide and Contributors
+02:16 [Info] Loaded plugin Rust:IO for Oxide v2.15.0 by playrust.io / dcode
+02:16 [Info] Added '// Reference: System.Drawing' in plugin 'SignArtist'
+02:16 [Info] AdminPanel, DeathNotes, FurnaceSplitter, InfoPanel, Kits, MonumentRadiation, NoDecay, QuickSort, RemoveDefaultRadiation, SaveAnnouncer, ServerRewards, SignArtist, SkipNightVote, StackSizeController, Underworld and ZLevelsRemastered were compiled successfully in 3453ms
+02:16 [Info] Loaded plugin Admin Panel v1.3.0 by BuzZ
+02:16 [Info] Loaded plugin Death Notes v6.2.0 by LaserHydra
+02:16 [Info] Loaded plugin Furnace Splitter v2.1.7 by Skipcast
+02:16 [Info] Loaded plugin InfoPanel v0.9.9 by Ghosst / Nogrod
+02:16 [Info] Loaded plugin Kits v3.2.93 by Reneb
+02:16 [Info] Loaded plugin MonumentRadiation v0.2.55 by k1lly0u
+02:16 [Info] Loaded plugin NoDecay v1.0.32 by Diesel_42o
+02:16 [Info] Loaded plugin Quick Sort v1.3.4 by Frenk92
+02:16 [Info] Loaded plugin RemoveDefaultRadiation v0.1.0 by k1lly0u
+02:16 [Info] Loaded plugin Save Announcer v1.0.4 by Ryan
+02:16 [Info] Loaded plugin ServerRewards v0.4.67 by k1lly0u
+02:16 [Info] Loaded plugin Sign Artist v1.1.2 by Mughisi
+02:16 [Info] Loaded plugin SkipNightVote v0.1.4 by k1lly0u
+02:16 [Info] Loaded plugin Stack Size Controller v2.0.0 by Canopy Sheep
+02:16 [Info] Loaded plugin Underworld v1.0.4 by nivex
+02:16 [Info] Loaded plugin ZLevelsRemastered v2.9.5 by FuJiCuRa
+02:19 [Info] IP address from command-line: 172.96.165.106
+02:19 [Info] Updating Rust:IO ...
+02:19 [Warning] Calling 'OnServerInitialized' on 'InfoPanel v0.9.9' took 599ms
+02:19 [Info] Rust:IO: Update complete
+02:19 [Info] [MonumentRadiation] Created 4 monument radiation zones
+02:19 [Warning] Calling 'OnServerInitialized' on 'MonumentRadiation v0.2.55' took 541ms
+02:19 [Warning] [RemoveDefaultRadiation] All radiation elements destroyed, reloading plugins that use radiation
+02:19 [Warning] Calling 'OnServerInitialized' on 'RemoveDefaultRadiation v0.1.0' took 137ms
+02:19 [Warning] [ServerRewards] Image Library not detected, unloading ServerRewards
+02:19 [Info] Unloaded plugin ServerRewards v0.4.67 by k1lly0u
+02:19 [Info] [ZLevelsRemastered] Stats can be reset by > zl.reset <
+02:19 [Warning] Calling 'OnServerInitialized' on 'ZLevelsRemastered v2.9.5' took 212ms
+02:19 [Info] Installing Rust:IO ...
+02:19 [Info] Rust:IO> Setting up Rust:IO 2.3.6854.11652 ...
+02:19 [Info] Rust:IO> Creating directories ...
+02:19 [Info] Rust:IO> Applying config ...
+02:19 [Info] Rust:IO> Initializing database ...
+02:19 [Info] Rust:IO> Generating map image (this may take a while) ...
+02:19 [Info] Rust:IO> Generation complete
+--------- Summary --------
+Render       :  4473.772ms
+Postprocess  :  5785.943ms
+  Shadows    :   328.018ms
+  FXAA       :  5418.315ms
+Encoding     :    54.483ms
+Other        :   274.341ms
+--------------------------
+Total        :  10588.538ms
+02:19 [Info] Rust:IO> Starting HTTP server on 172.96.165.106:28435 ...
+02:19 [Info] Rust:IO> Installed.
+02:19 [Info] Rust:IO> Now ticking
+02:19 [Warning] Calling 'OnTick' on 'RustIO v2.15.0' took 10900ms [GARBAGE COLLECT]
+02:19 [Warning] Calling 'OnTick' on 'RustIO v2.15.0' took average 0ms [GARBAGE COLLECT]
+02:19 [Info] MonumentRadiation was compiled successfully in 3143ms
+02:19 [Warning] Calling 'Unload' on 'MonumentRadiation v0.2.55' took 155ms
+02:19 [Info] Unloaded plugin MonumentRadiation v0.2.55 by k1lly0u
+02:19 [Info] [MonumentRadiation] Created 4 monument radiation zones
+02:19 [Warning] Calling 'OnServerInitialized' on 'MonumentRadiation v0.2.55' took 558ms
+02:19 [Info] Loaded plugin MonumentRadiation v0.2.55 by k1lly0u
+02:19 [Info] Rust:IO> External IP address obtained from lookup: 172.96.165.106
+02:31 [Info] Loading Oxide Core v2.0.3867...
+02:31 [Info] Loading extensions...
+02:32 [Info] Latest compiler MD5: 5fbca0bf39b1c09ddf2fb3686b869242
+02:32 [Info] Local compiler MD5: 5fbca0bf39b1c09ddf2fb3686b869242
+02:32 [Info] Loaded extension CSharp v2.0.4000 by Oxide and Contributors
+02:32 [Info] Loaded extension Rust:IO for Oxide v2.15.0 by playrust.io / dcode
+02:32 [Info] Loaded extension MySql v2.0.3755 by Oxide and Contributors
+02:32 [Info] Loaded extension Rust v2.0.4185 by Oxide and Contributors
+02:32 [Info] Loaded extension SQLite v2.0.3754 by Oxide and Contributors
+02:32 [Info] Loaded extension Unity v2.0.3756 by Oxide and Contributors
+02:32 [Info] Using Covalence provider for game 'Rust'
+02:32 [Info] Loading plugins...
+02:32 [Info] Loaded plugin Rust v2.0.4185 by Oxide and Contributors
+02:32 [Info] Loaded plugin Unity v2.0.3756 by Oxide and Contributors
+02:32 [Info] Loaded plugin Rust:IO for Oxide v2.15.0 by playrust.io / dcode
+02:32 [Info] Added '// Reference: System.Drawing' in plugin 'SignArtist'
+02:32 [Info] AdminPanel, DeathNotes, FurnaceSplitter, InfoPanel, Kits, MonumentRadiation, NoDecay, QuickSort, RemoveDefaultRadiation, SaveAnnouncer, ServerRewards, SignArtist, SkipNightVote, StackSizeController, Underworld and ZLevelsRemastered were compiled successfully in 3514ms
+02:32 [Info] Loaded plugin Admin Panel v1.3.0 by BuzZ
+02:32 [Info] Loaded plugin Death Notes v6.2.0 by LaserHydra
+02:32 [Info] Loaded plugin Furnace Splitter v2.1.7 by Skipcast
+02:32 [Info] Loaded plugin InfoPanel v0.9.9 by Ghosst / Nogrod
+02:32 [Info] Loaded plugin Kits v3.2.93 by Reneb
+02:32 [Info] Loaded plugin MonumentRadiation v0.2.55 by k1lly0u
+02:32 [Info] Loaded plugin NoDecay v1.0.32 by Diesel_42o
+02:32 [Info] Loaded plugin Quick Sort v1.3.4 by Frenk92
+02:32 [Info] Loaded plugin RemoveDefaultRadiation v0.1.0 by k1lly0u
+02:32 [Info] Loaded plugin Save Announcer v1.0.4 by Ryan
+02:32 [Info] Loaded plugin ServerRewards v0.4.67 by k1lly0u
+02:32 [Info] Loaded plugin Sign Artist v1.1.2 by Mughisi
+02:32 [Info] Loaded plugin SkipNightVote v0.1.4 by k1lly0u
+02:32 [Info] Loaded plugin Stack Size Controller v2.0.0 by Canopy Sheep
+02:32 [Info] Loaded plugin Underworld v1.0.4 by nivex
+02:32 [Info] Loaded plugin ZLevelsRemastered v2.9.5 by FuJiCuRa
+02:35 [Info] Loading Oxide Core v2.0.3867...
+02:35 [Info] Loading extensions...
+02:35 [Info] Latest compiler MD5: 5fbca0bf39b1c09ddf2fb3686b869242
+02:35 [Info] Local compiler MD5: 5fbca0bf39b1c09ddf2fb3686b869242
+02:35 [Info] Loaded extension CSharp v2.0.4000 by Oxide and Contributors
+02:35 [Info] Loaded extension Rust:IO for Oxide v2.15.0 by playrust.io / dcode
+02:35 [Info] Loaded extension MySql v2.0.3755 by Oxide and Contributors
+02:35 [Info] Loaded extension Rust v2.0.4185 by Oxide and Contributors
+02:35 [Info] Loaded extension SQLite v2.0.3754 by Oxide and Contributors
+02:35 [Info] Loaded extension Unity v2.0.3756 by Oxide and Contributors
+02:35 [Info] Using Covalence provider for game 'Rust'
+02:35 [Info] Loading plugins...
+02:35 [Info] Loaded plugin Rust v2.0.4185 by Oxide and Contributors
+02:35 [Info] Loaded plugin Unity v2.0.3756 by Oxide and Contributors
+02:35 [Info] Loaded plugin Rust:IO for Oxide v2.15.0 by playrust.io / dcode
+02:35 [Info] Added '// Reference: System.Drawing' in plugin 'SignArtist'
+02:35 [Info] AdminPanel, DeathNotes, FurnaceSplitter, InfoPanel, Kits, MonumentRadiation, NoDecay, QuickSort, RemoveDefaultRadiation, SaveAnnouncer, ServerRewards, SignArtist, SkipNightVote, StackSizeController, Underworld and ZLevelsRemastered were compiled successfully in 3490ms
+02:35 [Info] Loaded plugin Admin Panel v1.3.0 by BuzZ
+02:35 [Info] Loaded plugin Death Notes v6.2.0 by LaserHydra
+02:35 [Info] Loaded plugin Furnace Splitter v2.1.7 by Skipcast
+02:35 [Info] Loaded plugin InfoPanel v0.9.9 by Ghosst / Nogrod
+02:35 [Info] Loaded plugin Kits v3.2.93 by Reneb
+02:35 [Info] Loaded plugin MonumentRadiation v0.2.55 by k1lly0u
+02:35 [Info] Loaded plugin NoDecay v1.0.32 by Diesel_42o
+02:35 [Info] Loaded plugin Quick Sort v1.3.4 by Frenk92
+02:35 [Info] Loaded plugin RemoveDefaultRadiation v0.1.0 by k1lly0u
+02:35 [Info] Loaded plugin Save Announcer v1.0.4 by Ryan
+02:35 [Info] Loaded plugin ServerRewards v0.4.67 by k1lly0u
+02:35 [Info] Loaded plugin Sign Artist v1.1.2 by Mughisi
+02:35 [Info] Loaded plugin SkipNightVote v0.1.4 by k1lly0u
+02:35 [Info] Loaded plugin Stack Size Controller v2.0.0 by Canopy Sheep
+02:35 [Info] Loaded plugin Underworld v1.0.4 by nivex
+02:35 [Info] Loaded plugin ZLevelsRemastered v2.9.5 by FuJiCuRa
+02:37 [Info] Loading Oxide Core v2.0.3867...
+02:37 [Info] Loading extensions...
+02:37 [Info] Latest compiler MD5: 5fbca0bf39b1c09ddf2fb3686b869242
+02:37 [Info] Local compiler MD5: 5fbca0bf39b1c09ddf2fb3686b869242
+02:37 [Info] Loaded extension CSharp v2.0.4000 by Oxide and Contributors
+02:37 [Info] Loaded extension Rust:IO for Oxide v2.15.0 by playrust.io / dcode
+02:37 [Info] Loaded extension MySql v2.0.3755 by Oxide and Contributors
+02:37 [Info] Loaded extension Rust v2.0.4185 by Oxide and Contributors
+02:37 [Info] Loaded extension SQLite v2.0.3754 by Oxide and Contributors
+02:37 [Info] Loaded extension Unity v2.0.3756 by Oxide and Contributors
+02:37 [Info] Using Covalence provider for game 'Rust'
+02:37 [Info] Loading plugins...
+02:37 [Info] Loaded plugin Rust v2.0.4185 by Oxide and Contributors
+02:37 [Info] Loaded plugin Unity v2.0.3756 by Oxide and Contributors
+02:37 [Info] Loaded plugin Rust:IO for Oxide v2.15.0 by playrust.io / dcode
+02:37 [Info] Added '// Reference: System.Drawing' in plugin 'SignArtist'
+02:37 [Info] AdminPanel, DeathNotes, FurnaceSplitter, InfoPanel, Kits, MonumentRadiation, NoDecay, NoEscape, NTeleportation, QuickSort, RemoveDefaultRadiation, SaveAnnouncer, ServerRewards, SignArtist, SkipNightVote, StackSizeController, Underworld and ZLevelsRemastered were compiled successfully in 3710ms
+02:37 [Info] Loaded plugin Admin Panel v1.3.0 by BuzZ
+02:37 [Info] Loaded plugin Death Notes v6.2.0 by LaserHydra
+02:37 [Info] Loaded plugin Furnace Splitter v2.1.7 by Skipcast
+02:37 [Info] Loaded plugin InfoPanel v0.9.9 by Ghosst / Nogrod
+02:37 [Info] Loaded plugin Kits v3.2.93 by Reneb
+02:37 [Info] Loaded plugin MonumentRadiation v0.2.55 by k1lly0u
+02:37 [Info] Loaded plugin NoDecay v1.0.32 by Diesel_42o
+02:37 [Info] Loaded plugin NoEscape v2.1.22 by Calytic
+02:37 [Info] Loaded plugin NTeleportation v1.0.53 by RFC1920
+02:37 [Info] Loaded plugin Quick Sort v1.3.4 by Frenk92
+02:37 [Info] Loaded plugin RemoveDefaultRadiation v0.1.0 by k1lly0u
+02:37 [Info] Loaded plugin Save Announcer v1.0.4 by Ryan
+02:37 [Info] Loaded plugin ServerRewards v0.4.67 by k1lly0u
+02:37 [Info] Loaded plugin Sign Artist v1.1.2 by Mughisi
+02:37 [Info] Loaded plugin SkipNightVote v0.1.4 by k1lly0u
+02:37 [Info] Loaded plugin Stack Size Controller v2.0.0 by Canopy Sheep
+02:37 [Info] Loaded plugin Underworld v1.0.4 by nivex
+02:37 [Info] Loaded plugin ZLevelsRemastered v2.9.5 by FuJiCuRa
+02:40 [Info] IP address from command-line: 172.96.165.106
+02:40 [Info] Updating Rust:IO ...
+02:40 [Warning] Calling 'OnServerInitialized' on 'InfoPanel v0.9.9' took 558ms
+02:40 [Info] Rust:IO: Update complete
+02:40 [Info] [MonumentRadiation] Created 4 monument radiation zones
+02:40 [Warning] Calling 'OnServerInitialized' on 'MonumentRadiation v0.2.55' took 567ms
+02:40 [Warning] [RemoveDefaultRadiation] All radiation elements destroyed, reloading plugins that use radiation
+02:40 [Warning] Calling 'OnServerInitialized' on 'RemoveDefaultRadiation v0.1.0' took 129ms
+02:40 [Warning] [ServerRewards] Image Library not detected, unloading ServerRewards
+02:40 [Info] Unloaded plugin ServerRewards v0.4.67 by k1lly0u
+02:40 [Info] [ZLevelsRemastered] Stats can be reset by > zl.reset <
+02:40 [Warning] Calling 'OnServerInitialized' on 'ZLevelsRemastered v2.9.5' took 207ms
+02:40 [Info] Installing Rust:IO ...
+02:40 [Info] Rust:IO> Setting up Rust:IO 2.3.6854.11652 ...
+02:40 [Info] Rust:IO> Creating directories ...
+02:40 [Info] Rust:IO> Applying config ...
+02:40 [Info] Rust:IO> Initializing database ...
+02:40 [Info] Rust:IO> Generating map image (this may take a while) ...
+02:40 [Info] Rust:IO> Generation complete
+--------- Summary --------
+Render       :  4554.640ms
+Postprocess  :  5935.910ms
+  Shadows    :   324.989ms
+  FXAA       :  5570.269ms
+Encoding     :    55.628ms
+Other        :   293.072ms
+--------------------------
+Total        :  10839.249ms
+02:40 [Info] Rust:IO> Starting HTTP server on 172.96.165.106:28435 ...
+02:40 [Info] Rust:IO> Installed.
+02:40 [Info] Rust:IO> Now ticking
+02:40 [Warning] Calling 'OnTick' on 'RustIO v2.15.0' took 11168ms [GARBAGE COLLECT]
+02:40 [Warning] Calling 'OnTick' on 'RustIO v2.15.0' took average 0ms [GARBAGE COLLECT]
+02:40 [Info] MonumentRadiation was compiled successfully in 3213ms
+02:40 [Warning] Calling 'Unload' on 'MonumentRadiation v0.2.55' took 161ms
+02:40 [Info] Unloaded plugin MonumentRadiation v0.2.55 by k1lly0u
+02:40 [Info] [MonumentRadiation] Created 4 monument radiation zones
+02:40 [Warning] Calling 'OnServerInitialized' on 'MonumentRadiation v0.2.55' took 557ms
+02:40 [Info] Loaded plugin MonumentRadiation v0.2.55 by k1lly0u
+02:40 [Info] Rust:IO> External IP address obtained from lookup: 172.96.165.106
+02:43 [Info] Loading Oxide Core v2.0.3867...
+02:43 [Info] Loading extensions...
+02:43 [Info] Latest compiler MD5: 5fbca0bf39b1c09ddf2fb3686b869242
+02:43 [Info] Local compiler MD5: 5fbca0bf39b1c09ddf2fb3686b869242
+02:43 [Info] Loaded extension CSharp v2.0.4000 by Oxide and Contributors
+02:43 [Info] Loaded extension Rust:IO for Oxide v2.15.0 by playrust.io / dcode
+02:43 [Info] Loaded extension MySql v2.0.3755 by Oxide and Contributors
+02:43 [Info] Loaded extension Rust v2.0.4185 by Oxide and Contributors
+02:43 [Info] Loaded extension SQLite v2.0.3754 by Oxide and Contributors
+02:43 [Info] Loaded extension Unity v2.0.3756 by Oxide and Contributors
+02:43 [Info] Using Covalence provider for game 'Rust'
+02:43 [Info] Loading plugins...
+02:43 [Info] Loaded plugin Rust v2.0.4185 by Oxide and Contributors
+02:43 [Info] Loaded plugin Unity v2.0.3756 by Oxide and Contributors
+02:43 [Info] Loaded plugin Rust:IO for Oxide v2.15.0 by playrust.io / dcode
+02:43 [Info] Added '// Reference: System.Drawing' in plugin 'SignArtist'
+02:43 [Info] AdminPanel, DeathNotes, FurnaceSplitter, InfoPanel, Kits, MonumentRadiation, NoDecay, NoEscape, NTeleportation, QuickSort, RemoveDefaultRadiation, SaveAnnouncer, ServerRewards, SignArtist, SkipNightVote, StackSizeController, Underworld and ZLevelsRemastered were compiled successfully in 3678ms
+02:43 [Info] Loaded plugin Admin Panel v1.3.0 by BuzZ
+02:43 [Info] Loaded plugin Death Notes v6.2.0 by LaserHydra
+02:43 [Info] Loaded plugin Furnace Splitter v2.1.7 by Skipcast
+02:43 [Info] Loaded plugin InfoPanel v0.9.9 by Ghosst / Nogrod
+02:43 [Info] Loaded plugin Kits v3.2.93 by Reneb
+02:43 [Info] Loaded plugin MonumentRadiation v0.2.55 by k1lly0u
+02:43 [Info] Loaded plugin NoDecay v1.0.32 by Diesel_42o
+02:43 [Info] Loaded plugin NoEscape v2.1.22 by Calytic
+02:43 [Info] Loaded plugin NTeleportation v1.0.53 by RFC1920
+02:43 [Info] Loaded plugin Quick Sort v1.3.4 by Frenk92
+02:43 [Info] Loaded plugin RemoveDefaultRadiation v0.1.0 by k1lly0u
+02:43 [Info] Loaded plugin Save Announcer v1.0.4 by Ryan
+02:43 [Info] Loaded plugin ServerRewards v0.4.67 by k1lly0u
+02:43 [Info] Loaded plugin Sign Artist v1.1.2 by Mughisi
+02:43 [Info] Loaded plugin SkipNightVote v0.1.4 by k1lly0u
+02:43 [Info] Loaded plugin Stack Size Controller v2.0.0 by Canopy Sheep
+02:43 [Info] Loaded plugin Underworld v1.0.4 by nivex
+02:43 [Info] Loaded plugin ZLevelsRemastered v2.9.5 by FuJiCuRa
+02:44 [Info] Loading Oxide Core v2.0.3867...
+02:44 [Info] Loading extensions...
+02:44 [Info] Latest compiler MD5: 5fbca0bf39b1c09ddf2fb3686b869242
+02:44 [Info] Local compiler MD5: 5fbca0bf39b1c09ddf2fb3686b869242
+02:44 [Info] Loaded extension CSharp v2.0.4000 by Oxide and Contributors
+02:44 [Info] Loaded extension Rust:IO for Oxide v2.15.0 by playrust.io / dcode
+02:44 [Info] Loaded extension MySql v2.0.3755 by Oxide and Contributors
+02:44 [Info] Loaded extension Rust v2.0.4185 by Oxide and Contributors
+02:44 [Info] Loaded extension SQLite v2.0.3754 by Oxide and Contributors
+02:44 [Info] Loaded extension Unity v2.0.3756 by Oxide and Contributors
+02:44 [Info] Using Covalence provider for game 'Rust'
+02:44 [Info] Loading plugins...
+02:44 [Info] Loaded plugin Rust v2.0.4185 by Oxide and Contributors
+02:44 [Info] Loaded plugin Unity v2.0.3756 by Oxide and Contributors
+02:44 [Info] Loaded plugin Rust:IO for Oxide v2.15.0 by playrust.io / dcode
+02:44 [Info] Added '// Reference: System.Drawing' in plugin 'SignArtist'
+02:44 [Info] AdminPanel, DeathNotes, FurnaceSplitter, InfoPanel, Kits, MonumentRadiation, NoDecay, NoEscape, NTeleportation, QuickSort, RemoveDefaultRadiation, SaveAnnouncer, ServerRewards, SignArtist, SkipNightVote, StackSizeController, Underworld and ZLevelsRemastered were compiled successfully in 3649ms
+02:44 [Info] Loaded plugin Admin Panel v1.3.0 by BuzZ
+02:44 [Info] Loaded plugin Death Notes v6.2.0 by LaserHydra
+02:44 [Info] Loaded plugin Furnace Splitter v2.1.7 by Skipcast
+02:44 [Info] Loaded plugin InfoPanel v0.9.9 by Ghosst / Nogrod
+02:44 [Info] Loaded plugin Kits v3.2.93 by Reneb
+02:44 [Info] Loaded plugin MonumentRadiation v0.2.55 by k1lly0u
+02:44 [Info] Loaded plugin NoDecay v1.0.32 by Diesel_42o
+02:44 [Info] Loaded plugin NoEscape v2.1.22 by Calytic
+02:44 [Info] Loaded plugin NTeleportation v1.0.53 by RFC1920
+02:44 [Info] Loaded plugin Quick Sort v1.3.4 by Frenk92
+02:44 [Info] Loaded plugin RemoveDefaultRadiation v0.1.0 by k1lly0u
+02:44 [Info] Loaded plugin Save Announcer v1.0.4 by Ryan
+02:44 [Info] Loaded plugin ServerRewards v0.4.67 by k1lly0u
+02:44 [Info] Loaded plugin Sign Artist v1.1.2 by Mughisi
+02:44 [Info] Loaded plugin SkipNightVote v0.1.4 by k1lly0u
+02:44 [Info] Loaded plugin Stack Size Controller v2.0.0 by Canopy Sheep
+02:44 [Info] Loaded plugin Underworld v1.0.4 by nivex
+02:44 [Info] Loaded plugin ZLevelsRemastered v2.9.5 by FuJiCuRa
+02:47 [Info] IP address from command-line: 172.96.165.106
+02:47 [Info] Updating Rust:IO ...
+02:47 [Warning] Calling 'OnServerInitialized' on 'InfoPanel v0.9.9' took 581ms
+02:47 [Info] Rust:IO: Update complete
+02:47 [Info] [MonumentRadiation] Created 4 monument radiation zones
+02:47 [Warning] Calling 'OnServerInitialized' on 'MonumentRadiation v0.2.55' took 587ms
+02:47 [Warning] [RemoveDefaultRadiation] All radiation elements destroyed, reloading plugins that use radiation
+02:47 [Warning] Calling 'OnServerInitialized' on 'RemoveDefaultRadiation v0.1.0' took 159ms
+02:47 [Warning] [ServerRewards] Image Library not detected, unloading ServerRewards
+02:47 [Info] Unloaded plugin ServerRewards v0.4.67 by k1lly0u
+02:47 [Info] [ZLevelsRemastered] Stats can be reset by > zl.reset <
+02:47 [Warning] Calling 'OnServerInitialized' on 'ZLevelsRemastered v2.9.5' took 208ms
+02:47 [Info] Installing Rust:IO ...
+02:47 [Info] Rust:IO> Setting up Rust:IO 2.3.6854.11652 ...
+02:47 [Info] Rust:IO> Creating directories ...
+02:47 [Info] Rust:IO> Applying config ...
+02:47 [Info] Rust:IO> Initializing database ...
+02:47 [Info] Rust:IO> Generating map image (this may take a while) ...
+02:48 [Info] Rust:IO> Generation complete
+--------- Summary --------
+Render       :  4489.904ms
+Postprocess  :  5909.785ms
+  Shadows    :   315.412ms
+  FXAA       :  5552.906ms
+Encoding     :    52.247ms
+Other        :    21.227ms
+--------------------------
+Total        :  10473.162ms
+02:48 [Info] Rust:IO> Starting HTTP server on 172.96.165.106:28435 ...
+02:48 [Info] Rust:IO> Installed.
+02:48 [Info] Rust:IO> Now ticking
+02:48 [Warning] Calling 'OnTick' on 'RustIO v2.15.0' took 10805ms [GARBAGE COLLECT]
+02:48 [Warning] Calling 'OnTick' on 'RustIO v2.15.0' took average 0ms [GARBAGE COLLECT]
+02:48 [Info] MonumentRadiation was compiled successfully in 3320ms
+02:48 [Warning] Calling 'Unload' on 'MonumentRadiation v0.2.55' took 159ms
+02:48 [Info] Unloaded plugin MonumentRadiation v0.2.55 by k1lly0u
+02:48 [Info] [MonumentRadiation] Created 4 monument radiation zones
+02:48 [Warning] Calling 'OnServerInitialized' on 'MonumentRadiation v0.2.55' took 544ms
+02:48 [Info] Loaded plugin MonumentRadiation v0.2.55 by k1lly0u
+02:48 [Info] Rust:IO> External IP address obtained from lookup: 172.96.165.106
+02:50 [Error] Failed to run a 1.00 timer in 'InfoPanel v0.9.9' (ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index)
+  at System.ThrowHelper.ThrowArgumentOutOfRangeException (System.ExceptionArgument argument, System.ExceptionResource resource) [0x00029] in <ac823e2bb42b41bda67924a45a0173c3>:0 
+  at System.ThrowHelper.ThrowArgumentOutOfRangeException () [0x00000] in <ac823e2bb42b41bda67924a45a0173c3>:0 
+  at Oxide.Plugins.InfoPanel.InitializeGUI (BasePlayer player) [0x001e2] in <1a41a3b189a3462eadd23fbad4cfa0e6>:0 
+  at Oxide.Plugins.InfoPanel.GUITimerInit (BasePlayer player) [0x00080] in <1a41a3b189a3462eadd23fbad4cfa0e6>:0 
+  at Oxide.Plugins.InfoPanel+<OnPlayerInit>c__AnonStorey1.<>m__1 () [0x00000] in <1a41a3b189a3462eadd23fbad4cfa0e6>:0 
+  at Oxide.Core.Libraries.Timer+TimerInstance.FireCallback () [0x00018] in <4452f821def6406d834e4149849fe7ea>:0 
+02:50 [Error] Failed to run a 20.00 timer in 'InfoPanel v0.9.9' (ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index)
+  at System.ThrowHelper.ThrowArgumentOutOfRangeException (System.ExceptionArgument argument, System.ExceptionResource resource) [0x00029] in <ac823e2bb42b41bda67924a45a0173c3>:0 
+  at System.ThrowHelper.ThrowArgumentOutOfRangeException () [0x00000] in <ac823e2bb42b41bda67924a45a0173c3>:0 
+  at Oxide.Plugins.InfoPanel+Messenger.Refresh (Oxide.Plugins.InfoPanel+StoredData storedData, System.Collections.Generic.Dictionary`2[TKey,TValue] panels) [0x00046] in <1a41a3b189a3462eadd23fbad4cfa0e6>:0 
+  at Oxide.Plugins.InfoPanel.<OnServerInitialized>m__9 () [0x00000] in <1a41a3b189a3462eadd23fbad4cfa0e6>:0 
+  at Oxide.Core.Libraries.Timer+TimerInstance.FireCallback () [0x00018] in <4452f821def6406d834e4149849fe7ea>:0 
+02:55 [Info] Unloaded plugin Admin Panel v1.3.0 by BuzZ
+02:55 [Info] SmoothRestart was compiled successfully in 2959ms
+02:55 [Info] Loaded plugin SmoothRestart v1.2.5 by Fujikura/Visagalis
+02:55 [Info] [SmoothRestart] Your servers Oxide build is up to date
+02:58 [Info] Vanish and Godmode were compiled successfully in 2734ms
+02:58 [Warning] [Vanish] Could not load a valid configuration file, creating a new configuration file at C:\TCAFiles\Users\matthew2\5260\oxide\config\Vanish.json
+02:58 [Info] Loaded plugin Vanish v0.7.4 by nivex
+02:58 [Info] Loaded plugin Godmode v4.1.1 by Wulf/lukespragg
+03:00 [Error] Error while compiling: Fly.cs(27,31): error CS0246: The type or namespace name `PlayerSession' could not be found. Are you missing an assembly reference?
+03:00 [Info] Unloaded plugin Underworld v1.0.4 by nivex
+03:01 [Info] Loading Oxide Core v2.0.3867...
+03:01 [Info] Loading extensions...
+03:01 [Info] Latest compiler MD5: 5fbca0bf39b1c09ddf2fb3686b869242
+03:01 [Info] Local compiler MD5: 5fbca0bf39b1c09ddf2fb3686b869242
+03:01 [Info] Loaded extension CSharp v2.0.4000 by Oxide and Contributors
+03:01 [Info] Loaded extension Rust:IO for Oxide v2.15.0 by playrust.io / dcode
+03:01 [Info] Loaded extension MySql v2.0.3755 by Oxide and Contributors
+03:01 [Info] Loaded extension Rust v2.0.4185 by Oxide and Contributors
+03:01 [Info] Loaded extension SQLite v2.0.3754 by Oxide and Contributors
+03:01 [Info] Loaded extension Unity v2.0.3756 by Oxide and Contributors
+03:01 [Info] Using Covalence provider for game 'Rust'
+03:01 [Info] Loading plugins...
+03:01 [Info] Loaded plugin Rust v2.0.4185 by Oxide and Contributors
+03:01 [Info] Loaded plugin Unity v2.0.3756 by Oxide and Contributors
+03:01 [Info] Loaded plugin Rust:IO for Oxide v2.15.0 by playrust.io / dcode
+03:01 [Info] Added '// Reference: System.Drawing' in plugin 'SignArtist'
+03:01 [Info] DeathNotes, FurnaceSplitter, Godmode, InfoPanel, Kits, MonumentRadiation, NoDecay, NoEscape, NTeleportation, QuickSort, RemoveDefaultRadiation, SaveAnnouncer, ServerRewards, SignArtist, SkipNightVote, SmoothRestart, StackSizeController, Vanish and ZLevelsRemastered were compiled successfully in 4032ms
+03:01 [Error] Error while compiling: Fly.cs(27,31): error CS0246: The type or namespace name `PlayerSession' could not be found. Are you missing an assembly reference?
+03:01 [Info] Loaded plugin Death Notes v6.2.0 by LaserHydra
+03:01 [Info] Loaded plugin Furnace Splitter v2.1.7 by Skipcast
+03:01 [Info] Loaded plugin Godmode v4.1.1 by Wulf/lukespragg
+03:01 [Info] Loaded plugin InfoPanel v0.9.9 by Ghosst / Nogrod
+03:01 [Info] Loaded plugin Kits v3.2.93 by Reneb
+03:01 [Info] Loaded plugin MonumentRadiation v0.2.55 by k1lly0u
+03:01 [Info] Loaded plugin NoDecay v1.0.32 by Diesel_42o
+03:01 [Info] Loaded plugin NoEscape v2.1.22 by Calytic
+03:01 [Info] Loaded plugin NTeleportation v1.0.53 by RFC1920
+03:01 [Info] Loaded plugin Quick Sort v1.3.4 by Frenk92
+03:01 [Info] Loaded plugin RemoveDefaultRadiation v0.1.0 by k1lly0u
+03:01 [Info] Loaded plugin Save Announcer v1.0.4 by Ryan
+03:01 [Info] Loaded plugin ServerRewards v0.4.67 by k1lly0u
+03:01 [Info] Loaded plugin Sign Artist v1.1.2 by Mughisi
+03:01 [Info] Loaded plugin SkipNightVote v0.1.4 by k1lly0u
+03:01 [Info] Loaded plugin SmoothRestart v1.2.5 by Fujikura/Visagalis
+03:01 [Info] Loaded plugin Stack Size Controller v2.0.0 by Canopy Sheep
+03:01 [Info] Loaded plugin Vanish v0.7.4 by nivex
+03:01 [Info] Loaded plugin ZLevelsRemastered v2.9.5 by FuJiCuRa
+03:02 [Info] PlayerAdministration was compiled successfully in 3100ms
+03:02 [Info] Loaded plugin PlayerAdministration v1.3.21 by ThibmoRozier
+03:03 [Info] Loading Oxide Core v2.0.3867...
+03:03 [Info] Loading extensions...
+03:03 [Info] Latest compiler MD5: 5fbca0bf39b1c09ddf2fb3686b869242
+03:03 [Info] Local compiler MD5: 5fbca0bf39b1c09ddf2fb3686b869242
+03:03 [Info] Loaded extension CSharp v2.0.4000 by Oxide and Contributors
+03:03 [Info] Loaded extension Rust:IO for Oxide v2.15.0 by playrust.io / dcode
+03:03 [Info] Loaded extension MySql v2.0.3755 by Oxide and Contributors
+03:03 [Info] Loaded extension Rust v2.0.4185 by Oxide and Contributors
+03:03 [Info] Loaded extension SQLite v2.0.3754 by Oxide and Contributors
+03:03 [Info] Loaded extension Unity v2.0.3756 by Oxide and Contributors
+03:03 [Info] Using Covalence provider for game 'Rust'
+03:03 [Info] Loading plugins...
+03:03 [Info] Loaded plugin Rust v2.0.4185 by Oxide and Contributors
+03:03 [Info] Loaded plugin Unity v2.0.3756 by Oxide and Contributors
+03:03 [Info] Loaded plugin Rust:IO for Oxide v2.15.0 by playrust.io / dcode
+03:03 [Info] Added '// Reference: System.Drawing' in plugin 'SignArtist'
+03:03 [Error] Compilation error:  (ArgumentNullException: Object Graph cannot be null.
+Parameter name: graph)
+  at System.Runtime.Serialization.Formatters.Binary.ObjectWriter.Serialize (System.Object graph, System.Runtime.Remoting.Messaging.Header[] inHeaders, System.Runtime.Serialization.Formatters.Binary.__BinaryWriter serWriter, System.Boolean fCheck) [0x00012] in <ac823e2bb42b41bda67924a45a0173c3>:0 
+  at System.Runtime.Serialization.Formatters.Binary.BinaryFormatter.Serialize (System.IO.Stream serializationStream, System.Object graph, System.Runtime.Remoting.Messaging.Header[] headers, System.Boolean fCheck) [0x0006e] in <ac823e2bb42b41bda67924a45a0173c3>:0 
+  at System.Runtime.Serialization.Formatters.Binary.BinaryFormatter.Serialize (System.IO.Stream serializationStream, System.Object graph, System.Runtime.Remoting.Messaging.Header[] headers) [0x00000] in <ac823e2bb42b41bda67924a45a0173c3>:0 
+  at System.Runtime.Serialization.Formatters.Binary.BinaryFormatter.Serialize (System.IO.Stream serializationStream, System.Object graph) [0x00000] in <ac823e2bb42b41bda67924a45a0173c3>:0 
+  at ObjectStream.IO.ObjectStreamWrapper`2[TRead,TWrite].Serialize (TWrite obj) [0x00006] in <9affce1cd15c4ec183941adef8db1722>:0 
+  at ObjectStream.IO.ObjectStreamWrapper`2[TRead,TWrite].WriteObject (TWrite obj) [0x00000] in <9affce1cd15c4ec183941adef8db1722>:0 
+  at ObjectStream.ObjectStreamConnection`2[TRead,TWrite].WriteStream () [0x00021] in <9affce1cd15c4ec183941adef8db1722>:0 
+  at ObjectStream.Threading.Worker.DoWorkImpl (System.Object oAction) [0x00007] in <9affce1cd15c4ec183941adef8db1722>:0 
+03:03 [Info] DeathNotes, FurnaceSplitter, Godmode, InfoPanel, Kits, MonumentRadiation, NoDecay, NoEscape, NTeleportation, PlayerAdministration, QuickSort, RemoveDefaultRadiation, SaveAnnouncer, ServerRewards, SignArtist, SkipNightVote, SmoothRestart, StackSizeController, Vanish and ZLevelsRemastered were compiled successfully in 4666ms
+03:03 [Error] Error while compiling: Fly.cs(27,31): error CS0246: The type or namespace name `PlayerSession' could not be found. Are you missing an assembly reference?
+03:03 [Info] Loaded plugin Death Notes v6.2.0 by LaserHydra
+03:03 [Info] Loaded plugin Furnace Splitter v2.1.7 by Skipcast
+03:03 [Info] Loaded plugin Godmode v4.1.1 by Wulf/lukespragg
+03:03 [Info] Loaded plugin InfoPanel v0.9.9 by Ghosst / Nogrod
+03:03 [Info] Loaded plugin Kits v3.2.93 by Reneb
+03:03 [Info] Loaded plugin MonumentRadiation v0.2.55 by k1lly0u
+03:03 [Info] Loaded plugin NoDecay v1.0.32 by Diesel_42o
+03:03 [Info] Loaded plugin NoEscape v2.1.22 by Calytic
+03:03 [Info] Loaded plugin NTeleportation v1.0.53 by RFC1920
+03:03 [Info] Loaded plugin PlayerAdministration v1.3.21 by ThibmoRozier
+03:03 [Info] Loaded plugin Quick Sort v1.3.4 by Frenk92
+03:03 [Info] Loaded plugin RemoveDefaultRadiation v0.1.0 by k1lly0u
+03:03 [Info] Loaded plugin Save Announcer v1.0.4 by Ryan
+03:03 [Info] Loaded plugin ServerRewards v0.4.67 by k1lly0u
+03:03 [Info] Loaded plugin Sign Artist v1.1.2 by Mughisi
+03:03 [Info] Loaded plugin SkipNightVote v0.1.4 by k1lly0u
+03:03 [Info] Loaded plugin SmoothRestart v1.2.5 by Fujikura/Visagalis
+03:03 [Info] Loaded plugin Stack Size Controller v2.0.0 by Canopy Sheep
+03:03 [Info] Loaded plugin Vanish v0.7.4 by nivex
+03:03 [Info] Loaded plugin ZLevelsRemastered v2.9.5 by FuJiCuRa
+03:06 [Info] IP address from command-line: 172.96.165.106
+03:06 [Info] Updating Rust:IO ...
+03:06 [Warning] Calling 'OnServerInitialized' on 'InfoPanel v0.9.9' took 597ms
+03:06 [Info] Rust:IO: Update complete
+03:06 [Info] [MonumentRadiation] Created 4 monument radiation zones
+03:06 [Warning] Calling 'OnServerInitialized' on 'MonumentRadiation v0.2.55' took 607ms
+03:06 [Warning] [RemoveDefaultRadiation] All radiation elements destroyed, reloading plugins that use radiation
+03:06 [Warning] Calling 'OnServerInitialized' on 'RemoveDefaultRadiation v0.1.0' took 153ms
+03:06 [Warning] [ServerRewards] Image Library not detected, unloading ServerRewards
+03:06 [Info] Unloaded plugin ServerRewards v0.4.67 by k1lly0u
+03:06 [Warning] Calling 'OnServerInitialized' on 'ServerRewards v0.4.67' took 335ms [GARBAGE COLLECT]
+03:06 [Info] [ZLevelsRemastered] Stats can be reset by > zl.reset <
+03:06 [Warning] Calling 'OnServerInitialized' on 'ZLevelsRemastered v2.9.5' took 177ms
+03:06 [Info] [SmoothRestart] Your servers Oxide build is up to date
+03:06 [Info] Installing Rust:IO ...
+03:06 [Info] Rust:IO> Setting up Rust:IO 2.3.6854.11652 ...
+03:06 [Info] Rust:IO> Creating directories ...
+03:06 [Info] Rust:IO> Applying config ...
+03:06 [Info] Rust:IO> Initializing database ...
+03:06 [Info] Rust:IO> Generating map image (this may take a while) ...
+03:06 [Info] Rust:IO> Generation complete
+--------- Summary --------
+Render       :  4505.457ms
+Postprocess  :  6161.745ms
+  Shadows    :   584.095ms
+  FXAA       :  5536.931ms
+Encoding     :    54.331ms
+Other        :    34.538ms
+--------------------------
+Total        :  10756.072ms
+03:06 [Info] Rust:IO> Starting HTTP server on 172.96.165.106:28435 ...
+03:06 [Info] Rust:IO> Installed.
+03:06 [Info] Rust:IO> Now ticking
+03:06 [Warning] Calling 'OnTick' on 'RustIO v2.15.0' took 11082ms [GARBAGE COLLECT]
+03:06 [Warning] Calling 'OnTick' on 'RustIO v2.15.0' took average 0ms [GARBAGE COLLECT]
+03:06 [Info] MonumentRadiation was compiled successfully in 2877ms
+03:06 [Warning] Calling 'Unload' on 'MonumentRadiation v0.2.55' took 148ms
+03:06 [Info] Unloaded plugin MonumentRadiation v0.2.55 by k1lly0u
+03:06 [Info] [MonumentRadiation] Created 4 monument radiation zones
+03:06 [Warning] Calling 'OnServerInitialized' on 'MonumentRadiation v0.2.55' took 556ms
+03:06 [Info] Loaded plugin MonumentRadiation v0.2.55 by k1lly0u
+03:06 [Info] Rust:IO> External IP address obtained from lookup: 172.96.165.106
+03:38 [Info] Loading Oxide Core v2.0.3867...
+03:38 [Info] Loading extensions...
+03:38 [Info] Latest compiler MD5: 5fbca0bf39b1c09ddf2fb3686b869242
+03:38 [Info] Local compiler MD5: 5fbca0bf39b1c09ddf2fb3686b869242
+03:38 [Info] Loaded extension CSharp v2.0.4000 by Oxide and Contributors
+03:38 [Info] Loaded extension Rust:IO for Oxide v2.15.0 by playrust.io / dcode
+03:38 [Info] Loaded extension MySql v2.0.3755 by Oxide and Contributors
+03:38 [Info] Loaded extension Rust v2.0.4185 by Oxide and Contributors
+03:38 [Info] Loaded extension SQLite v2.0.3754 by Oxide and Contributors
+03:38 [Info] Loaded extension Unity v2.0.3756 by Oxide and Contributors
+03:38 [Info] Using Covalence provider for game 'Rust'
+03:38 [Info] Loading plugins...
+03:38 [Info] Loaded plugin Rust v2.0.4185 by Oxide and Contributors
+03:38 [Info] Loaded plugin Unity v2.0.3756 by Oxide and Contributors
+03:38 [Info] Loaded plugin Rust:IO for Oxide v2.15.0 by playrust.io / dcode
+03:38 [Info] Added '// Reference: System.Drawing' in plugin 'SignArtist'
+03:38 [Info] DeathNotes, FurnaceSplitter, Godmode, InfoPanel, Kits, MonumentRadiation, NoDecay, NoEscape, NTeleportation, PlayerAdministration, QuickSort, RemoveDefaultRadiation, SaveAnnouncer, ServerRewards, SignArtist, SkipNightVote, SmoothRestart, StackSizeController, Vanish and ZLevelsRemastered were compiled successfully in 4185ms
+03:38 [Error] Error while compiling: Fly.cs(27,31): error CS0246: The type or namespace name `PlayerSession' could not be found. Are you missing an assembly reference?
+03:38 [Info] Loaded plugin Death Notes v6.2.0 by LaserHydra
+03:38 [Info] Loaded plugin Furnace Splitter v2.1.7 by Skipcast
+03:38 [Info] Loaded plugin Godmode v4.1.1 by Wulf/lukespragg
+03:38 [Info] Loaded plugin InfoPanel v0.9.9 by Ghosst / Nogrod
+03:38 [Info] Loaded plugin Kits v3.2.93 by Reneb
+03:38 [Info] Loaded plugin MonumentRadiation v0.2.55 by k1lly0u
+03:38 [Info] Loaded plugin NoDecay v1.0.32 by Diesel_42o
+03:38 [Info] Loaded plugin NoEscape v2.1.22 by Calytic
+03:38 [Info] Loaded plugin NTeleportation v1.0.53 by RFC1920
+03:38 [Info] Loaded plugin PlayerAdministration v1.3.21 by ThibmoRozier
+03:38 [Info] Loaded plugin Quick Sort v1.3.4 by Frenk92
+03:38 [Info] Loaded plugin RemoveDefaultRadiation v0.1.0 by k1lly0u
+03:38 [Info] Loaded plugin Save Announcer v1.0.4 by Ryan
+03:38 [Info] Loaded plugin ServerRewards v0.4.67 by k1lly0u
+03:38 [Info] Loaded plugin Sign Artist v1.1.2 by Mughisi
+03:38 [Info] Loaded plugin SkipNightVote v0.1.4 by k1lly0u
+03:38 [Info] Loaded plugin SmoothRestart v1.2.5 by Fujikura/Visagalis
+03:38 [Info] Loaded plugin Stack Size Controller v2.0.0 by Canopy Sheep
+03:38 [Info] Loaded plugin Vanish v0.7.4 by nivex
+03:38 [Info] Loaded plugin ZLevelsRemastered v2.9.5 by FuJiCuRa
+03:40 [Info] PermissionsManager was compiled successfully in 2729ms
+03:40 [Info] [PermissionsManager] Creating a new config file
+03:40 [Info] Loaded plugin PermissionsManager v0.1.1 by Steenamaroo
+03:42 [Info] Loading Oxide Core v2.0.3867...
+03:42 [Info] Loading extensions...
+03:42 [Info] Latest compiler MD5: 5fbca0bf39b1c09ddf2fb3686b869242
+03:42 [Info] Local compiler MD5: 5fbca0bf39b1c09ddf2fb3686b869242
+03:42 [Info] Loaded extension CSharp v2.0.4000 by Oxide and Contributors
+03:42 [Info] Loaded extension Rust:IO for Oxide v2.15.0 by playrust.io / dcode
+03:42 [Info] Loaded extension MySql v2.0.3755 by Oxide and Contributors
+03:42 [Info] Loaded extension Rust v2.0.4185 by Oxide and Contributors
+03:42 [Info] Loaded extension SQLite v2.0.3754 by Oxide and Contributors
+03:42 [Info] Loaded extension Unity v2.0.3756 by Oxide and Contributors
+03:42 [Info] Using Covalence provider for game 'Rust'
+03:42 [Info] Loading plugins...
+03:42 [Info] Loaded plugin Rust v2.0.4185 by Oxide and Contributors
+03:42 [Info] Loaded plugin Unity v2.0.3756 by Oxide and Contributors
+03:42 [Info] Loaded plugin Rust:IO for Oxide v2.15.0 by playrust.io / dcode
+03:42 [Info] Added '// Reference: System.Drawing' in plugin 'SignArtist'
+03:42 [Info] DeathNotes, FurnaceSplitter, Godmode, InfoPanel, Kits, MonumentRadiation, NoDecay, NoEscape, NTeleportation, PermissionsManager, PlayerAdministration, QuickSort, RemoveDefaultRadiation, SaveAnnouncer, ServerRewards, SignArtist, SkipNightVote, SmoothRestart, StackSizeController, Vanish and ZLevelsRemastered were compiled successfully in 4314ms
+03:42 [Error] Error while compiling: Fly.cs(27,31): error CS0246: The type or namespace name `PlayerSession' could not be found. Are you missing an assembly reference?
+03:42 [Info] Loaded plugin Death Notes v6.2.0 by LaserHydra
+03:42 [Info] Loaded plugin Furnace Splitter v2.1.7 by Skipcast
+03:42 [Info] Loaded plugin Godmode v4.1.1 by Wulf/lukespragg
+03:42 [Info] Loaded plugin InfoPanel v0.9.9 by Ghosst / Nogrod
+03:42 [Info] Loaded plugin Kits v3.2.93 by Reneb
+03:42 [Info] Loaded plugin MonumentRadiation v0.2.55 by k1lly0u
+03:42 [Info] Loaded plugin NoDecay v1.0.32 by Diesel_42o
+03:42 [Info] Loaded plugin NoEscape v2.1.22 by Calytic
+03:42 [Info] Loaded plugin NTeleportation v1.0.53 by RFC1920
+03:42 [Info] Loaded plugin PermissionsManager v0.1.1 by Steenamaroo
+03:42 [Info] Loaded plugin PlayerAdministration v1.3.21 by ThibmoRozier
+03:42 [Info] Loaded plugin Quick Sort v1.3.4 by Frenk92
+03:42 [Info] Loaded plugin RemoveDefaultRadiation v0.1.0 by k1lly0u
+03:42 [Info] Loaded plugin Save Announcer v1.0.4 by Ryan
+03:42 [Info] Loaded plugin ServerRewards v0.4.67 by k1lly0u
+03:42 [Info] Loaded plugin Sign Artist v1.1.2 by Mughisi
+03:42 [Info] Loaded plugin SkipNightVote v0.1.4 by k1lly0u
+03:42 [Info] Loaded plugin SmoothRestart v1.2.5 by Fujikura/Visagalis
+03:42 [Info] Loaded plugin Stack Size Controller v2.0.0 by Canopy Sheep
+03:42 [Info] Loaded plugin Vanish v0.7.4 by nivex
+03:42 [Info] Loaded plugin ZLevelsRemastered v2.9.5 by FuJiCuRa
+03:45 [Info] IP address from command-line: 172.96.165.106
+03:45 [Info] Updating Rust:IO ...
+03:45 [Warning] Calling 'OnServerInitialized' on 'InfoPanel v0.9.9' took 595ms
+03:45 [Info] Rust:IO: Update complete
+03:45 [Info] [MonumentRadiation] Created 4 monument radiation zones
+03:45 [Warning] Calling 'OnServerInitialized' on 'MonumentRadiation v0.2.55' took 585ms
+03:45 [Warning] [RemoveDefaultRadiation] All radiation elements destroyed, reloading plugins that use radiation
+03:45 [Warning] Calling 'OnServerInitialized' on 'RemoveDefaultRadiation v0.1.0' took 138ms
+03:45 [Warning] [ServerRewards] Image Library not detected, unloading ServerRewards
+03:45 [Info] Unloaded plugin ServerRewards v0.4.67 by k1lly0u
+03:45 [Info] [ZLevelsRemastered] Stats can be reset by > zl.reset <
+03:45 [Warning] Calling 'OnServerInitialized' on 'ZLevelsRemastered v2.9.5' took 206ms
+03:45 [Info] [SmoothRestart] Your servers Oxide build is up to date
+03:45 [Info] Installing Rust:IO ...
+03:45 [Info] Rust:IO> Setting up Rust:IO 2.3.6854.11652 ...
+03:45 [Info] Rust:IO> Creating directories ...
+03:45 [Info] Rust:IO> Applying config ...
+03:45 [Info] Rust:IO> Initializing database ...
+03:45 [Info] Rust:IO> Generating map image (this may take a while) ...
+03:45 [Info] Rust:IO> Generation complete
+--------- Summary --------
+Render       :  4114.998ms
+Postprocess  :  5886.885ms
+  Shadows    :   295.343ms
+  FXAA       :  5554.333ms
+Encoding     :    51.662ms
+Other        :   252.495ms
+--------------------------
+Total        :  10306.040ms
+03:45 [Info] Rust:IO> Starting HTTP server on 172.96.165.106:28435 ...
+03:45 [Info] Rust:IO> Installed.
+03:45 [Info] Rust:IO> Now ticking
+03:45 [Warning] Calling 'OnTick' on 'RustIO v2.15.0' took 10608ms [GARBAGE COLLECT]
+03:45 [Warning] Calling 'OnTick' on 'RustIO v2.15.0' took average 0ms [GARBAGE COLLECT]
+03:45 [Info] MonumentRadiation was compiled successfully in 3169ms
+03:45 [Warning] Calling 'Unload' on 'MonumentRadiation v0.2.55' took 152ms
+03:45 [Info] Unloaded plugin MonumentRadiation v0.2.55 by k1lly0u
+03:45 [Info] [MonumentRadiation] Created 4 monument radiation zones
+03:45 [Warning] Calling 'OnServerInitialized' on 'MonumentRadiation v0.2.55' took 553ms
+03:45 [Info] Loaded plugin MonumentRadiation v0.2.55 by k1lly0u
+03:45 [Info] Rust:IO> External IP address obtained from lookup: 172.96.165.106
+13:50 [Info] Give was compiled successfully in 2504ms
+13:50 [Warning] [Give] Could not load a valid configuration file, creating a new configuration file at C:\TCAFiles\Users\matthew2\5260\oxide\config\Give.json
+13:50 [Info] Loaded plugin Give v3.0.2 by Wulf/lukespragg
+13:57 [Info] Loading Oxide Core v2.0.3867...
+13:57 [Info] Loading extensions...
+13:57 [Info] Latest compiler MD5: 5fbca0bf39b1c09ddf2fb3686b869242
+13:57 [Info] Local compiler MD5: 5fbca0bf39b1c09ddf2fb3686b869242
+13:57 [Info] Loaded extension CSharp v2.0.4000 by Oxide and Contributors
+13:57 [Info] Loaded extension Rust:IO for Oxide v2.15.0 by playrust.io / dcode
+13:57 [Info] Loaded extension MySql v2.0.3755 by Oxide and Contributors
+13:57 [Info] Loaded extension Rust v2.0.4185 by Oxide and Contributors
+13:57 [Info] Loaded extension SQLite v2.0.3754 by Oxide and Contributors
+13:57 [Info] Loaded extension Unity v2.0.3756 by Oxide and Contributors
+13:57 [Info] Using Covalence provider for game 'Rust'
+13:57 [Info] Loading plugins...
+13:57 [Info] Loaded plugin Rust v2.0.4185 by Oxide and Contributors
+13:57 [Info] Loaded plugin Unity v2.0.3756 by Oxide and Contributors
+13:57 [Info] Loaded plugin Rust:IO for Oxide v2.15.0 by playrust.io / dcode
+13:57 [Info] Added '// Reference: System.Drawing' in plugin 'SignArtist'
+13:57 [Info] DeathNotes, FurnaceSplitter, Give, Godmode, InfoPanel, Kits, MonumentRadiation, NoDecay, NoEscape, NTeleportation, PermissionsManager, PlayerAdministration, QuickSort, RemoveDefaultRadiation, SaveAnnouncer, ServerRewards, SignArtist, SkipNightVote, SmoothRestart, StackSizeController, Vanish and ZLevelsRemastered were compiled successfully in 3998ms
+13:57 [Error] Error while compiling: Fly.cs(27,31): error CS0246: The type or namespace name `PlayerSession' could not be found. Are you missing an assembly reference?
+13:57 [Info] Loaded plugin Death Notes v6.2.0 by LaserHydra
+13:57 [Info] Loaded plugin Furnace Splitter v2.1.7 by Skipcast
+13:57 [Info] Loaded plugin Give v3.0.2 by Wulf/lukespragg
+13:57 [Info] Loaded plugin Godmode v4.1.1 by Wulf/lukespragg
+13:57 [Info] Loaded plugin InfoPanel v0.9.9 by Ghosst / Nogrod
+13:57 [Info] Loaded plugin Kits v3.2.93 by Reneb
+13:57 [Info] Loaded plugin MonumentRadiation v0.2.55 by k1lly0u
+13:57 [Info] Loaded plugin NoDecay v1.0.32 by Diesel_42o
+13:57 [Info] Loaded plugin NoEscape v2.1.22 by Calytic
+13:57 [Info] Loaded plugin NTeleportation v1.0.53 by RFC1920
+13:57 [Info] Loaded plugin PermissionsManager v0.1.1 by Steenamaroo
+13:57 [Info] Loaded plugin PlayerAdministration v1.3.21 by ThibmoRozier
+13:57 [Info] Loaded plugin Quick Sort v1.3.4 by Frenk92
+13:57 [Info] Loaded plugin RemoveDefaultRadiation v0.1.0 by k1lly0u
+13:57 [Info] Loaded plugin Save Announcer v1.0.4 by Ryan
+13:57 [Info] Loaded plugin ServerRewards v0.4.67 by k1lly0u
+13:57 [Info] Loaded plugin Sign Artist v1.1.2 by Mughisi
+13:57 [Info] Loaded plugin SkipNightVote v0.1.4 by k1lly0u
+13:57 [Info] Loaded plugin SmoothRestart v1.2.5 by Fujikura/Visagalis
+13:57 [Info] Loaded plugin Stack Size Controller v2.0.0 by Canopy Sheep
+13:57 [Info] Loaded plugin Vanish v0.7.4 by nivex
+13:57 [Info] Loaded plugin ZLevelsRemastered v2.9.5 by FuJiCuRa
+14:00 [Info] IP address from command-line: 172.96.165.106
+14:00 [Info] Updating Rust:IO ...
+14:00 [Warning] Calling 'OnServerInitialized' on 'InfoPanel v0.9.9' took 565ms
+14:00 [Info] Rust:IO: Update complete
+14:00 [Info] [MonumentRadiation] Created 4 monument radiation zones
+14:00 [Warning] Calling 'OnServerInitialized' on 'MonumentRadiation v0.2.55' took 749ms [GARBAGE COLLECT]
+14:00 [Warning] [RemoveDefaultRadiation] All radiation elements destroyed, reloading plugins that use radiation
+14:00 [Warning] Calling 'OnServerInitialized' on 'RemoveDefaultRadiation v0.1.0' took 141ms
+14:00 [Warning] [ServerRewards] Image Library not detected, unloading ServerRewards
+14:00 [Info] Unloaded plugin ServerRewards v0.4.67 by k1lly0u
+14:00 [Info] [ZLevelsRemastered] Stats can be reset by > zl.reset <
+14:00 [Warning] Calling 'OnServerInitialized' on 'ZLevelsRemastered v2.9.5' took 188ms
+14:00 [Info] [SmoothRestart] Your servers Oxide build is up to date
+14:00 [Info] Installing Rust:IO ...
+14:00 [Info] Rust:IO> Setting up Rust:IO 2.3.6854.11652 ...
+14:00 [Info] Rust:IO> Creating directories ...
+14:00 [Info] Rust:IO> Applying config ...
+14:00 [Info] Rust:IO> Initializing database ...
+14:00 [Info] Rust:IO> Generating map image (this may take a while) ...
+14:01 [Info] Rust:IO> Generation complete
+--------- Summary --------
+Render       :  4060.264ms
+Postprocess  :  6062.710ms
+  Shadows    :   312.478ms
+  FXAA       :  5711.439ms
+Encoding     :    53.202ms
+Other        :    19.323ms
+--------------------------
+Total        :  10195.499ms
+14:01 [Info] Rust:IO> Starting HTTP server on 172.96.165.106:28435 ...
+14:01 [Info] Rust:IO> Installed.
+14:01 [Info] Rust:IO> Now ticking
+14:01 [Warning] Calling 'OnTick' on 'RustIO v2.15.0' took 10511ms [GARBAGE COLLECT]
+14:01 [Warning] Calling 'OnTick' on 'RustIO v2.15.0' took average 0ms [GARBAGE COLLECT]
+14:01 [Info] MonumentRadiation was compiled successfully in 2966ms
+14:01 [Warning] Calling 'Unload' on 'MonumentRadiation v0.2.55' took 150ms
+14:01 [Info] Unloaded plugin MonumentRadiation v0.2.55 by k1lly0u
+14:01 [Info] [MonumentRadiation] Created 4 monument radiation zones
+14:01 [Warning] Calling 'OnServerInitialized' on 'MonumentRadiation v0.2.55' took 531ms
+14:01 [Info] Loaded plugin MonumentRadiation v0.2.55 by k1lly0u
+14:01 [Info] Rust:IO> External IP address obtained from lookup: 172.96.165.106
+14:18 [Info] Loading Oxide Core v2.0.3867...
+14:18 [Info] Loading extensions...
+14:19 [Info] Latest compiler MD5: 5fbca0bf39b1c09ddf2fb3686b869242
+14:19 [Info] Local compiler MD5: 5fbca0bf39b1c09ddf2fb3686b869242
+14:19 [Info] Loaded extension CSharp v2.0.4000 by Oxide and Contributors
+14:19 [Info] Loaded extension Rust:IO for Oxide v2.15.0 by playrust.io / dcode
+14:19 [Info] Loaded extension MySql v2.0.3755 by Oxide and Contributors
+14:19 [Info] Loaded extension Rust v2.0.4185 by Oxide and Contributors
+14:19 [Info] Loaded extension SQLite v2.0.3754 by Oxide and Contributors
+14:19 [Info] Loaded extension Unity v2.0.3756 by Oxide and Contributors
+14:19 [Info] Using Covalence provider for game 'Rust'
+14:19 [Info] Loading plugins...
+14:19 [Info] Loaded plugin Rust v2.0.4185 by Oxide and Contributors
+14:19 [Info] Loaded plugin Unity v2.0.3756 by Oxide and Contributors
+14:19 [Info] Loaded plugin Rust:IO for Oxide v2.15.0 by playrust.io / dcode
+14:19 [Info] Added '// Reference: System.Drawing' in plugin 'SignArtist'
+14:19 [Info] DeathNotes, FurnaceSplitter, Give, Godmode, InfoPanel, Kits, MonumentRadiation, NoDecay, NoEscape, NTeleportation, PermissionsManager, PlayerAdministration, QuickSort, RemoveDefaultRadiation, SaveAnnouncer, ServerRewards, SignArtist, SkipNightVote, SmoothRestart, StackSizeController, Vanish and ZLevelsRemastered were compiled successfully in 4045ms
+14:19 [Error] Error while compiling: Fly.cs(27,31): error CS0246: The type or namespace name `PlayerSession' could not be found. Are you missing an assembly reference?
+14:19 [Info] Loaded plugin Death Notes v6.2.0 by LaserHydra
+14:19 [Info] Loaded plugin Furnace Splitter v2.1.7 by Skipcast
+14:19 [Info] Loaded plugin Give v3.0.2 by Wulf/lukespragg
+14:19 [Info] Loaded plugin Godmode v4.1.1 by Wulf/lukespragg
+14:19 [Info] Loaded plugin InfoPanel v0.9.9 by Ghosst / Nogrod
+14:19 [Info] Loaded plugin Kits v3.2.93 by Reneb
+14:19 [Info] Loaded plugin MonumentRadiation v0.2.55 by k1lly0u
+14:19 [Info] Loaded plugin NoDecay v1.0.32 by Diesel_42o
+14:19 [Info] Loaded plugin NoEscape v2.1.22 by Calytic
+14:19 [Info] Loaded plugin NTeleportation v1.0.53 by RFC1920
+14:19 [Info] Loaded plugin PermissionsManager v0.1.1 by Steenamaroo
+14:19 [Info] Loaded plugin PlayerAdministration v1.3.21 by ThibmoRozier
+14:19 [Info] Loaded plugin Quick Sort v1.3.4 by Frenk92
+14:19 [Info] Loaded plugin RemoveDefaultRadiation v0.1.0 by k1lly0u
+14:19 [Info] Loaded plugin Save Announcer v1.0.4 by Ryan
+14:19 [Info] Loaded plugin ServerRewards v0.4.67 by k1lly0u
+14:19 [Info] Loaded plugin Sign Artist v1.1.2 by Mughisi
+14:19 [Info] Loaded plugin SkipNightVote v0.1.4 by k1lly0u
+14:19 [Info] Loaded plugin SmoothRestart v1.2.5 by Fujikura/Visagalis
+14:19 [Info] Loaded plugin Stack Size Controller v2.0.0 by Canopy Sheep
+14:19 [Info] Loaded plugin Vanish v0.7.4 by nivex
+14:19 [Info] Loaded plugin ZLevelsRemastered v2.9.5 by FuJiCuRa
+14:22 [Info] IP address from command-line: 172.96.165.106
+14:22 [Info] Updating Rust:IO ...
+14:22 [Warning] Calling 'OnServerInitialized' on 'InfoPanel v0.9.9' took 617ms
+14:22 [Info] Rust:IO: Update complete
+14:22 [Info] [MonumentRadiation] Created 4 monument radiation zones
+14:22 [Warning] Calling 'OnServerInitialized' on 'MonumentRadiation v0.2.55' took 863ms [GARBAGE COLLECT]
+14:22 [Warning] [RemoveDefaultRadiation] All radiation elements destroyed, reloading plugins that use radiation
+14:22 [Warning] Calling 'OnServerInitialized' on 'RemoveDefaultRadiation v0.1.0' took 157ms
+14:22 [Warning] [ServerRewards] Image Library not detected, unloading ServerRewards
+14:22 [Info] Unloaded plugin ServerRewards v0.4.67 by k1lly0u
+14:22 [Info] [ZLevelsRemastered] Stats can be reset by > zl.reset <
+14:22 [Warning] Calling 'OnServerInitialized' on 'ZLevelsRemastered v2.9.5' took 211ms
+14:22 [Info] [SmoothRestart] Your servers Oxide build is up to date
+14:22 [Info] Installing Rust:IO ...
+14:22 [Info] Rust:IO> Setting up Rust:IO 2.3.6854.11652 ...
+14:22 [Info] Rust:IO> Creating directories ...
+14:22 [Info] Rust:IO> Applying config ...
+14:22 [Info] Rust:IO> Initializing database ...
+14:22 [Info] Rust:IO> Generating map image (this may take a while) ...
+14:22 [Info] Rust:IO> Generation complete
+--------- Summary --------
+Render       :  4153.015ms
+Postprocess  :  5888.913ms
+  Shadows    :   309.125ms
+  FXAA       :  5541.476ms
+Encoding     :    54.321ms
+Other        :    23.269ms
+--------------------------
+Total        :  10119.517ms
+14:22 [Info] Rust:IO> Starting HTTP server on 172.96.165.106:28435 ...
+14:22 [Info] Rust:IO> Installed.
+14:22 [Info] Rust:IO> Now ticking
+14:22 [Warning] Calling 'OnTick' on 'RustIO v2.15.0' took 10453ms [GARBAGE COLLECT]
+14:22 [Warning] Calling 'OnTick' on 'RustIO v2.15.0' took average 0ms [GARBAGE COLLECT]
+14:22 [Info] MonumentRadiation was compiled successfully in 3045ms
+14:22 [Warning] Calling 'Unload' on 'MonumentRadiation v0.2.55' took 156ms
+14:22 [Info] Unloaded plugin MonumentRadiation v0.2.55 by k1lly0u
+14:22 [Info] [MonumentRadiation] Created 4 monument radiation zones
+14:22 [Warning] Calling 'OnServerInitialized' on 'MonumentRadiation v0.2.55' took 547ms
+14:22 [Info] Loaded plugin MonumentRadiation v0.2.55 by k1lly0u
+14:22 [Info] Rust:IO> External IP address obtained from lookup: 172.96.165.106
+14:57 [Warning] Calling 'OnTick' on 'RustIO v2.15.0' took 325ms [GARBAGE COLLECT]
+15:01 [Error] Failed to call hook 'GiveCommand' on plugin 'Give v3.0.2' (FormatException: Input string was not in a correct format.)
+  at System.Number.StringToNumber (System.String str, System.Globalization.NumberStyles options, System.Number+NumberBuffer& number, System.Globalization.NumberFormatInfo info, System.Boolean parseDecimal) [0x00057] in <ac823e2bb42b41bda67924a45a0173c3>:0 
+  at System.Number.ParseInt32 (System.String s, System.Globalization.NumberStyles style, System.Globalization.NumberFormatInfo info) [0x00013] in <ac823e2bb42b41bda67924a45a0173c3>:0 
+  at System.Int32.Parse (System.String s, System.IFormatProvider provider) [0x00008] in <ac823e2bb42b41bda67924a45a0173c3>:0 
+  at System.Convert.ToInt32 (System.String value) [0x0000b] in <ac823e2bb42b41bda67924a45a0173c3>:0 
+  at Oxide.Plugins.Give.GiveCommand (Oxide.Core.Libraries.Covalence.IPlayer player, System.String command, System.String[] args) [0x00050] in <273bdd4210e145ba9e479aae997186e8>:0 
+  at Oxide.Plugins.Give.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00255] in <273bdd4210e145ba9e479aae997186e8>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <9affce1cd15c4ec183941adef8db1722>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <4452f821def6406d834e4149849fe7ea>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <4452f821def6406d834e4149849fe7ea>:0 
+15:23 [Info] [NoDecay] NoDecay.OnEntityTakeDamage took 328.3155 ms to execute.
+15:23 [Warning] Calling 'OnEntityTakeDamage' on 'NoDecay v1.0.32' took 329ms [GARBAGE COLLECT]
+15:45 [Warning] Duplicate permission registered 'kits.admin' (by plugin 'Kits')
+15:45 [Warning] Duplicate permission registered 'kits.consolegive' (by plugin 'Kits')
+15:45 [Warning] Duplicate permission registered 'kits.admin' (by plugin 'Kits')
+15:45 [Warning] Duplicate permission registered 'kits.consolegive' (by plugin 'Kits')
+15:52 [Warning] Duplicate permission registered 'kits.admin' (by plugin 'Kits')
+15:52 [Warning] Duplicate permission registered 'kits.consolegive' (by plugin 'Kits')
+16:08 [Warning] Duplicate permission registered 'kits.admin' (by plugin 'Kits')
+16:08 [Warning] Duplicate permission registered 'kits.consolegive' (by plugin 'Kits')
+16:42 [Info] [Death Notes] A Scientist shot down Meretrix.
+16:52 [Info] Loading Oxide Core v2.0.3867...
+16:52 [Info] Loading extensions...
+16:52 [Info] Latest compiler MD5: 5fbca0bf39b1c09ddf2fb3686b869242
+16:52 [Info] Local compiler MD5: 5fbca0bf39b1c09ddf2fb3686b869242
+16:52 [Info] Loaded extension CSharp v2.0.4000 by Oxide and Contributors
+16:52 [Info] Loaded extension Rust:IO for Oxide v2.15.0 by playrust.io / dcode
+16:52 [Info] Loaded extension MySql v2.0.3755 by Oxide and Contributors
+16:52 [Info] Loaded extension Rust v2.0.4185 by Oxide and Contributors
+16:52 [Info] Loaded extension SQLite v2.0.3754 by Oxide and Contributors
+16:52 [Info] Loaded extension Unity v2.0.3756 by Oxide and Contributors
+16:52 [Info] Using Covalence provider for game 'Rust'
+16:52 [Info] Loading plugins...
+16:52 [Info] Loaded plugin Rust v2.0.4185 by Oxide and Contributors
+16:52 [Info] Loaded plugin Unity v2.0.3756 by Oxide and Contributors
+16:52 [Info] Loaded plugin Rust:IO for Oxide v2.15.0 by playrust.io / dcode
+16:52 [Info] Added '// Reference: System.Drawing' in plugin 'SignArtist'
+16:52 [Info] DeathNotes, FurnaceSplitter, Give, Godmode, InfoPanel, Kits, MonumentRadiation, NoDecay, NoEscape, NTeleportation, PermissionsManager, PlayerAdministration, QuickSort, RemoveDefaultRadiation, SaveAnnouncer, ServerRewards, SignArtist, SkipNightVote, SmoothRestart, StackSizeController, Vanish and ZLevelsRemastered were compiled successfully in 3602ms
+16:52 [Info] Loaded plugin Death Notes v6.2.0 by LaserHydra
+16:52 [Info] Loaded plugin Furnace Splitter v2.1.7 by Skipcast
+16:52 [Info] Loaded plugin Give v3.0.2 by Wulf/lukespragg
+16:52 [Info] Loaded plugin Godmode v4.1.1 by Wulf/lukespragg
+16:52 [Info] Loaded plugin InfoPanel v0.9.9 by Ghosst / Nogrod
+16:52 [Info] Loaded plugin Kits v3.2.93 by Reneb
+16:52 [Info] Loaded plugin MonumentRadiation v0.2.55 by k1lly0u
+16:52 [Info] Loaded plugin NoDecay v1.0.32 by Diesel_42o
+16:52 [Info] Loaded plugin NoEscape v2.1.22 by Calytic
+16:52 [Info] Loaded plugin NTeleportation v1.0.53 by RFC1920
+16:52 [Info] Loaded plugin PermissionsManager v0.1.1 by Steenamaroo
+16:52 [Info] Loaded plugin PlayerAdministration v1.3.21 by ThibmoRozier
+16:52 [Info] Loaded plugin Quick Sort v1.3.4 by Frenk92
+16:52 [Info] Loaded plugin RemoveDefaultRadiation v0.1.0 by k1lly0u
+16:52 [Info] Loaded plugin Save Announcer v1.0.4 by Ryan
+16:52 [Info] Loaded plugin ServerRewards v0.4.67 by k1lly0u
+16:52 [Info] Loaded plugin Sign Artist v1.1.2 by Mughisi
+16:52 [Info] Loaded plugin SkipNightVote v0.1.4 by k1lly0u
+16:52 [Info] Loaded plugin SmoothRestart v1.2.5 by Fujikura/Visagalis
+16:52 [Info] Loaded plugin Stack Size Controller v2.0.0 by Canopy Sheep
+16:52 [Info] Loaded plugin Vanish v0.7.4 by nivex
+16:52 [Info] Loaded plugin ZLevelsRemastered v2.9.5 by FuJiCuRa
+16:58 [Info] IP address from command-line: 172.96.165.106
+16:58 [Info] Updating Rust:IO ...
+16:58 [Warning] Calling 'OnServerInitialized' on 'InfoPanel v0.9.9' took 681ms
+16:58 [Info] Rust:IO: Update complete
+16:58 [Info] [MonumentRadiation] Created 4 monument radiation zones
+16:58 [Warning] Calling 'OnServerInitialized' on 'MonumentRadiation v0.2.55' took 928ms [GARBAGE COLLECT]
+16:58 [Warning] [RemoveDefaultRadiation] All radiation elements destroyed, reloading plugins that use radiation
+16:58 [Warning] Calling 'OnServerInitialized' on 'RemoveDefaultRadiation v0.1.0' took 169ms
+16:58 [Warning] [ServerRewards] Image Library not detected, unloading ServerRewards
+16:58 [Info] Unloaded plugin ServerRewards v0.4.67 by k1lly0u
+16:58 [Info] [ZLevelsRemastered] Stats can be reset by > zl.reset <
+16:58 [Warning] Calling 'OnServerInitialized' on 'ZLevelsRemastered v2.9.5' took 254ms
+16:58 [Info] [SmoothRestart] Your servers Oxide build is up to date
+16:58 [Info] Installing Rust:IO ...
+16:58 [Info] Rust:IO> Setting up Rust:IO 2.3.6854.11652 ...
+16:58 [Info] Rust:IO> Creating directories ...
+16:58 [Info] Rust:IO> Applying config ...
+16:58 [Info] Rust:IO> Initializing database ...
+16:58 [Info] Rust:IO> Map wipe detected, resetting map specific data
+16:58 [Info] Rust:IO> Generating map image (this may take a while) ...
+16:58 [Info] Rust:IO> Generation complete
+--------- Summary --------
+Render       :  7730.101ms
+Postprocess  :  5524.010ms
+  Shadows    :   328.445ms
+  FXAA       :  5159.053ms
+Encoding     :    51.606ms
+Other        :    25.317ms
+--------------------------
+Total        :  13331.034ms
+16:58 [Info] Rust:IO> Starting HTTP server on 172.96.165.106:28435 ...
+16:58 [Info] Rust:IO> Installed.
+16:58 [Info] Rust:IO> Now ticking
+16:58 [Warning] Calling 'OnTick' on 'RustIO v2.15.0' took 13683ms [GARBAGE COLLECT]
+16:58 [Warning] Calling 'OnTick' on 'RustIO v2.15.0' took average 9ms [GARBAGE COLLECT]
+16:58 [Info] MonumentRadiation was compiled successfully in 2712ms
+16:58 [Warning] Calling 'Unload' on 'MonumentRadiation v0.2.55' took 154ms
+16:58 [Info] Unloaded plugin MonumentRadiation v0.2.55 by k1lly0u
+16:58 [Info] [MonumentRadiation] Created 4 monument radiation zones
+16:58 [Warning] Calling 'OnServerInitialized' on 'MonumentRadiation v0.2.55' took 876ms [GARBAGE COLLECT]
+16:58 [Info] Loaded plugin MonumentRadiation v0.2.55 by k1lly0u
+16:58 [Info] Rust:IO> External IP address obtained from lookup: 172.96.165.106
+17:05 [Info] [Death Notes] Meretrix killed a Chicken using their Jackhammer.
+17:05 [Info] [Death Notes] Smaste couldn't run away from the Bear.
+17:09 [Info] [Death Notes] Meretrix killed a Chicken using their Jackhammer.
+17:21 [Info] [Death Notes] Meretrix shot a Chicken using their LR-300 Assault Rifle over a distance of 2.1 meters.
+17:26 [Info] Loading Oxide Core v2.0.3867...
+17:26 [Info] Loading extensions...
+17:26 [Info] Latest compiler MD5: 5fbca0bf39b1c09ddf2fb3686b869242
+17:26 [Info] Local compiler MD5: 5fbca0bf39b1c09ddf2fb3686b869242
+17:26 [Info] Loaded extension CSharp v2.0.4000 by Oxide and Contributors
+17:26 [Info] Loaded extension Rust:IO for Oxide v2.15.0 by playrust.io / dcode
+17:26 [Info] Loaded extension MySql v2.0.3755 by Oxide and Contributors
+17:26 [Info] Loaded extension Rust v2.0.4185 by Oxide and Contributors
+17:26 [Info] Loaded extension SQLite v2.0.3754 by Oxide and Contributors
+17:26 [Info] Loaded extension Unity v2.0.3756 by Oxide and Contributors
+17:26 [Info] Using Covalence provider for game 'Rust'
+17:26 [Info] Loading plugins...
+17:26 [Info] Loaded plugin Rust v2.0.4185 by Oxide and Contributors
+17:26 [Info] Loaded plugin Unity v2.0.3756 by Oxide and Contributors
+17:26 [Info] Loaded plugin Rust:IO for Oxide v2.15.0 by playrust.io / dcode
+17:26 [Info] Added '// Reference: System.Drawing' in plugin 'SignArtist'
+17:26 [Info] DeathNotes, FurnaceSplitter, Give, Godmode, InfoPanel, Kits, MonumentRadiation, NoDecay, NoEscape, NTeleportation, PermissionsManager, PlayerAdministration, QuickSort, RemoveDefaultRadiation, SaveAnnouncer, ServerRewards, SignArtist, SkipNightVote, SmoothRestart, StackSizeController, Vanish and ZLevelsRemastered were compiled successfully in 3595ms
+17:26 [Info] Loaded plugin Death Notes v6.2.0 by LaserHydra
+17:26 [Info] Loaded plugin Furnace Splitter v2.1.7 by Skipcast
+17:26 [Info] Loaded plugin Give v3.0.2 by Wulf/lukespragg
+17:26 [Info] Loaded plugin Godmode v4.1.1 by Wulf/lukespragg
+17:26 [Info] Loaded plugin InfoPanel v0.9.9 by Ghosst / Nogrod
+17:26 [Info] Loaded plugin Kits v3.2.93 by Reneb
+17:26 [Info] Loaded plugin MonumentRadiation v0.2.55 by k1lly0u
+17:26 [Info] Loaded plugin NoDecay v1.0.32 by Diesel_42o
+17:26 [Info] Loaded plugin NoEscape v2.1.22 by Calytic
+17:26 [Info] Loaded plugin NTeleportation v1.0.53 by RFC1920
+17:26 [Info] Loaded plugin PermissionsManager v0.1.1 by Steenamaroo
+17:26 [Info] Loaded plugin PlayerAdministration v1.3.21 by ThibmoRozier
+17:26 [Info] Loaded plugin Quick Sort v1.3.4 by Frenk92
+17:26 [Info] Loaded plugin RemoveDefaultRadiation v0.1.0 by k1lly0u
+17:26 [Info] Loaded plugin Save Announcer v1.0.4 by Ryan
+17:26 [Info] Loaded plugin ServerRewards v0.4.67 by k1lly0u
+17:26 [Info] Loaded plugin Sign Artist v1.1.2 by Mughisi
+17:26 [Info] Loaded plugin SkipNightVote v0.1.4 by k1lly0u
+17:26 [Info] Loaded plugin SmoothRestart v1.2.5 by Fujikura/Visagalis
+17:26 [Info] Loaded plugin Stack Size Controller v2.0.0 by Canopy Sheep
+17:26 [Info] Loaded plugin Vanish v0.7.4 by nivex
+17:26 [Info] Loaded plugin ZLevelsRemastered v2.9.5 by FuJiCuRa
+17:31 [Info] IP address from command-line: 172.96.165.106
+17:31 [Info] Updating Rust:IO ...
+17:31 [Warning] Calling 'OnServerInitialized' on 'InfoPanel v0.9.9' took 659ms
+17:31 [Info] Rust:IO: Update complete
+17:31 [Info] [MonumentRadiation] Created 4 monument radiation zones
+17:31 [Warning] Calling 'OnServerInitialized' on 'MonumentRadiation v0.2.55' took 969ms [GARBAGE COLLECT]
+17:31 [Warning] [RemoveDefaultRadiation] All radiation elements destroyed, reloading plugins that use radiation
+17:31 [Warning] Calling 'OnServerInitialized' on 'RemoveDefaultRadiation v0.1.0' took 181ms
+17:31 [Warning] [ServerRewards] Image Library not detected, unloading ServerRewards
+17:31 [Info] Unloaded plugin ServerRewards v0.4.67 by k1lly0u
+17:31 [Info] [ZLevelsRemastered] Stats can be reset by > zl.reset <
+17:31 [Warning] Calling 'OnServerInitialized' on 'ZLevelsRemastered v2.9.5' took 285ms
+17:31 [Info] [SmoothRestart] Your servers Oxide build is up to date
+17:31 [Info] Installing Rust:IO ...
+17:31 [Info] Rust:IO> Setting up Rust:IO 2.3.6854.11652 ...
+17:31 [Info] Rust:IO> Creating directories ...
+17:31 [Info] Rust:IO> Applying config ...
+17:31 [Info] Rust:IO> Initializing database ...
+17:31 [Info] Rust:IO> Generating map image (this may take a while) ...
+17:31 [Info] Rust:IO> Generation complete
+--------- Summary --------
+Render       :  6939.586ms
+Postprocess  :  5682.774ms
+  Shadows    :   322.847ms
+  FXAA       :  5326.573ms
+Encoding     :    51.168ms
+Other        :    25.776ms
+--------------------------
+Total        :  12699.304ms
+17:31 [Info] Rust:IO> Starting HTTP server on 172.96.165.106:28435 ...
+17:31 [Info] Rust:IO> Installed.
+17:31 [Info] Rust:IO> Now ticking
+17:31 [Warning] Calling 'OnTick' on 'RustIO v2.15.0' took 13012ms [GARBAGE COLLECT]
+17:31 [Warning] Calling 'OnTick' on 'RustIO v2.15.0' took average 0ms [GARBAGE COLLECT]
+17:31 [Info] MonumentRadiation was compiled successfully in 2668ms
+17:31 [Warning] Calling 'Unload' on 'MonumentRadiation v0.2.55' took 144ms
+17:31 [Info] Unloaded plugin MonumentRadiation v0.2.55 by k1lly0u
+17:31 [Info] [MonumentRadiation] Created 4 monument radiation zones
+17:31 [Warning] Calling 'OnServerInitialized' on 'MonumentRadiation v0.2.55' took 821ms [GARBAGE COLLECT]
+17:31 [Info] Loaded plugin MonumentRadiation v0.2.55 by k1lly0u
+17:31 [Info] Rust:IO> External IP address obtained from lookup: 172.96.165.106
+17:41 [Info] Loading Oxide Core v2.0.3867...
+17:41 [Info] Loading extensions...
+17:41 [Info] Latest compiler MD5: 5fbca0bf39b1c09ddf2fb3686b869242
+17:41 [Info] Local compiler MD5: 5fbca0bf39b1c09ddf2fb3686b869242
+17:41 [Info] Loaded extension CSharp v2.0.4000 by Oxide and Contributors
+17:41 [Info] Loaded extension Rust:IO for Oxide v2.15.0 by playrust.io / dcode
+17:41 [Info] Loaded extension MySql v2.0.3755 by Oxide and Contributors
+17:41 [Info] Loaded extension Rust v2.0.4185 by Oxide and Contributors
+17:41 [Info] Loaded extension SQLite v2.0.3754 by Oxide and Contributors
+17:41 [Info] Loaded extension Unity v2.0.3756 by Oxide and Contributors
+17:41 [Info] Using Covalence provider for game 'Rust'
+17:41 [Info] Loading plugins...
+17:41 [Info] Loaded plugin Rust v2.0.4185 by Oxide and Contributors
+17:41 [Info] Loaded plugin Unity v2.0.3756 by Oxide and Contributors
+17:41 [Info] Loaded plugin Rust:IO for Oxide v2.15.0 by playrust.io / dcode
+17:41 [Info] Added '// Reference: System.Drawing' in plugin 'SignArtist'
+17:41 [Info] DeathNotes, FurnaceSplitter, Give, Godmode, InfoPanel, Kits, MonumentRadiation, NoDecay, NoEscape, NTeleportation, PermissionsManager, PlayerAdministration, QuickSort, RemoveDefaultRadiation, SaveAnnouncer, ServerRewards, SignArtist, SkipNightVote, SmoothRestart, StackSizeController, Vanish and ZLevelsRemastered were compiled successfully in 3602ms
+17:41 [Info] Loaded plugin Death Notes v6.2.0 by LaserHydra
+17:41 [Info] Loaded plugin Furnace Splitter v2.1.7 by Skipcast
+17:41 [Info] Loaded plugin Give v3.0.2 by Wulf/lukespragg
+17:41 [Info] Loaded plugin Godmode v4.1.1 by Wulf/lukespragg
+17:41 [Info] Loaded plugin InfoPanel v0.9.9 by Ghosst / Nogrod
+17:41 [Info] Loaded plugin Kits v3.2.93 by Reneb
+17:41 [Info] Loaded plugin MonumentRadiation v0.2.55 by k1lly0u
+17:41 [Info] Loaded plugin NoDecay v1.0.32 by Diesel_42o
+17:41 [Info] Loaded plugin NoEscape v2.1.22 by Calytic
+17:41 [Info] Loaded plugin NTeleportation v1.0.53 by RFC1920
+17:41 [Info] Loaded plugin PermissionsManager v0.1.1 by Steenamaroo
+17:41 [Info] Loaded plugin PlayerAdministration v1.3.21 by ThibmoRozier
+17:41 [Info] Loaded plugin Quick Sort v1.3.4 by Frenk92
+17:41 [Info] Loaded plugin RemoveDefaultRadiation v0.1.0 by k1lly0u
+17:41 [Info] Loaded plugin Save Announcer v1.0.4 by Ryan
+17:41 [Info] Loaded plugin ServerRewards v0.4.67 by k1lly0u
+17:41 [Info] Loaded plugin Sign Artist v1.1.2 by Mughisi
+17:41 [Info] Loaded plugin SkipNightVote v0.1.4 by k1lly0u
+17:41 [Info] Loaded plugin SmoothRestart v1.2.5 by Fujikura/Visagalis
+17:41 [Info] Loaded plugin Stack Size Controller v2.0.0 by Canopy Sheep
+17:41 [Info] Loaded plugin Vanish v0.7.4 by nivex
+17:41 [Info] Loaded plugin ZLevelsRemastered v2.9.5 by FuJiCuRa
+17:46 [Info] IP address from command-line: 172.96.165.106
+17:46 [Info] Updating Rust:IO ...
+17:46 [Info] Rust:IO: Update complete
+17:46 [Warning] Calling 'OnServerInitialized' on 'InfoPanel v0.9.9' took 961ms [GARBAGE COLLECT]
+17:46 [Info] [MonumentRadiation] Created 4 monument radiation zones
+17:46 [Warning] Calling 'OnServerInitialized' on 'MonumentRadiation v0.2.55' took 684ms
+17:47 [Warning] [RemoveDefaultRadiation] All radiation elements destroyed, reloading plugins that use radiation
+17:47 [Warning] Calling 'OnServerInitialized' on 'RemoveDefaultRadiation v0.1.0' took 187ms
+17:47 [Warning] [ServerRewards] Image Library not detected, unloading ServerRewards
+17:47 [Info] Unloaded plugin ServerRewards v0.4.67 by k1lly0u
+17:47 [Info] [ZLevelsRemastered] Stats can be reset by > zl.reset <
+17:47 [Warning] Calling 'OnServerInitialized' on 'ZLevelsRemastered v2.9.5' took 291ms
+17:47 [Info] [SmoothRestart] Your servers Oxide build is up to date
+17:47 [Info] Installing Rust:IO ...
+17:47 [Info] Rust:IO> Setting up Rust:IO 2.3.6854.11652 ...
+17:47 [Info] Rust:IO> Creating directories ...
+17:47 [Info] Rust:IO> Applying config ...
+17:47 [Info] Rust:IO> Initializing database ...
+17:47 [Info] Rust:IO> Generating map image (this may take a while) ...
+17:47 [Info] Rust:IO> Generation complete
+--------- Summary --------
+Render       :  7437.787ms
+Postprocess  :  5862.792ms
+  Shadows    :   329.906ms
+  FXAA       :  5493.759ms
+Encoding     :    53.335ms
+Other        :    53.738ms
+--------------------------
+Total        :  13407.652ms
+17:47 [Info] Rust:IO> Starting HTTP server on 172.96.165.106:28435 ...
+17:47 [Info] Rust:IO> Installed.
+17:47 [Info] Rust:IO> Now ticking
+17:47 [Warning] Calling 'OnTick' on 'RustIO v2.15.0' took 13739ms [GARBAGE COLLECT]
+17:47 [Warning] Calling 'OnTick' on 'RustIO v2.15.0' took average 0ms [GARBAGE COLLECT]
+17:47 [Info] MonumentRadiation was compiled successfully in 3215ms
+17:47 [Warning] Calling 'Unload' on 'MonumentRadiation v0.2.55' took 153ms
+17:47 [Info] Unloaded plugin MonumentRadiation v0.2.55 by k1lly0u
+17:47 [Info] [MonumentRadiation] Created 4 monument radiation zones
+17:47 [Warning] Calling 'OnServerInitialized' on 'MonumentRadiation v0.2.55' took 854ms [GARBAGE COLLECT]
+17:47 [Info] Loaded plugin MonumentRadiation v0.2.55 by k1lly0u
+17:47 [Info] Rust:IO> External IP address obtained from lookup: 172.96.165.106
+17:55 [Info] Loading Oxide Core v2.0.3867...
+17:55 [Info] Loading extensions...
+17:55 [Info] Latest compiler MD5: 5fbca0bf39b1c09ddf2fb3686b869242
+17:55 [Info] Local compiler MD5: 5fbca0bf39b1c09ddf2fb3686b869242
+17:55 [Info] Loaded extension CSharp v2.0.4000 by Oxide and Contributors
+17:55 [Info] Loaded extension Rust:IO for Oxide v2.15.0 by playrust.io / dcode
+17:55 [Info] Loaded extension MySql v2.0.3755 by Oxide and Contributors
+17:55 [Info] Loaded extension Rust v2.0.4185 by Oxide and Contributors
+17:55 [Info] Loaded extension SQLite v2.0.3754 by Oxide and Contributors
+17:55 [Info] Loaded extension Unity v2.0.3756 by Oxide and Contributors
+17:55 [Info] Using Covalence provider for game 'Rust'
+17:55 [Info] Loading plugins...
+17:55 [Info] Loaded plugin Rust v2.0.4185 by Oxide and Contributors
+17:55 [Info] Loaded plugin Unity v2.0.3756 by Oxide and Contributors
+17:55 [Info] Loaded plugin Rust:IO for Oxide v2.15.0 by playrust.io / dcode
+17:55 [Info] Added '// Reference: System.Drawing' in plugin 'SignArtist'
+17:55 [Info] DeathNotes, FurnaceSplitter, Give, Godmode, InfoPanel, Kits, MonumentRadiation, NoDecay, NoEscape, NTeleportation, PermissionsManager, PlayerAdministration, QuickSort, RemoveDefaultRadiation, SaveAnnouncer, ServerRewards, SignArtist, SkipNightVote, SmoothRestart, StackSizeController, Vanish and ZLevelsRemastered were compiled successfully in 3673ms
+17:55 [Info] Loaded plugin Death Notes v6.2.0 by LaserHydra
+17:55 [Info] Loaded plugin Furnace Splitter v2.1.7 by Skipcast
+17:55 [Info] Loaded plugin Give v3.0.2 by Wulf/lukespragg
+17:55 [Info] Loaded plugin Godmode v4.1.1 by Wulf/lukespragg
+17:55 [Info] Loaded plugin InfoPanel v0.9.9 by Ghosst / Nogrod
+17:55 [Info] Loaded plugin Kits v3.2.93 by Reneb
+17:55 [Info] Loaded plugin MonumentRadiation v0.2.55 by k1lly0u
+17:55 [Info] Loaded plugin NoDecay v1.0.32 by Diesel_42o
+17:55 [Info] Loaded plugin NoEscape v2.1.22 by Calytic
+17:55 [Info] Loaded plugin NTeleportation v1.0.53 by RFC1920
+17:55 [Info] Loaded plugin PermissionsManager v0.1.1 by Steenamaroo
+17:55 [Info] Loaded plugin PlayerAdministration v1.3.21 by ThibmoRozier
+17:55 [Info] Loaded plugin Quick Sort v1.3.4 by Frenk92
+17:55 [Info] Loaded plugin RemoveDefaultRadiation v0.1.0 by k1lly0u
+17:55 [Info] Loaded plugin Save Announcer v1.0.4 by Ryan
+17:55 [Info] Loaded plugin ServerRewards v0.4.67 by k1lly0u
+17:55 [Info] Loaded plugin Sign Artist v1.1.2 by Mughisi
+17:55 [Info] Loaded plugin SkipNightVote v0.1.4 by k1lly0u
+17:55 [Info] Loaded plugin SmoothRestart v1.2.5 by Fujikura/Visagalis
+17:55 [Info] Loaded plugin Stack Size Controller v2.0.0 by Canopy Sheep
+17:55 [Info] Loaded plugin Vanish v0.7.4 by nivex
+17:55 [Info] Loaded plugin ZLevelsRemastered v2.9.5 by FuJiCuRa
+17:56 [Info] IP address from command-line: 172.96.165.106
+17:56 [Info] Updating Rust:IO ...
+17:56 [Warning] Calling 'OnServerInitialized' on 'InfoPanel v0.9.9' took 301ms
+17:56 [Warning] Calling 'OnServerInitialized' on 'MonumentRadiation v0.2.55' took 178ms
+17:56 [Warning] [RemoveDefaultRadiation] All radiation elements destroyed, reloading plugins that use radiation
+17:56 [Warning] [ServerRewards] Image Library not detected, unloading ServerRewards
+17:56 [Info] Unloaded plugin ServerRewards v0.4.67 by k1lly0u
+17:56 [Info] Rust:IO: Update complete
+17:56 [Info] [ZLevelsRemastered] Stats can be reset by > zl.reset <
+17:56 [Warning] Calling 'OnServerInitialized' on 'ZLevelsRemastered v2.9.5' took 148ms
+17:56 [Info] [SmoothRestart] Your servers Oxide build is up to date
+17:56 [Info] Installing Rust:IO ...
+17:56 [Info] Rust:IO> Setting up Rust:IO 2.3.6854.11652 ...
+17:56 [Info] Rust:IO> Creating directories ...
+17:56 [Info] Rust:IO> Applying config ...
+17:56 [Info] Rust:IO> Initializing database ...
+17:56 [Info] Rust:IO> Map wipe detected, resetting map specific data
+17:56 [Info] Rust:IO> Generating map image (this may take a while) ...
+17:57 [Info] Rust:IO> Generation complete
+--------- Summary --------
+Render       :   404.079ms
+Postprocess  :  5891.348ms
+  Shadows    :    38.121ms
+  FXAA       :  5805.642ms
+Encoding     :    36.141ms
+Other        :    16.941ms
+--------------------------
+Total        :  6348.510ms
+17:57 [Info] Rust:IO> Starting HTTP server on 172.96.165.106:28435 ...
+17:57 [Info] Rust:IO> Installed.
+17:57 [Info] Rust:IO> Now ticking
+17:57 [Warning] Calling 'OnTick' on 'RustIO v2.15.0' took 6596ms [GARBAGE COLLECT]
+17:57 [Warning] Calling 'OnTick' on 'RustIO v2.15.0' took average 33ms [GARBAGE COLLECT]
+17:57 [Info] MonumentRadiation was compiled successfully in 2940ms
+17:57 [Info] Unloaded plugin MonumentRadiation v0.2.55 by k1lly0u
+17:57 [Info] Rust:IO> External IP address obtained from lookup: 172.96.165.106
+17:57 [Warning] Calling 'OnServerInitialized' on 'MonumentRadiation v0.2.55' took 155ms
+17:57 [Info] Loaded plugin MonumentRadiation v0.2.55 by k1lly0u
+18:01 [Info] Loading Oxide Core v2.0.3867...
+18:01 [Info] Loading extensions...
+18:01 [Info] Latest compiler MD5: 5fbca0bf39b1c09ddf2fb3686b869242
+18:01 [Info] Local compiler MD5: 5fbca0bf39b1c09ddf2fb3686b869242
+18:01 [Info] Loaded extension CSharp v2.0.4000 by Oxide and Contributors
+18:01 [Info] Loaded extension Rust:IO for Oxide v2.15.0 by playrust.io / dcode
+18:01 [Info] Loaded extension MySql v2.0.3755 by Oxide and Contributors
+18:01 [Info] Loaded extension Rust v2.0.4185 by Oxide and Contributors
+18:01 [Info] Loaded extension SQLite v2.0.3754 by Oxide and Contributors
+18:01 [Info] Loaded extension Unity v2.0.3756 by Oxide and Contributors
+18:01 [Info] Using Covalence provider for game 'Rust'
+18:01 [Info] Loading plugins...
+18:01 [Info] Loaded plugin Rust v2.0.4185 by Oxide and Contributors
+18:01 [Info] Loaded plugin Unity v2.0.3756 by Oxide and Contributors
+18:01 [Info] Loaded plugin Rust:IO for Oxide v2.15.0 by playrust.io / dcode
+18:01 [Info] Added '// Reference: System.Drawing' in plugin 'SignArtist'
+18:01 [Info] DeathNotes, FurnaceSplitter, Give, Godmode, InfoPanel, Kits, MonumentRadiation, NoDecay, NoEscape, NTeleportation, PermissionsManager, PlayerAdministration, QuickSort, RemoveDefaultRadiation, SaveAnnouncer, ServerRewards, SignArtist, SkipNightVote, SmoothRestart, StackSizeController, Vanish and ZLevelsRemastered were compiled successfully in 3646ms
+18:01 [Info] Loaded plugin Death Notes v6.2.0 by LaserHydra
+18:01 [Info] Loaded plugin Furnace Splitter v2.1.7 by Skipcast
+18:01 [Info] Loaded plugin Give v3.0.2 by Wulf/lukespragg
+18:01 [Info] Loaded plugin Godmode v4.1.1 by Wulf/lukespragg
+18:01 [Info] Loaded plugin InfoPanel v0.9.9 by Ghosst / Nogrod
+18:01 [Info] Loaded plugin Kits v3.2.93 by Reneb
+18:01 [Info] Loaded plugin MonumentRadiation v0.2.55 by k1lly0u
+18:01 [Info] Loaded plugin NoDecay v1.0.32 by Diesel_42o
+18:01 [Info] Loaded plugin NoEscape v2.1.22 by Calytic
+18:01 [Info] Loaded plugin NTeleportation v1.0.53 by RFC1920
+18:01 [Info] Loaded plugin PermissionsManager v0.1.1 by Steenamaroo
+18:01 [Info] Loaded plugin PlayerAdministration v1.3.21 by ThibmoRozier
+18:01 [Info] Loaded plugin Quick Sort v1.3.4 by Frenk92
+18:01 [Info] Loaded plugin RemoveDefaultRadiation v0.1.0 by k1lly0u
+18:01 [Info] Loaded plugin Save Announcer v1.0.4 by Ryan
+18:01 [Info] Loaded plugin ServerRewards v0.4.67 by k1lly0u
+18:01 [Info] Loaded plugin Sign Artist v1.1.2 by Mughisi
+18:01 [Info] Loaded plugin SkipNightVote v0.1.4 by k1lly0u
+18:01 [Info] Loaded plugin SmoothRestart v1.2.5 by Fujikura/Visagalis
+18:01 [Info] Loaded plugin Stack Size Controller v2.0.0 by Canopy Sheep
+18:01 [Info] Loaded plugin Vanish v0.7.4 by nivex
+18:01 [Info] Loaded plugin ZLevelsRemastered v2.9.5 by FuJiCuRa
+18:07 [Info] IP address from command-line: 172.96.165.106
+18:07 [Info] Updating Rust:IO ...
+18:07 [Warning] Calling 'OnServerInitialized' on 'InfoPanel v0.9.9' took 741ms
+18:07 [Info] Rust:IO: Update complete
+18:07 [Info] [MonumentRadiation] Created 4 monument radiation zones
+18:07 [Warning] Calling 'OnServerInitialized' on 'MonumentRadiation v0.2.55' took 1066ms [GARBAGE COLLECT]
+18:07 [Warning] [RemoveDefaultRadiation] All radiation elements destroyed, reloading plugins that use radiation
+18:07 [Warning] Calling 'OnServerInitialized' on 'RemoveDefaultRadiation v0.1.0' took 194ms
+18:07 [Warning] [ServerRewards] Image Library not detected, unloading ServerRewards
+18:07 [Info] Unloaded plugin ServerRewards v0.4.67 by k1lly0u
+18:07 [Info] [ZLevelsRemastered] Stats can be reset by > zl.reset <
+18:07 [Warning] Calling 'OnServerInitialized' on 'ZLevelsRemastered v2.9.5' took 314ms
+18:07 [Info] [SmoothRestart] Your servers Oxide build is up to date
+18:07 [Info] Installing Rust:IO ...
+18:07 [Info] Rust:IO> Setting up Rust:IO 2.3.6854.11652 ...
+18:07 [Info] Rust:IO> Creating directories ...
+18:07 [Info] Rust:IO> Applying config ...
+18:07 [Info] Rust:IO> Initializing database ...
+18:07 [Info] Rust:IO> Map wipe detected, resetting map specific data
+18:07 [Info] Rust:IO> Generating map image (this may take a while) ...
+18:07 [Info] Rust:IO> Generation complete
+--------- Summary --------
+Render       :  7342.009ms
+Postprocess  :  5689.781ms
+  Shadows    :   338.234ms
+  FXAA       :  5315.353ms
+Encoding     :    55.740ms
+Other        :    54.290ms
+--------------------------
+Total        :  13141.821ms
+18:07 [Info] Rust:IO> Starting HTTP server on 172.96.165.106:28435 ...
+18:07 [Info] Rust:IO> Installed.
+18:07 [Info] Rust:IO> Now ticking
+18:07 [Warning] Calling 'OnTick' on 'RustIO v2.15.0' took 13510ms [GARBAGE COLLECT]
+18:07 [Warning] Calling 'OnTick' on 'RustIO v2.15.0' took average 35ms [GARBAGE COLLECT]
+18:07 [Info] MonumentRadiation was compiled successfully in 3097ms
+18:07 [Warning] Calling 'Unload' on 'MonumentRadiation v0.2.55' took 152ms
+18:07 [Info] Unloaded plugin MonumentRadiation v0.2.55 by k1lly0u
+18:07 [Info] [MonumentRadiation] Created 4 monument radiation zones
+18:07 [Warning] Calling 'OnServerInitialized' on 'MonumentRadiation v0.2.55' took 965ms [GARBAGE COLLECT]
+18:07 [Info] Loaded plugin MonumentRadiation v0.2.55 by k1lly0u
+18:07 [Info] Rust:IO> External IP address obtained from lookup: 172.96.165.106
+18:16 [Info] Loading Oxide Core v2.0.3867...
+18:16 [Info] Loading extensions...
+18:16 [Info] Latest compiler MD5: 5fbca0bf39b1c09ddf2fb3686b869242
+18:16 [Info] Local compiler MD5: 5fbca0bf39b1c09ddf2fb3686b869242
+18:16 [Info] Loaded extension CSharp v2.0.4000 by Oxide and Contributors
+18:16 [Info] Loaded extension Rust:IO for Oxide v2.15.0 by playrust.io / dcode
+18:16 [Info] Loaded extension MySql v2.0.3755 by Oxide and Contributors
+18:16 [Info] Loaded extension Rust v2.0.4185 by Oxide and Contributors
+18:16 [Info] Loaded extension SQLite v2.0.3754 by Oxide and Contributors
+18:16 [Info] Loaded extension Unity v2.0.3756 by Oxide and Contributors
+18:16 [Info] Using Covalence provider for game 'Rust'
+18:16 [Info] Loading plugins...
+18:16 [Info] Loaded plugin Rust v2.0.4185 by Oxide and Contributors
+18:16 [Info] Loaded plugin Unity v2.0.3756 by Oxide and Contributors
+18:16 [Info] Loaded plugin Rust:IO for Oxide v2.15.0 by playrust.io / dcode
+18:16 [Info] Added '// Reference: System.Drawing' in plugin 'SignArtist'
+18:16 [Info] DeathNotes, FurnaceSplitter, Give, Godmode, InfoPanel, Kits, MonumentRadiation, NoDecay, NoEscape, NTeleportation, PermissionsManager, PlayerAdministration, QuickSort, RemoveDefaultRadiation, SaveAnnouncer, ServerRewards, SignArtist, SkipNightVote, SmoothRestart, StackSizeController, Vanish and ZLevelsRemastered were compiled successfully in 3640ms
+18:16 [Info] Loaded plugin Death Notes v6.2.0 by LaserHydra
+18:16 [Info] Loaded plugin Furnace Splitter v2.1.7 by Skipcast
+18:16 [Info] Loaded plugin Give v3.0.2 by Wulf/lukespragg
+18:16 [Info] Loaded plugin Godmode v4.1.1 by Wulf/lukespragg
+18:16 [Info] Loaded plugin InfoPanel v0.9.9 by Ghosst / Nogrod
+18:16 [Info] Loaded plugin Kits v3.2.93 by Reneb
+18:16 [Info] Loaded plugin MonumentRadiation v0.2.55 by k1lly0u
+18:16 [Info] Loaded plugin NoDecay v1.0.32 by Diesel_42o
+18:16 [Info] Loaded plugin NoEscape v2.1.22 by Calytic
+18:16 [Info] Loaded plugin NTeleportation v1.0.53 by RFC1920
+18:16 [Info] Loaded plugin PermissionsManager v0.1.1 by Steenamaroo
+18:16 [Info] Loaded plugin PlayerAdministration v1.3.21 by ThibmoRozier
+18:16 [Info] Loaded plugin Quick Sort v1.3.4 by Frenk92
+18:16 [Info] Loaded plugin RemoveDefaultRadiation v0.1.0 by k1lly0u
+18:16 [Info] Loaded plugin Save Announcer v1.0.4 by Ryan
+18:16 [Info] Loaded plugin ServerRewards v0.4.67 by k1lly0u
+18:16 [Info] Loaded plugin Sign Artist v1.1.2 by Mughisi
+18:16 [Info] Loaded plugin SkipNightVote v0.1.4 by k1lly0u
+18:16 [Info] Loaded plugin SmoothRestart v1.2.5 by Fujikura/Visagalis
+18:16 [Info] Loaded plugin Stack Size Controller v2.0.0 by Canopy Sheep
+18:16 [Info] Loaded plugin Vanish v0.7.4 by nivex
+18:16 [Info] Loaded plugin ZLevelsRemastered v2.9.5 by FuJiCuRa
+18:22 [Info] IP address from command-line: 172.96.165.106
+18:22 [Info] Updating Rust:IO ...
+18:22 [Info] Rust:IO: Update complete
+18:22 [Warning] Calling 'OnServerInitialized' on 'InfoPanel v0.9.9' took 791ms
+18:22 [Info] [MonumentRadiation] Created 4 monument radiation zones
+18:22 [Warning] Calling 'OnServerInitialized' on 'MonumentRadiation v0.2.55' took 1134ms [GARBAGE COLLECT]
+18:22 [Warning] [RemoveDefaultRadiation] All radiation elements destroyed, reloading plugins that use radiation
+18:22 [Warning] Calling 'OnServerInitialized' on 'RemoveDefaultRadiation v0.1.0' took 221ms
+18:22 [Warning] [ServerRewards] Image Library not detected, unloading ServerRewards
+18:22 [Info] Unloaded plugin ServerRewards v0.4.67 by k1lly0u
+18:22 [Info] [ZLevelsRemastered] Stats can be reset by > zl.reset <
+18:22 [Warning] Calling 'OnServerInitialized' on 'ZLevelsRemastered v2.9.5' took 331ms
+18:22 [Info] [SmoothRestart] Your servers Oxide build is up to date
+18:22 [Info] Installing Rust:IO ...
+18:22 [Info] Rust:IO> Setting up Rust:IO 2.3.6854.11652 ...
+18:22 [Info] Rust:IO> Creating directories ...
+18:22 [Info] Rust:IO> Applying config ...
+18:22 [Info] Rust:IO> Initializing database ...
+18:22 [Info] Rust:IO> Map wipe detected, resetting map specific data
+18:22 [Info] Rust:IO> Generating map image (this may take a while) ...
+18:22 [Info] Rust:IO> Generation complete
+--------- Summary --------
+Render       :  8456.985ms
+Postprocess  :  5888.426ms
+  Shadows    :   366.111ms
+  FXAA       :  5488.658ms
+Encoding     :    54.775ms
+Other        :    24.113ms
+--------------------------
+Total        :  14424.299ms
+18:22 [Info] Rust:IO> Starting HTTP server on 172.96.165.106:28435 ...
+18:22 [Info] Rust:IO> Installed.
+18:22 [Info] Rust:IO> Now ticking
+18:22 [Warning] Calling 'OnTick' on 'RustIO v2.15.0' took 14778ms [GARBAGE COLLECT]
+18:22 [Warning] Calling 'OnTick' on 'RustIO v2.15.0' took average 0ms [GARBAGE COLLECT]
+18:22 [Info] MonumentRadiation was compiled successfully in 3102ms
+18:22 [Warning] Calling 'Unload' on 'MonumentRadiation v0.2.55' took 168ms
+18:22 [Info] Unloaded plugin MonumentRadiation v0.2.55 by k1lly0u
+18:23 [Info] [MonumentRadiation] Created 4 monument radiation zones
+18:23 [Warning] Calling 'OnServerInitialized' on 'MonumentRadiation v0.2.55' took 1028ms [GARBAGE COLLECT]
+18:23 [Info] Loaded plugin MonumentRadiation v0.2.55 by k1lly0u
+18:23 [Info] Rust:IO> External IP address obtained from lookup: 172.96.165.106
+18:27 [Info] [Death Notes] As Kalle just found out, breathing underwater is rather difficult.
+18:40 [Info] [Death Notes] jokerswildj shot a Boar using their Hunting Bow over a distance of 8.8 meters.
+18:41 [Info] [NoDecay] NoDecay.OnEntityTakeDamage took 427.4092 ms to execute.
+18:41 [Warning] Calling 'OnEntityTakeDamage' on 'NoDecay v1.0.32' took 428ms [GARBAGE COLLECT]
+19:12 [Info] Loading Oxide Core v2.0.3867...
+19:12 [Info] Loading extensions...
+19:12 [Info] Latest compiler MD5: 5fbca0bf39b1c09ddf2fb3686b869242
+19:12 [Info] Local compiler MD5: 5fbca0bf39b1c09ddf2fb3686b869242
+19:12 [Info] Loaded extension CSharp v2.0.4000 by Oxide and Contributors
+19:12 [Info] Loaded extension Rust:IO for Oxide v2.15.0 by playrust.io / dcode
+19:12 [Info] Loaded extension MySql v2.0.3755 by Oxide and Contributors
+19:12 [Info] Loaded extension Rust v2.0.4185 by Oxide and Contributors
+19:12 [Info] Loaded extension SQLite v2.0.3754 by Oxide and Contributors
+19:12 [Info] Loaded extension Unity v2.0.3756 by Oxide and Contributors
+19:12 [Info] Using Covalence provider for game 'Rust'
+19:12 [Info] Loading plugins...
+19:12 [Info] Loaded plugin Rust v2.0.4185 by Oxide and Contributors
+19:12 [Info] Loaded plugin Unity v2.0.3756 by Oxide and Contributors
+19:12 [Info] Loaded plugin Rust:IO for Oxide v2.15.0 by playrust.io / dcode
+19:12 [Info] Added '// Reference: System.Drawing' in plugin 'SignArtist'
+19:12 [Info] DeathNotes, FurnaceSplitter, Give, Godmode, InfoPanel, Kits, MonumentRadiation, NoDecay, NoEscape, NTeleportation, PermissionsManager, PlayerAdministration, QuickSort, RemoveDefaultRadiation, RemoverTool, SaveAnnouncer, ServerRewards, SignArtist, SkipNightVote, SmoothRestart, StackSizeController, Vanish and ZLevelsRemastered were compiled successfully in 3683ms
+19:12 [Info] Loaded plugin Death Notes v6.2.0 by LaserHydra
+19:12 [Info] Loaded plugin Furnace Splitter v2.1.7 by Skipcast
+19:12 [Info] Loaded plugin Give v3.0.2 by Wulf/lukespragg
+19:12 [Info] Loaded plugin Godmode v4.1.1 by Wulf/lukespragg
+19:12 [Info] Loaded plugin InfoPanel v0.9.9 by Ghosst / Nogrod
+19:12 [Info] Loaded plugin Kits v3.2.93 by Reneb
+19:12 [Info] Loaded plugin MonumentRadiation v0.2.55 by k1lly0u
+19:12 [Info] Loaded plugin NoDecay v1.0.32 by Diesel_42o
+19:12 [Info] Loaded plugin NoEscape v2.1.22 by Calytic
+19:12 [Info] Loaded plugin NTeleportation v1.0.53 by RFC1920
+19:12 [Info] Loaded plugin PermissionsManager v0.1.1 by Steenamaroo
+19:12 [Info] Loaded plugin PlayerAdministration v1.3.21 by ThibmoRozier
+19:12 [Info] Loaded plugin Quick Sort v1.3.4 by Frenk92
+19:12 [Info] Loaded plugin RemoveDefaultRadiation v0.1.0 by k1lly0u
+19:12 [Info] Loaded plugin RemoverTool v4.2.10 by Reneb/Fuji
+19:12 [Info] Loaded plugin Save Announcer v1.0.4 by Ryan
+19:12 [Info] Loaded plugin ServerRewards v0.4.67 by k1lly0u
+19:12 [Info] Loaded plugin Sign Artist v1.1.2 by Mughisi
+19:12 [Info] Loaded plugin SkipNightVote v0.1.4 by k1lly0u
+19:12 [Info] Loaded plugin SmoothRestart v1.2.5 by Fujikura/Visagalis
+19:12 [Info] Loaded plugin Stack Size Controller v2.0.0 by Canopy Sheep
+19:12 [Info] Loaded plugin Vanish v0.7.4 by nivex
+19:12 [Info] Loaded plugin ZLevelsRemastered v2.9.5 by FuJiCuRa
+19:24 [Info] Loading Oxide Core v2.0.3867...
+19:24 [Info] Loading extensions...
+19:24 [Info] Latest compiler MD5: 5fbca0bf39b1c09ddf2fb3686b869242
+19:24 [Info] Local compiler MD5: 5fbca0bf39b1c09ddf2fb3686b869242
+19:24 [Info] Loaded extension CSharp v2.0.4000 by Oxide and Contributors
+19:24 [Info] Loaded extension Rust:IO for Oxide v2.15.0 by playrust.io / dcode
+19:24 [Info] Loaded extension MySql v2.0.3755 by Oxide and Contributors
+19:24 [Info] Loaded extension Rust v2.0.4185 by Oxide and Contributors
+19:24 [Info] Loaded extension SQLite v2.0.3754 by Oxide and Contributors
+19:24 [Info] Loaded extension Unity v2.0.3756 by Oxide and Contributors
+19:24 [Info] Using Covalence provider for game 'Rust'
+19:24 [Info] Loading plugins...
+19:24 [Info] Loaded plugin Rust v2.0.4185 by Oxide and Contributors
+19:24 [Info] Loaded plugin Unity v2.0.3756 by Oxide and Contributors
+19:24 [Info] Loaded plugin Rust:IO for Oxide v2.15.0 by playrust.io / dcode
+19:24 [Info] Added '// Reference: System.Drawing' in plugin 'SignArtist'
+19:24 [Info] DeathNotes, FurnaceSplitter, Give, Godmode, InfoPanel, Kits, MonumentRadiation, NoDecay, NoEscape, NTeleportation, PermissionsManager, PlayerAdministration, QuickSort, RemoveDefaultRadiation, RemoverTool, SaveAnnouncer, ServerRewards, SignArtist, SkipNightVote, SmoothRestart, StackSizeController, Vanish and ZLevelsRemastered were compiled successfully in 3567ms
+19:24 [Info] Loaded plugin Death Notes v6.2.0 by LaserHydra
+19:24 [Info] Loaded plugin Furnace Splitter v2.1.7 by Skipcast
+19:24 [Info] Loaded plugin Give v3.0.2 by Wulf/lukespragg
+19:24 [Info] Loaded plugin Godmode v4.1.1 by Wulf/lukespragg
+19:24 [Info] Loaded plugin InfoPanel v0.9.9 by Ghosst / Nogrod
+19:24 [Info] Loaded plugin Kits v3.2.93 by Reneb
+19:24 [Info] Loaded plugin MonumentRadiation v0.2.55 by k1lly0u
+19:24 [Info] Loaded plugin NoDecay v1.0.32 by Diesel_42o
+19:24 [Info] Loaded plugin NoEscape v2.1.22 by Calytic
+19:24 [Info] Loaded plugin NTeleportation v1.0.53 by RFC1920
+19:24 [Info] Loaded plugin PermissionsManager v0.1.1 by Steenamaroo
+19:24 [Info] Loaded plugin PlayerAdministration v1.3.21 by ThibmoRozier
+19:24 [Info] Loaded plugin Quick Sort v1.3.4 by Frenk92
+19:24 [Info] Loaded plugin RemoveDefaultRadiation v0.1.0 by k1lly0u
+19:24 [Info] Loaded plugin RemoverTool v4.2.10 by Reneb/Fuji
+19:24 [Info] Loaded plugin Save Announcer v1.0.4 by Ryan
+19:24 [Info] Loaded plugin ServerRewards v0.4.67 by k1lly0u
+19:24 [Info] Loaded plugin Sign Artist v1.1.2 by Mughisi
+19:24 [Info] Loaded plugin SkipNightVote v0.1.4 by k1lly0u
+19:24 [Info] Loaded plugin SmoothRestart v1.2.5 by Fujikura/Visagalis
+19:24 [Info] Loaded plugin Stack Size Controller v2.0.0 by Canopy Sheep
+19:24 [Info] Loaded plugin Vanish v0.7.4 by nivex
+19:24 [Info] Loaded plugin ZLevelsRemastered v2.9.5 by FuJiCuRa
+19:28 [Info] IP address from command-line: 172.96.165.106
+19:28 [Info] Updating Rust:IO ...
+19:28 [Warning] Calling 'OnServerInitialized' on 'InfoPanel v0.9.9' took 758ms
+19:28 [Info] Rust:IO: Update complete
+19:28 [Info] [MonumentRadiation] Created 4 monument radiation zones
+19:28 [Warning] Calling 'OnServerInitialized' on 'MonumentRadiation v0.2.55' took 663ms
+19:28 [Warning] [RemoveDefaultRadiation] All radiation elements destroyed, reloading plugins that use radiation
+19:28 [Warning] Calling 'OnServerInitialized' on 'RemoveDefaultRadiation v0.1.0' took 191ms
+19:28 [Warning] Calling 'OnServerInitialized' on 'RemoverTool v4.2.10' took 172ms
+19:28 [Warning] [ServerRewards] Image Library not detected, unloading ServerRewards
+19:28 [Info] Unloaded plugin ServerRewards v0.4.67 by k1lly0u
+19:28 [Info] [ZLevelsRemastered] Stats can be reset by > zl.reset <
+19:28 [Warning] Calling 'OnServerInitialized' on 'ZLevelsRemastered v2.9.5' took 224ms
+19:28 [Info] [SmoothRestart] Your servers Oxide build is up to date
+19:28 [Info] Installing Rust:IO ...
+19:28 [Info] Rust:IO> Setting up Rust:IO 2.3.6854.11652 ...
+19:28 [Info] Rust:IO> Creating directories ...
+19:28 [Info] Rust:IO> Applying config ...
+19:28 [Info] Rust:IO> Initializing database ...
+19:28 [Info] Rust:IO> Generating map image (this may take a while) ...
+19:28 [Info] Rust:IO> Generation complete
+--------- Summary --------
+Render       :  5460.336ms
+Postprocess  :  5927.030ms
+  Shadows    :   361.366ms
+  FXAA       :  5531.637ms
+Encoding     :    54.736ms
+Other        :    19.980ms
+--------------------------
+Total        :  11462.081ms
+19:28 [Info] Rust:IO> Starting HTTP server on 172.96.165.106:28435 ...
+19:28 [Info] Rust:IO> Installed.
+19:28 [Info] Rust:IO> Now ticking
+19:28 [Warning] Calling 'OnTick' on 'RustIO v2.15.0' took 11823ms [GARBAGE COLLECT]
+19:28 [Warning] Calling 'OnTick' on 'RustIO v2.15.0' took average 0ms [GARBAGE COLLECT]
+19:28 [Info] MonumentRadiation was compiled successfully in 3018ms
+19:28 [Warning] Calling 'Unload' on 'MonumentRadiation v0.2.55' took 189ms
+19:28 [Info] Unloaded plugin MonumentRadiation v0.2.55 by k1lly0u
+19:28 [Info] [MonumentRadiation] Created 4 monument radiation zones
+19:28 [Warning] Calling 'OnServerInitialized' on 'MonumentRadiation v0.2.55' took 986ms [GARBAGE COLLECT]
+19:28 [Info] Loaded plugin MonumentRadiation v0.2.55 by k1lly0u
+19:28 [Info] Rust:IO> External IP address obtained from lookup: 172.96.165.106
+19:35 [Info] [Give] Meretrix 100 x Stones
+19:35 [Info] [Give] Meretrix 1 x Wood
+19:37 [Error] Failed to call hook 'GiveCommand' on plugin 'Give v3.0.2' (FormatException: Input string was not in a correct format.)
+  at System.Number.StringToNumber (System.String str, System.Globalization.NumberStyles options, System.Number+NumberBuffer& number, System.Globalization.NumberFormatInfo info, System.Boolean parseDecimal) [0x00057] in <ac823e2bb42b41bda67924a45a0173c3>:0 
+  at System.Number.ParseInt32 (System.String s, System.Globalization.NumberStyles style, System.Globalization.NumberFormatInfo info) [0x00013] in <ac823e2bb42b41bda67924a45a0173c3>:0 
+  at System.Int32.Parse (System.String s, System.IFormatProvider provider) [0x00008] in <ac823e2bb42b41bda67924a45a0173c3>:0 
+  at System.Convert.ToInt32 (System.String value) [0x0000b] in <ac823e2bb42b41bda67924a45a0173c3>:0 
+  at Oxide.Plugins.Give.GiveCommand (Oxide.Core.Libraries.Covalence.IPlayer player, System.String command, System.String[] args) [0x00050] in <292b2431a9a7439593a2029c83f88645>:0 
+  at Oxide.Plugins.Give.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00255] in <292b2431a9a7439593a2029c83f88645>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <9affce1cd15c4ec183941adef8db1722>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <4452f821def6406d834e4149849fe7ea>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <4452f821def6406d834e4149849fe7ea>:0 
+19:37 [Error] Failed to call hook 'GiveCommand' on plugin 'Give v3.0.2' (FormatException: Input string was not in a correct format.)
+  at System.Number.StringToNumber (System.String str, System.Globalization.NumberStyles options, System.Number+NumberBuffer& number, System.Globalization.NumberFormatInfo info, System.Boolean parseDecimal) [0x00057] in <ac823e2bb42b41bda67924a45a0173c3>:0 
+  at System.Number.ParseInt32 (System.String s, System.Globalization.NumberStyles style, System.Globalization.NumberFormatInfo info) [0x00013] in <ac823e2bb42b41bda67924a45a0173c3>:0 
+  at System.Int32.Parse (System.String s, System.IFormatProvider provider) [0x00008] in <ac823e2bb42b41bda67924a45a0173c3>:0 
+  at System.Convert.ToInt32 (System.String value) [0x0000b] in <ac823e2bb42b41bda67924a45a0173c3>:0 
+  at Oxide.Plugins.Give.GiveCommand (Oxide.Core.Libraries.Covalence.IPlayer player, System.String command, System.String[] args) [0x00050] in <292b2431a9a7439593a2029c83f88645>:0 
+  at Oxide.Plugins.Give.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00255] in <292b2431a9a7439593a2029c83f88645>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <9affce1cd15c4ec183941adef8db1722>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <4452f821def6406d834e4149849fe7ea>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <4452f821def6406d834e4149849fe7ea>:0 
+19:39 [Error] Failed to call hook 'GiveCommand' on plugin 'Give v3.0.2' (FormatException: Input string was not in a correct format.)
+  at System.Number.StringToNumber (System.String str, System.Globalization.NumberStyles options, System.Number+NumberBuffer& number, System.Globalization.NumberFormatInfo info, System.Boolean parseDecimal) [0x00057] in <ac823e2bb42b41bda67924a45a0173c3>:0 
+  at System.Number.ParseInt32 (System.String s, System.Globalization.NumberStyles style, System.Globalization.NumberFormatInfo info) [0x00013] in <ac823e2bb42b41bda67924a45a0173c3>:0 
+  at System.Int32.Parse (System.String s, System.IFormatProvider provider) [0x00008] in <ac823e2bb42b41bda67924a45a0173c3>:0 
+  at System.Convert.ToInt32 (System.String value) [0x0000b] in <ac823e2bb42b41bda67924a45a0173c3>:0 
+  at Oxide.Plugins.Give.GiveCommand (Oxide.Core.Libraries.Covalence.IPlayer player, System.String command, System.String[] args) [0x00050] in <292b2431a9a7439593a2029c83f88645>:0 
+  at Oxide.Plugins.Give.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00255] in <292b2431a9a7439593a2029c83f88645>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <9affce1cd15c4ec183941adef8db1722>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <4452f821def6406d834e4149849fe7ea>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <4452f821def6406d834e4149849fe7ea>:0 
+19:39 [Info] [Death Notes] Smaste shot a Bear using their M39 Rifle over a distance of 9.2 meters.
+19:41 [Info] [Give] Meretrix 1 x Compound Bow
+19:41 [Info] [Give] Meretrix 1000 x Bone Arrow
+19:41 [Info] [Give] Meretrix 1 x Pickaxe
+19:41 [Info] [Give] Meretrix 1 x Hatchet
+19:42 [Info] [Death Notes] Meretrix shot a Chicken using their Compound Bow over a distance of 9.8 meters.
+19:43 [Info] [Give] Meretrix 1 x Hunting Bow
+19:48 [Error] Failed to call hook 'GiveCommand' on plugin 'Give v3.0.2' (FormatException: Input string was not in a correct format.)
+  at System.Number.StringToNumber (System.String str, System.Globalization.NumberStyles options, System.Number+NumberBuffer& number, System.Globalization.NumberFormatInfo info, System.Boolean parseDecimal) [0x00057] in <ac823e2bb42b41bda67924a45a0173c3>:0 
+  at System.Number.ParseInt32 (System.String s, System.Globalization.NumberStyles style, System.Globalization.NumberFormatInfo info) [0x00013] in <ac823e2bb42b41bda67924a45a0173c3>:0 
+  at System.Int32.Parse (System.String s, System.IFormatProvider provider) [0x00008] in <ac823e2bb42b41bda67924a45a0173c3>:0 
+  at System.Convert.ToInt32 (System.String value) [0x0000b] in <ac823e2bb42b41bda67924a45a0173c3>:0 
+  at Oxide.Plugins.Give.GiveCommand (Oxide.Core.Libraries.Covalence.IPlayer player, System.String command, System.String[] args) [0x00050] in <292b2431a9a7439593a2029c83f88645>:0 
+  at Oxide.Plugins.Give.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00255] in <292b2431a9a7439593a2029c83f88645>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <9affce1cd15c4ec183941adef8db1722>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <4452f821def6406d834e4149849fe7ea>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <4452f821def6406d834e4149849fe7ea>:0 
+19:49 [Error] Failed to call hook 'GiveCommand' on plugin 'Give v3.0.2' (FormatException: Input string was not in a correct format.)
+  at System.Number.StringToNumber (System.String str, System.Globalization.NumberStyles options, System.Number+NumberBuffer& number, System.Globalization.NumberFormatInfo info, System.Boolean parseDecimal) [0x00057] in <ac823e2bb42b41bda67924a45a0173c3>:0 
+  at System.Number.ParseInt32 (System.String s, System.Globalization.NumberStyles style, System.Globalization.NumberFormatInfo info) [0x00013] in <ac823e2bb42b41bda67924a45a0173c3>:0 
+  at System.Int32.Parse (System.String s, System.IFormatProvider provider) [0x00008] in <ac823e2bb42b41bda67924a45a0173c3>:0 
+  at System.Convert.ToInt32 (System.String value) [0x0000b] in <ac823e2bb42b41bda67924a45a0173c3>:0 
+  at Oxide.Plugins.Give.GiveCommand (Oxide.Core.Libraries.Covalence.IPlayer player, System.String command, System.String[] args) [0x00050] in <292b2431a9a7439593a2029c83f88645>:0 
+  at Oxide.Plugins.Give.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00255] in <292b2431a9a7439593a2029c83f88645>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <9affce1cd15c4ec183941adef8db1722>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <4452f821def6406d834e4149849fe7ea>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <4452f821def6406d834e4149849fe7ea>:0 
+19:58 [Info] [Give] Meretrix 1 x Jackhammer
+19:59 [Info] [Death Notes] Meretrix shot a Chicken using their Hunting Bow over a distance of 5.6 meters.
+19:59 [Info] [Death Notes] Meretrix shot a Chicken using their Hunting Bow over a distance of 9.9 meters.
+19:59 [Info] [Death Notes] Meretrix shot a Chicken using their Hunting Bow over a distance of 9.8 meters.
+20:01 [Info] [Death Notes] Smaste shot a Chicken using their Hunting Bow over a distance of 19.3 meters.
+20:01 [Info] [Death Notes] Smaste shot a Chicken using their Hunting Bow over a distance of 7.1 meters.
+20:12 [Info] [Death Notes] Smaste shot a Boar using their M39 Rifle over a distance of 10.3 meters.
+20:14 [Info] [Death Notes] Smaste shot a Stag using their M39 Rifle over a distance of 51.1 meters.
+20:16 [Info] [Give] [God] Meretrix 1000 x Wood
+20:16 [Info] [Give] [God] Meretrix 1000 x Wood
+20:16 [Info] [Give] [God] Meretrix 1000 x Wood
+20:16 [Info] [Give] [God] Meretrix 1000 x Wood
+20:16 [Info] [Give] [God] Meretrix 1000 x Wood
+20:16 [Info] [Give] [God] Meretrix 1000 x Wood
+20:17 [Info] [Give] [God] Meretrix 1000 x Wood
+20:17 [Info] [Give] [God] Meretrix 1000 x Wood
+20:17 [Info] [Give] [God] Meretrix 1000 x Wood
+20:17 [Info] [Give] [God] Meretrix 1000 x Wood
+20:17 [Info] [Give] [God] Meretrix 1000 x Stones
+20:17 [Info] [Give] [God] Meretrix 1000 x Stones
+20:17 [Info] [Give] [God] Meretrix 1000 x Stones
+20:17 [Info] [Give] [God] Meretrix 1000 x Stones
+20:17 [Info] [Give] [God] Meretrix 1000 x Stones
+20:17 [Info] [Give] [God] Meretrix 1000 x Stones
+20:17 [Info] [Give] [God] Meretrix 1000 x Stones
+20:17 [Info] [Give] [God] Meretrix 1000 x Stones
+20:17 [Info] [Give] [God] Meretrix 1000 x Stones
+20:17 [Info] [Give] [God] Meretrix 1000 x Stones
+20:17 [Info] [Give] [God] Meretrix 1 x High Quality Metal
+20:17 [Info] [Give] [God] Meretrix 1 x High Quality Metal
+20:17 [Info] [Give] [God] Meretrix 1 x High Quality Metal
+20:17 [Info] [Give] [God] Meretrix 1 x High Quality Metal
+20:17 [Info] [Give] [God] Meretrix 1 x High Quality Metal
+20:17 [Info] [Give] [God] Meretrix 1 x High Quality Metal
+20:17 [Info] [Give] [God] Meretrix 1 x High Quality Metal
+20:17 [Info] [Give] [God] Meretrix 1 x High Quality Metal
+20:17 [Info] [Give] [God] Meretrix 1 x High Quality Metal
+20:17 [Info] [Give] [God] Meretrix 1 x High Quality Metal
+20:17 [Info] [Give] [God] Meretrix 1 x High Quality Metal
+20:17 [Info] [Give] [God] Meretrix 1 x High Quality Metal
+20:17 [Info] [Give] [God] Meretrix 1 x High Quality Metal
+20:25 [Info] [Death Notes] Smaste shot a Bear using their Hunting Bow over a distance of 15.3 meters.
+20:29 [Info] [Death Notes] Meretrix shot a Boar using their Hunting Bow over a distance of 30.6 meters.
+20:31 [Info] [Give] Meretrix 1 x Large Wood Box
+20:31 [Info] [Give] Meretrix 1 x Large Wood Box
+20:33 [Error] Failed to call hook 'GiveCommand' on plugin 'Give v3.0.2' (FormatException: Input string was not in a correct format.)
+  at System.Number.StringToNumber (System.String str, System.Globalization.NumberStyles options, System.Number+NumberBuffer& number, System.Globalization.NumberFormatInfo info, System.Boolean parseDecimal) [0x00057] in <ac823e2bb42b41bda67924a45a0173c3>:0 
+  at System.Number.ParseInt32 (System.String s, System.Globalization.NumberStyles style, System.Globalization.NumberFormatInfo info) [0x00013] in <ac823e2bb42b41bda67924a45a0173c3>:0 
+  at System.Int32.Parse (System.String s, System.IFormatProvider provider) [0x00008] in <ac823e2bb42b41bda67924a45a0173c3>:0 
+  at System.Convert.ToInt32 (System.String value) [0x0000b] in <ac823e2bb42b41bda67924a45a0173c3>:0 
+  at Oxide.Plugins.Give.GiveCommand (Oxide.Core.Libraries.Covalence.IPlayer player, System.String command, System.String[] args) [0x00050] in <292b2431a9a7439593a2029c83f88645>:0 
+  at Oxide.Plugins.Give.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00255] in <292b2431a9a7439593a2029c83f88645>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <9affce1cd15c4ec183941adef8db1722>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <4452f821def6406d834e4149849fe7ea>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <4452f821def6406d834e4149849fe7ea>:0 
+20:33 [Info] [Give] Meretrix 1 x Pump Shotgun
+20:34 [Error] Failed to call hook 'GiveCommand' on plugin 'Give v3.0.2' (FormatException: Input string was not in a correct format.)
+  at System.Number.StringToNumber (System.String str, System.Globalization.NumberStyles options, System.Number+NumberBuffer& number, System.Globalization.NumberFormatInfo info, System.Boolean parseDecimal) [0x00057] in <ac823e2bb42b41bda67924a45a0173c3>:0 
+  at System.Number.ParseInt32 (System.String s, System.Globalization.NumberStyles style, System.Globalization.NumberFormatInfo info) [0x00013] in <ac823e2bb42b41bda67924a45a0173c3>:0 
+  at System.Int32.Parse (System.String s, System.IFormatProvider provider) [0x00008] in <ac823e2bb42b41bda67924a45a0173c3>:0 
+  at System.Convert.ToInt32 (System.String value) [0x0000b] in <ac823e2bb42b41bda67924a45a0173c3>:0 
+  at Oxide.Plugins.Give.GiveCommand (Oxide.Core.Libraries.Covalence.IPlayer player, System.String command, System.String[] args) [0x00050] in <292b2431a9a7439593a2029c83f88645>:0 
+  at Oxide.Plugins.Give.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00255] in <292b2431a9a7439593a2029c83f88645>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <9affce1cd15c4ec183941adef8db1722>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <4452f821def6406d834e4149849fe7ea>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <4452f821def6406d834e4149849fe7ea>:0 
+20:34 [Info] [Give] Meretrix 1 x Work Bench Level 2
+20:35 [Info] [Give] Meretrix 1 x Research Table
+20:35 [Info] [Give] Meretrix 1 x Repair Bench
+20:37 [Info] [Give] Meretrix 1000 x Stones
+20:37 [Info] [Give] Meretrix 1000 x Stones
+20:37 [Info] [Give] Meretrix 1000 x Stones
+20:37 [Info] [Give] Meretrix 1000 x Stones
+20:37 [Info] [Give] Meretrix 1000 x Stones
+20:37 [Info] [Give] Meretrix 1000 x Stones
+20:37 [Info] [Give] Meretrix 1000 x Stones
+20:37 [Info] [Give] Meretrix 1000 x Stones
+20:37 [Info] [Give] Meretrix 1000 x Stones
+20:37 [Info] [Give] Meretrix 1000 x Stones
+20:37 [Info] [Give] Meretrix 1000 x Stones
+20:37 [Info] [Give] Meretrix 1000 x Stones
+20:37 [Info] [Give] Meretrix 1000 x Stones
+20:37 [Info] [Give] Meretrix 1000 x Stones
+20:37 [Info] [Give] Meretrix 1000 x Stones
+20:37 [Info] [Give] Meretrix 1000 x Stones
+20:37 [Info] [Give] Meretrix 1000 x Stones
+20:37 [Info] [Give] Meretrix 1000 x Stones
+20:37 [Info] [Give] Meretrix 1000 x Stones
+20:37 [Info] [Give] Meretrix 1000 x Stones
+20:37 [Info] [Give] Meretrix 1000 x Stones
+20:37 [Info] [Give] Meretrix 1000 x Stones
+20:37 [Info] [Give] Meretrix 1000 x Stones
+20:37 [Info] [Give] Meretrix 1000 x Stones
+20:37 [Info] [Give] Meretrix 1000 x Stones
+20:37 [Info] [Give] Meretrix 1000 x Stones
+20:37 [Info] [Give] Meretrix 1000 x Stones
+20:37 [Info] [Give] Meretrix 1000 x Stones
+20:37 [Info] [Give] Meretrix 1000 x Stones
+20:37 [Info] [Give] Meretrix 1000 x Stones
+20:37 [Info] [Give] Meretrix 1000 x Wood
+20:37 [Info] [Give] Meretrix 1000 x Wood
+20:37 [Info] [Give] Meretrix 1000 x Wood
+20:37 [Info] [Give] Meretrix 1000 x Wood
+20:37 [Info] [Give] Meretrix 1000 x Wood
+20:37 [Info] [Give] Meretrix 1000 x Wood
+20:37 [Info] [Give] Meretrix 1000 x Wood
+20:37 [Info] [Give] Meretrix 1000 x Wood
+20:37 [Info] [Give] Meretrix 1000 x Wood
+20:37 [Info] [Give] Meretrix 1000 x Wood
+20:37 [Info] [Give] Meretrix 1000 x Wood
+20:37 [Info] [Give] Meretrix 1000 x Wood
+20:37 [Info] [Give] Meretrix 1000 x Wood
+20:37 [Info] [Give] Meretrix 1000 x Wood
+20:37 [Info] [Give] Meretrix 1000 x Wood
+20:37 [Info] [Give] Meretrix 1000 x Wood
+20:37 [Info] [Give] Meretrix 1000 x Wood
+20:37 [Info] [Give] Meretrix 1000 x Wood
+20:37 [Info] [Give] Meretrix 1000 x Wood
+20:37 [Info] [Give] Meretrix 1000 x Wood
+20:37 [Info] [Give] Meretrix 1000 x Wood
+20:37 [Info] [Give] Meretrix 1000 x Wood
+20:37 [Info] [Give] Meretrix 1000 x Wood
+20:37 [Info] [Give] Meretrix 1000 x Wood
+20:37 [Info] [Give] Meretrix 1000 x Wood
+20:37 [Info] [Give] Meretrix 1000 x Wood
+20:37 [Info] [Give] Meretrix 1000 x Wood
+20:37 [Info] [Give] Meretrix 1 x Large Furnace
+20:37 [Info] [Give] Meretrix 1 x Furnace
+20:37 [Info] [Give] Meretrix 1 x Furnace
+20:37 [Info] [Give] Meretrix 1 x Furnace
+20:42 [Warning] Calling 'OnDispenserGather' on 'ZLevelsRemastered v2.9.5' took 459ms [GARBAGE COLLECT]
+21:10 [Info] [NoDecay] NoDecay.OnEntityTakeDamage took 1118.0715 ms to execute.
+21:10 [Warning] Calling 'OnEntityTakeDamage' on 'NoDecay v1.0.32' took 1118ms [GARBAGE COLLECT]
+21:10 [Warning] Calling 'OnEntityTakeDamage' on 'NoDecay v1.0.32' took average 1124ms
+21:28 [Info] [Give] Meretrix 1 x High External Stone Wall
+21:28 [Info] [Give] Meretrix 1 x Metal horizontal embrasure
+21:28 [Info] [Give] Meretrix 1 x Metal Vertical embrasure
+21:28 [Info] [Give] Meretrix 1 x Metal Shop Front
+21:28 [Info] [Give] Meretrix 1 x Stone Barricade
+21:28 [Info] [Give] Meretrix 1 x Sandbag Barricade
+21:31 [Info] [Give] Meretrix 1 x Sandbag Barricade
+21:31 [Info] [Give] Meretrix 1 x Sandbag Barricade
+21:31 [Info] [Give] Meretrix 1 x Sandbag Barricade
+21:31 [Info] [Give] Meretrix 1 x Sandbag Barricade
+21:31 [Info] [Give] Meretrix 1 x Sandbag Barricade
+21:31 [Info] [Give] Meretrix 1 x Sandbag Barricade
+21:31 [Info] [Give] Meretrix 1 x Sandbag Barricade
+21:31 [Info] [Give] Meretrix 1 x Sandbag Barricade
+21:31 [Info] [Give] Meretrix 1 x Sandbag Barricade
+21:31 [Info] [Give] Meretrix 1 x Sandbag Barricade
+21:39 [Info] [NoDecay] NoDecay.OnEntityTakeDamage took 474.4544 ms to execute.
+21:39 [Warning] Calling 'OnEntityTakeDamage' on 'NoDecay v1.0.32' took 475ms [GARBAGE COLLECT]
+21:41 [Info] [NTeleportation] Meretrix teleported to Smaste.
+21:43 [Info] [NTeleportation] Meretrix teleported back to previous location.
+21:46 [Error] Failed to call hook 'GiveCommand' on plugin 'Give v3.0.2' (FormatException: Input string was not in a correct format.)
+  at System.Number.StringToNumber (System.String str, System.Globalization.NumberStyles options, System.Number+NumberBuffer& number, System.Globalization.NumberFormatInfo info, System.Boolean parseDecimal) [0x00057] in <ac823e2bb42b41bda67924a45a0173c3>:0 
+  at System.Number.ParseInt32 (System.String s, System.Globalization.NumberStyles style, System.Globalization.NumberFormatInfo info) [0x00013] in <ac823e2bb42b41bda67924a45a0173c3>:0 
+  at System.Int32.Parse (System.String s, System.IFormatProvider provider) [0x00008] in <ac823e2bb42b41bda67924a45a0173c3>:0 
+  at System.Convert.ToInt32 (System.String value) [0x0000b] in <ac823e2bb42b41bda67924a45a0173c3>:0 
+  at Oxide.Plugins.Give.GiveCommand (Oxide.Core.Libraries.Covalence.IPlayer player, System.String command, System.String[] args) [0x00050] in <292b2431a9a7439593a2029c83f88645>:0 
+  at Oxide.Plugins.Give.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00255] in <292b2431a9a7439593a2029c83f88645>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <9affce1cd15c4ec183941adef8db1722>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <4452f821def6406d834e4149849fe7ea>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <4452f821def6406d834e4149849fe7ea>:0 
+21:46 [Error] Failed to call hook 'GiveCommand' on plugin 'Give v3.0.2' (FormatException: Input string was not in a correct format.)
+  at System.Number.StringToNumber (System.String str, System.Globalization.NumberStyles options, System.Number+NumberBuffer& number, System.Globalization.NumberFormatInfo info, System.Boolean parseDecimal) [0x00057] in <ac823e2bb42b41bda67924a45a0173c3>:0 
+  at System.Number.ParseInt32 (System.String s, System.Globalization.NumberStyles style, System.Globalization.NumberFormatInfo info) [0x00013] in <ac823e2bb42b41bda67924a45a0173c3>:0 
+  at System.Int32.Parse (System.String s, System.IFormatProvider provider) [0x00008] in <ac823e2bb42b41bda67924a45a0173c3>:0 
+  at System.Convert.ToInt32 (System.String value) [0x0000b] in <ac823e2bb42b41bda67924a45a0173c3>:0 
+  at Oxide.Plugins.Give.GiveCommand (Oxide.Core.Libraries.Covalence.IPlayer player, System.String command, System.String[] args) [0x00050] in <292b2431a9a7439593a2029c83f88645>:0 
+  at Oxide.Plugins.Give.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00255] in <292b2431a9a7439593a2029c83f88645>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <9affce1cd15c4ec183941adef8db1722>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <4452f821def6406d834e4149849fe7ea>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <4452f821def6406d834e4149849fe7ea>:0 
+21:46 [Error] Failed to call hook 'GiveCommand' on plugin 'Give v3.0.2' (FormatException: Input string was not in a correct format.)
+  at System.Number.StringToNumber (System.String str, System.Globalization.NumberStyles options, System.Number+NumberBuffer& number, System.Globalization.NumberFormatInfo info, System.Boolean parseDecimal) [0x00057] in <ac823e2bb42b41bda67924a45a0173c3>:0 
+  at System.Number.ParseInt32 (System.String s, System.Globalization.NumberStyles style, System.Globalization.NumberFormatInfo info) [0x00013] in <ac823e2bb42b41bda67924a45a0173c3>:0 
+  at System.Int32.Parse (System.String s, System.IFormatProvider provider) [0x00008] in <ac823e2bb42b41bda67924a45a0173c3>:0 
+  at System.Convert.ToInt32 (System.String value) [0x0000b] in <ac823e2bb42b41bda67924a45a0173c3>:0 
+  at Oxide.Plugins.Give.GiveCommand (Oxide.Core.Libraries.Covalence.IPlayer player, System.String command, System.String[] args) [0x00050] in <292b2431a9a7439593a2029c83f88645>:0 
+  at Oxide.Plugins.Give.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00255] in <292b2431a9a7439593a2029c83f88645>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <9affce1cd15c4ec183941adef8db1722>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <4452f821def6406d834e4149849fe7ea>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <4452f821def6406d834e4149849fe7ea>:0 
+21:47 [Error] Failed to call hook 'GiveCommand' on plugin 'Give v3.0.2' (FormatException: Input string was not in a correct format.)
+  at System.Number.StringToNumber (System.String str, System.Globalization.NumberStyles options, System.Number+NumberBuffer& number, System.Globalization.NumberFormatInfo info, System.Boolean parseDecimal) [0x00057] in <ac823e2bb42b41bda67924a45a0173c3>:0 
+  at System.Number.ParseInt32 (System.String s, System.Globalization.NumberStyles style, System.Globalization.NumberFormatInfo info) [0x00013] in <ac823e2bb42b41bda67924a45a0173c3>:0 
+  at System.Int32.Parse (System.String s, System.IFormatProvider provider) [0x00008] in <ac823e2bb42b41bda67924a45a0173c3>:0 
+  at System.Convert.ToInt32 (System.String value) [0x0000b] in <ac823e2bb42b41bda67924a45a0173c3>:0 
+  at Oxide.Plugins.Give.GiveCommand (Oxide.Core.Libraries.Covalence.IPlayer player, System.String command, System.String[] args) [0x00050] in <292b2431a9a7439593a2029c83f88645>:0 
+  at Oxide.Plugins.Give.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00255] in <292b2431a9a7439593a2029c83f88645>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <9affce1cd15c4ec183941adef8db1722>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <4452f821def6406d834e4149849fe7ea>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <4452f821def6406d834e4149849fe7ea>:0 
+21:47 [Error] Failed to call hook 'GiveCommand' on plugin 'Give v3.0.2' (FormatException: Input string was not in a correct format.)
+  at System.Number.StringToNumber (System.String str, System.Globalization.NumberStyles options, System.Number+NumberBuffer& number, System.Globalization.NumberFormatInfo info, System.Boolean parseDecimal) [0x00057] in <ac823e2bb42b41bda67924a45a0173c3>:0 
+  at System.Number.ParseInt32 (System.String s, System.Globalization.NumberStyles style, System.Globalization.NumberFormatInfo info) [0x00013] in <ac823e2bb42b41bda67924a45a0173c3>:0 
+  at System.Int32.Parse (System.String s, System.IFormatProvider provider) [0x00008] in <ac823e2bb42b41bda67924a45a0173c3>:0 
+  at System.Convert.ToInt32 (System.String value) [0x0000b] in <ac823e2bb42b41bda67924a45a0173c3>:0 
+  at Oxide.Plugins.Give.GiveCommand (Oxide.Core.Libraries.Covalence.IPlayer player, System.String command, System.String[] args) [0x00050] in <292b2431a9a7439593a2029c83f88645>:0 
+  at Oxide.Plugins.Give.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00255] in <292b2431a9a7439593a2029c83f88645>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <9affce1cd15c4ec183941adef8db1722>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <4452f821def6406d834e4149849fe7ea>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <4452f821def6406d834e4149849fe7ea>:0 
+21:47 [Info] [Give] Meretrix 1 x Siren Light
+21:47 [Error] Failed to call hook 'GiveCommand' on plugin 'Give v3.0.2' (FormatException: Input string was not in a correct format.)
+  at System.Number.StringToNumber (System.String str, System.Globalization.NumberStyles options, System.Number+NumberBuffer& number, System.Globalization.NumberFormatInfo info, System.Boolean parseDecimal) [0x00057] in <ac823e2bb42b41bda67924a45a0173c3>:0 
+  at System.Number.ParseInt32 (System.String s, System.Globalization.NumberStyles style, System.Globalization.NumberFormatInfo info) [0x00013] in <ac823e2bb42b41bda67924a45a0173c3>:0 
+  at System.Int32.Parse (System.String s, System.IFormatProvider provider) [0x00008] in <ac823e2bb42b41bda67924a45a0173c3>:0 
+  at System.Convert.ToInt32 (System.String value) [0x0000b] in <ac823e2bb42b41bda67924a45a0173c3>:0 
+  at Oxide.Plugins.Give.GiveCommand (Oxide.Core.Libraries.Covalence.IPlayer player, System.String command, System.String[] args) [0x00050] in <292b2431a9a7439593a2029c83f88645>:0 
+  at Oxide.Plugins.Give.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00255] in <292b2431a9a7439593a2029c83f88645>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <9affce1cd15c4ec183941adef8db1722>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <4452f821def6406d834e4149849fe7ea>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <4452f821def6406d834e4149849fe7ea>:0 
+21:48 [Error] Failed to call hook 'GiveCommand' on plugin 'Give v3.0.2' (FormatException: Input string was not in a correct format.)
+  at System.Number.StringToNumber (System.String str, System.Globalization.NumberStyles options, System.Number+NumberBuffer& number, System.Globalization.NumberFormatInfo info, System.Boolean parseDecimal) [0x00057] in <ac823e2bb42b41bda67924a45a0173c3>:0 
+  at System.Number.ParseInt32 (System.String s, System.Globalization.NumberStyles style, System.Globalization.NumberFormatInfo info) [0x00013] in <ac823e2bb42b41bda67924a45a0173c3>:0 
+  at System.Int32.Parse (System.String s, System.IFormatProvider provider) [0x00008] in <ac823e2bb42b41bda67924a45a0173c3>:0 
+  at System.Convert.ToInt32 (System.String value) [0x0000b] in <ac823e2bb42b41bda67924a45a0173c3>:0 
+  at Oxide.Plugins.Give.GiveCommand (Oxide.Core.Libraries.Covalence.IPlayer player, System.String command, System.String[] args) [0x00050] in <292b2431a9a7439593a2029c83f88645>:0 
+  at Oxide.Plugins.Give.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00255] in <292b2431a9a7439593a2029c83f88645>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <9affce1cd15c4ec183941adef8db1722>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <4452f821def6406d834e4149849fe7ea>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <4452f821def6406d834e4149849fe7ea>:0 
+21:49 [Error] Failed to call hook 'GiveCommand' on plugin 'Give v3.0.2' (FormatException: Input string was not in a correct format.)
+  at System.Number.StringToNumber (System.String str, System.Globalization.NumberStyles options, System.Number+NumberBuffer& number, System.Globalization.NumberFormatInfo info, System.Boolean parseDecimal) [0x00057] in <ac823e2bb42b41bda67924a45a0173c3>:0 
+  at System.Number.ParseInt32 (System.String s, System.Globalization.NumberStyles style, System.Globalization.NumberFormatInfo info) [0x00013] in <ac823e2bb42b41bda67924a45a0173c3>:0 
+  at System.Int32.Parse (System.String s, System.IFormatProvider provider) [0x00008] in <ac823e2bb42b41bda67924a45a0173c3>:0 
+  at System.Convert.ToInt32 (System.String value) [0x0000b] in <ac823e2bb42b41bda67924a45a0173c3>:0 
+  at Oxide.Plugins.Give.GiveCommand (Oxide.Core.Libraries.Covalence.IPlayer player, System.String command, System.String[] args) [0x00050] in <292b2431a9a7439593a2029c83f88645>:0 
+  at Oxide.Plugins.Give.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00255] in <292b2431a9a7439593a2029c83f88645>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <9affce1cd15c4ec183941adef8db1722>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <4452f821def6406d834e4149849fe7ea>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <4452f821def6406d834e4149849fe7ea>:0 
+21:49 [Error] Failed to call hook 'GiveCommand' on plugin 'Give v3.0.2' (FormatException: Input string was not in a correct format.)
+  at System.Number.StringToNumber (System.String str, System.Globalization.NumberStyles options, System.Number+NumberBuffer& number, System.Globalization.NumberFormatInfo info, System.Boolean parseDecimal) [0x00057] in <ac823e2bb42b41bda67924a45a0173c3>:0 
+  at System.Number.ParseInt32 (System.String s, System.Globalization.NumberStyles style, System.Globalization.NumberFormatInfo info) [0x00013] in <ac823e2bb42b41bda67924a45a0173c3>:0 
+  at System.Int32.Parse (System.String s, System.IFormatProvider provider) [0x00008] in <ac823e2bb42b41bda67924a45a0173c3>:0 
+  at System.Convert.ToInt32 (System.String value) [0x0000b] in <ac823e2bb42b41bda67924a45a0173c3>:0 
+  at Oxide.Plugins.Give.GiveCommand (Oxide.Core.Libraries.Covalence.IPlayer player, System.String command, System.String[] args) [0x00050] in <292b2431a9a7439593a2029c83f88645>:0 
+  at Oxide.Plugins.Give.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00255] in <292b2431a9a7439593a2029c83f88645>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <9affce1cd15c4ec183941adef8db1722>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <4452f821def6406d834e4149849fe7ea>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <4452f821def6406d834e4149849fe7ea>:0 
+21:50 [Error] Failed to call hook 'GiveCommand' on plugin 'Give v3.0.2' (FormatException: Input string was not in a correct format.)
+  at System.Number.StringToNumber (System.String str, System.Globalization.NumberStyles options, System.Number+NumberBuffer& number, System.Globalization.NumberFormatInfo info, System.Boolean parseDecimal) [0x00057] in <ac823e2bb42b41bda67924a45a0173c3>:0 
+  at System.Number.ParseInt32 (System.String s, System.Globalization.NumberStyles style, System.Globalization.NumberFormatInfo info) [0x00013] in <ac823e2bb42b41bda67924a45a0173c3>:0 
+  at System.Int32.Parse (System.String s, System.IFormatProvider provider) [0x00008] in <ac823e2bb42b41bda67924a45a0173c3>:0 
+  at System.Convert.ToInt32 (System.String value) [0x0000b] in <ac823e2bb42b41bda67924a45a0173c3>:0 
+  at Oxide.Plugins.Give.GiveCommand (Oxide.Core.Libraries.Covalence.IPlayer player, System.String command, System.String[] args) [0x00050] in <292b2431a9a7439593a2029c83f88645>:0 
+  at Oxide.Plugins.Give.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00255] in <292b2431a9a7439593a2029c83f88645>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <9affce1cd15c4ec183941adef8db1722>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <4452f821def6406d834e4149849fe7ea>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <4452f821def6406d834e4149849fe7ea>:0 
+21:50 [Error] Failed to call hook 'GiveCommand' on plugin 'Give v3.0.2' (FormatException: Input string was not in a correct format.)
+  at System.Number.StringToNumber (System.String str, System.Globalization.NumberStyles options, System.Number+NumberBuffer& number, System.Globalization.NumberFormatInfo info, System.Boolean parseDecimal) [0x00057] in <ac823e2bb42b41bda67924a45a0173c3>:0 
+  at System.Number.ParseInt32 (System.String s, System.Globalization.NumberStyles style, System.Globalization.NumberFormatInfo info) [0x00013] in <ac823e2bb42b41bda67924a45a0173c3>:0 
+  at System.Int32.Parse (System.String s, System.IFormatProvider provider) [0x00008] in <ac823e2bb42b41bda67924a45a0173c3>:0 
+  at System.Convert.ToInt32 (System.String value) [0x0000b] in <ac823e2bb42b41bda67924a45a0173c3>:0 
+  at Oxide.Plugins.Give.GiveCommand (Oxide.Core.Libraries.Covalence.IPlayer player, System.String command, System.String[] args) [0x00050] in <292b2431a9a7439593a2029c83f88645>:0 
+  at Oxide.Plugins.Give.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00255] in <292b2431a9a7439593a2029c83f88645>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <9affce1cd15c4ec183941adef8db1722>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <4452f821def6406d834e4149849fe7ea>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <4452f821def6406d834e4149849fe7ea>:0 
+21:50 [Error] Failed to call hook 'GiveCommand' on plugin 'Give v3.0.2' (FormatException: Input string was not in a correct format.)
+  at System.Number.StringToNumber (System.String str, System.Globalization.NumberStyles options, System.Number+NumberBuffer& number, System.Globalization.NumberFormatInfo info, System.Boolean parseDecimal) [0x00057] in <ac823e2bb42b41bda67924a45a0173c3>:0 
+  at System.Number.ParseInt32 (System.String s, System.Globalization.NumberStyles style, System.Globalization.NumberFormatInfo info) [0x00013] in <ac823e2bb42b41bda67924a45a0173c3>:0 
+  at System.Int32.Parse (System.String s, System.IFormatProvider provider) [0x00008] in <ac823e2bb42b41bda67924a45a0173c3>:0 
+  at System.Convert.ToInt32 (System.String value) [0x0000b] in <ac823e2bb42b41bda67924a45a0173c3>:0 
+  at Oxide.Plugins.Give.GiveCommand (Oxide.Core.Libraries.Covalence.IPlayer player, System.String command, System.String[] args) [0x00050] in <292b2431a9a7439593a2029c83f88645>:0 
+  at Oxide.Plugins.Give.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00255] in <292b2431a9a7439593a2029c83f88645>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <9affce1cd15c4ec183941adef8db1722>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <4452f821def6406d834e4149849fe7ea>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <4452f821def6406d834e4149849fe7ea>:0 
+21:51 [Info] [Give] Smaste 1 x Pump Shotgun
+21:52 [Error] Failed to call hook 'GiveCommand' on plugin 'Give v3.0.2' (FormatException: Input string was not in a correct format.)
+  at System.Number.StringToNumber (System.String str, System.Globalization.NumberStyles options, System.Number+NumberBuffer& number, System.Globalization.NumberFormatInfo info, System.Boolean parseDecimal) [0x00057] in <ac823e2bb42b41bda67924a45a0173c3>:0 
+  at System.Number.ParseInt32 (System.String s, System.Globalization.NumberStyles style, System.Globalization.NumberFormatInfo info) [0x00013] in <ac823e2bb42b41bda67924a45a0173c3>:0 
+  at System.Int32.Parse (System.String s, System.IFormatProvider provider) [0x00008] in <ac823e2bb42b41bda67924a45a0173c3>:0 
+  at System.Convert.ToInt32 (System.String value) [0x0000b] in <ac823e2bb42b41bda67924a45a0173c3>:0 
+  at Oxide.Plugins.Give.GiveCommand (Oxide.Core.Libraries.Covalence.IPlayer player, System.String command, System.String[] args) [0x00050] in <292b2431a9a7439593a2029c83f88645>:0 
+  at Oxide.Plugins.Give.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00255] in <292b2431a9a7439593a2029c83f88645>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <9affce1cd15c4ec183941adef8db1722>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <4452f821def6406d834e4149849fe7ea>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <4452f821def6406d834e4149849fe7ea>:0 
+21:53 [Error] Failed to call hook 'GiveCommand' on plugin 'Give v3.0.2' (OverflowException: Value was either too large or too small for an Int32.)
+  at System.Number.ParseInt32 (System.String s, System.Globalization.NumberStyles style, System.Globalization.NumberFormatInfo info) [0x00057] in <ac823e2bb42b41bda67924a45a0173c3>:0 
+  at System.Int32.Parse (System.String s, System.IFormatProvider provider) [0x00008] in <ac823e2bb42b41bda67924a45a0173c3>:0 
+  at System.Convert.ToInt32 (System.String value) [0x0000b] in <ac823e2bb42b41bda67924a45a0173c3>:0 
+  at Oxide.Plugins.Give.GiveCommand (Oxide.Core.Libraries.Covalence.IPlayer player, System.String command, System.String[] args) [0x00050] in <292b2431a9a7439593a2029c83f88645>:0 
+  at Oxide.Plugins.Give.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00255] in <292b2431a9a7439593a2029c83f88645>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <9affce1cd15c4ec183941adef8db1722>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <4452f821def6406d834e4149849fe7ea>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <4452f821def6406d834e4149849fe7ea>:0 
+22:17 [Info] [NTeleportation] jokerswildj teleported back to previous location.
+22:20 [Info] [NTeleportation] Smaste teleported back to previous location.
+22:23 [Info] [Death Notes] jokerswildj did not want to be a part of the Scientist's experiments.
+22:29 [Info] [Death Notes] Smaste was impaled by a Barricade.
+22:31 [Info] [Death Notes] jokerswildj couldn't run away from the Bear.
+22:32 [Info] [Death Notes] jokerswildj shot a Boar using their Hunting Bow over a distance of 4.8 meters.
+22:33 [Info] [Death Notes] jokerswildj shot a Wolf using their Hunting Bow over a distance of 17.9 meters.
+22:50 [Info] [Death Notes] Smaste shot a Chicken using their Hunting Bow over a distance of 7.7 meters.
+22:50 [Info] [Death Notes] Smaste shot a Chicken using their Hunting Bow over a distance of 7.7 meters.
+22:50 [Info] [Death Notes] Smaste shot a Chicken using their Hunting Bow over a distance of 11.4 meters.

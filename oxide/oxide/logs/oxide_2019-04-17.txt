@@ -1,0 +1,177 @@
+01:26 [Error] Failed to call hook 'OnPlayerInput' on plugin 'Build v2.0.82' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.Build+PlayerBuild.Execute () [0x00079] in <502e9f00e8b94fbea8db454c51283ff7>:0 
+  at Oxide.Plugins.Build.OnPlayerInput (BasePlayer player, InputState state) [0x00105] in <502e9f00e8b94fbea8db454c51283ff7>:0 
+  at Oxide.Plugins.Build.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x000c2] in <502e9f00e8b94fbea8db454c51283ff7>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <9affce1cd15c4ec183941adef8db1722>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <4452f821def6406d834e4149849fe7ea>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <4452f821def6406d834e4149849fe7ea>:0 
+01:26 [Error] Failed to call hook 'OnPlayerInput' on plugin 'Build v2.0.82' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.Build+PlayerBuild.Execute () [0x00079] in <502e9f00e8b94fbea8db454c51283ff7>:0 
+  at Oxide.Plugins.Build.OnPlayerInput (BasePlayer player, InputState state) [0x00105] in <502e9f00e8b94fbea8db454c51283ff7>:0 
+  at Oxide.Plugins.Build.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x000c2] in <502e9f00e8b94fbea8db454c51283ff7>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <9affce1cd15c4ec183941adef8db1722>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <4452f821def6406d834e4149849fe7ea>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <4452f821def6406d834e4149849fe7ea>:0 
+01:26 [Error] Failed to call hook 'OnPlayerInput' on plugin 'Build v2.0.82' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.Build+PlayerBuild.Execute () [0x00079] in <502e9f00e8b94fbea8db454c51283ff7>:0 
+  at Oxide.Plugins.Build.OnPlayerInput (BasePlayer player, InputState state) [0x00105] in <502e9f00e8b94fbea8db454c51283ff7>:0 
+  at Oxide.Plugins.Build.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x000c2] in <502e9f00e8b94fbea8db454c51283ff7>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <9affce1cd15c4ec183941adef8db1722>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <4452f821def6406d834e4149849fe7ea>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <4452f821def6406d834e4149849fe7ea>:0 
+01:29 [Info] [NTeleportation] Meretrix teleported Meretrix to Smaste.
+01:37 [Info] [Give] Meretrix 1 x High External Wooden Gate
+01:37 [Info] [Give] Meretrix 1 x High External Stone Wall
+01:37 [Info] [Give] Meretrix 1 x High External Stone Wall
+01:37 [Info] [Give] Meretrix 1 x High External Stone Gate
+01:42 [Info] [Give] Meretrix 100 x Small Generator
+01:42 [Info] [Give] Meretrix 100 x Root Combiner
+01:42 [Info] [Give] Meretrix 1 x Wire Tool
+01:42 [Info] [Give] Meretrix 1 x Hammer
+01:42 [Info] [Give] Meretrix 1 x Building Plan
+01:42 [Info] [Give] Meretrix 1000 x Wood
+01:42 [Info] [Give] Meretrix 1000 x Wood
+01:42 [Info] [Give] Meretrix 1000 x Wood
+01:42 [Info] [Give] Meretrix 1000 x Wood
+01:42 [Info] [Give] Meretrix 1000 x Wood
+01:43 [Info] [Give] Meretrix 1000 x Wood
+01:43 [Info] [Give] Meretrix 1000 x Wood
+01:43 [Info] [Give] Meretrix 1000 x Wood
+01:43 [Info] [Give] Meretrix 1000 x Wood
+01:43 [Info] [Give] Meretrix 1000 x Wood
+01:43 [Info] [Give] Meretrix 1000 x Wood
+01:43 [Info] [Give] Meretrix 1000 x Wood
+01:43 [Info] [Give] Meretrix 1000 x Wood
+01:43 [Info] [Give] Meretrix 1000 x Wood
+01:43 [Info] [Give] Meretrix 1000 x Wood
+01:43 [Info] [Give] Meretrix 1000 x Wood
+01:43 [Info] [Give] Meretrix 1000 x Wood
+01:43 [Info] [Give] Meretrix 1000 x High Quality Metal
+01:43 [Info] [Give] Meretrix 1000 x High Quality Metal
+01:43 [Info] [Give] Meretrix 1000 x High Quality Metal
+01:43 [Info] [Give] Meretrix 1000 x High Quality Metal
+01:43 [Info] [Give] Meretrix 1000 x High Quality Metal
+01:43 [Info] [Give] Meretrix 1000 x High Quality Metal
+01:43 [Info] [Give] Meretrix 1000 x High Quality Metal
+01:43 [Info] [Give] Meretrix 1000 x High Quality Metal
+01:43 [Info] [Give] Meretrix 1000 x High Quality Metal
+01:43 [Info] [Give] Meretrix 1000 x High Quality Metal
+01:43 [Info] [Give] Meretrix 1000 x High Quality Metal
+01:43 [Info] [Give] Meretrix 1000 x High Quality Metal
+01:43 [Info] [Give] Meretrix 1000 x High Quality Metal
+01:43 [Info] [Give] Meretrix 1000 x High Quality Metal
+01:49 [Error] Failed to call hook 'OnPlayerInput' on plugin 'Build v2.0.82' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.Build+PlayerBuild.Execute () [0x00079] in <502e9f00e8b94fbea8db454c51283ff7>:0 
+  at Oxide.Plugins.Build.OnPlayerInput (BasePlayer player, InputState state) [0x00105] in <502e9f00e8b94fbea8db454c51283ff7>:0 
+  at Oxide.Plugins.Build.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x000c2] in <502e9f00e8b94fbea8db454c51283ff7>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <9affce1cd15c4ec183941adef8db1722>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <4452f821def6406d834e4149849fe7ea>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <4452f821def6406d834e4149849fe7ea>:0 
+02:08 [Info] [Give] Meretrix 1 x Counter
+02:10 [Info] [Give] Meretrix 1000 x High Quality Metal
+02:10 [Info] [Give] Meretrix 1000 x High Quality Metal
+02:10 [Info] [Give] Meretrix 1000 x High Quality Metal
+02:10 [Info] [Give] Meretrix 1000 x High Quality Metal
+02:10 [Info] [Give] Meretrix 1000 x High Quality Metal
+02:10 [Info] [Give] Meretrix 1000 x High Quality Metal
+02:10 [Info] [Give] Meretrix 1000 x High Quality Metal
+02:10 [Info] [Give] Meretrix 1000 x High Quality Metal
+02:10 [Info] [Give] Meretrix 1000 x High Quality Metal
+02:10 [Info] [Give] Meretrix 1000 x High Quality Metal
+02:10 [Info] [Give] Meretrix 1000 x High Quality Metal
+02:10 [Info] [Give] Meretrix 1000 x High Quality Metal
+02:10 [Info] [Give] Meretrix 1000 x High Quality Metal
+02:10 [Info] [Give] Meretrix 1000 x High Quality Metal
+02:10 [Info] [Give] Meretrix 1000 x High Quality Metal
+02:10 [Info] [Give] Meretrix 1000 x High Quality Metal
+02:10 [Info] [Give] Meretrix 1000 x High Quality Metal
+02:10 [Info] [Give] Meretrix 1000 x High Quality Metal
+02:10 [Info] [Give] Meretrix 1000 x High Quality Metal
+02:10 [Info] [Give] Meretrix 1000 x High Quality Metal
+02:10 [Info] [Give] Meretrix 1000 x High Quality Metal
+02:10 [Info] [Give] Meretrix 1000 x High Quality Metal
+02:10 [Info] [Give] Meretrix 1000 x High Quality Metal
+02:10 [Info] [Give] Meretrix 1000 x High Quality Metal
+02:10 [Info] [Give] Meretrix 1000 x High Quality Metal
+02:10 [Info] [Give] Meretrix 1000 x High Quality Metal
+02:10 [Info] [Give] Meretrix 1000 x High Quality Metal
+02:10 [Info] [Give] Meretrix 1000 x High Quality Metal
+02:10 [Info] [Give] Meretrix 1000 x High Quality Metal
+02:10 [Info] [Give] Meretrix 1000 x High Quality Metal
+02:10 [Info] [Give] Meretrix 1 x High Quality Metal Ore
+02:10 [Info] [Give] Meretrix 1 x High Quality Metal Ore
+02:10 [Info] [Give] Meretrix 1000 x High Quality Metal
+02:10 [Info] [Give] Meretrix 1000 x High Quality Metal
+02:10 [Info] [Give] Meretrix 1000 x High Quality Metal
+02:10 [Info] [Give] Meretrix 1000 x High Quality Metal
+02:10 [Info] [Give] Meretrix 1000 x High Quality Metal
+02:10 [Info] [Give] Meretrix 1000 x High Quality Metal
+02:10 [Info] [Give] Meretrix 1000 x High Quality Metal
+02:10 [Info] [Give] Meretrix 1000 x High Quality Metal
+02:10 [Info] [Give] Meretrix 1000 x High Quality Metal
+02:10 [Info] [Give] Meretrix 1000 x High Quality Metal
+02:10 [Info] [Give] Meretrix 1000 x High Quality Metal
+02:10 [Info] [Give] Meretrix 1000 x High Quality Metal
+02:10 [Info] [Give] Meretrix 1000 x High Quality Metal
+02:10 [Info] [Give] Meretrix 1000 x High Quality Metal
+02:10 [Info] [Give] Meretrix 1000 x High Quality Metal
+02:10 [Info] [Give] Meretrix 1000 x High Quality Metal
+02:10 [Info] [Give] Meretrix 1000 x High Quality Metal
+02:10 [Info] [Give] Meretrix 1000 x High Quality Metal
+02:10 [Info] [Give] Meretrix 1000 x High Quality Metal
+02:15 [Info] [Death Notes] Meretrix bled out after being attacked by Smaste.
+02:15 [Info] [NTeleportation] Meretrix teleported Meretrix to Smaste.
+02:17 [Info] [Give] Meretrix 1 x Compound Bow
+02:17 [Info] [Give] Meretrix 1 x Fire Arrow
+02:17 [Info] [Give] Meretrix 1000 x Fire Arrow
+02:18 [Info] [Give] [God] Meretrix 1 x Hammer
+02:20 [Info] [Give] [God] Meretrix 1 x Wood
+02:20 [Info] [Give] [God] Meretrix 1000 x Wood
+02:25 [Info] [Give] [God] Meretrix 1000 x High Quality Metal
+02:33 [Info] [Give] [God] Meretrix 1 x Garage Door
+02:33 [Info] [Give] [God] Meretrix 1 x Armored Double Door
+02:34 [Info] [Give] [God] Meretrix 100 x Armored Double Door
+02:35 [Info] [Give] [God] Meretrix 100 x Auto Turret
+02:36 [Info] [Give] [God] Meretrix 100 x HBHF Sensor
+02:37 [Info] [Give] [God] Meretrix 1000 x Electrical Branch
+02:40 [Info] [Give] [God] Meretrix 100 x Door Controller
+02:41 [Info] [Give] [God] Meretrix 1 x Wire Tool
+02:43 [Info] [Give] [God] Meretrix 1 x Counter
+02:43 [Info] [Give] [God] Meretrix 1 x Counter
+02:43 [Info] [Give] [God] Meretrix 1 x Counter
+02:50 [Info] [Give] [God] Meretrix 1 x F1 Grenade
+02:50 [Info] [Give] [God] Meretrix 100 x F1 Grenade
+02:52 [Info] [Give] [God] Meretrix 1000 x Wood
+02:53 [Info] [Give] [God] Meretrix 1000 x High Quality Metal
+02:55 [Error] Failed to call hook 'OnPlayerInput' on plugin 'Build v2.0.82' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.Build+PlayerBuild.Execute () [0x00079] in <502e9f00e8b94fbea8db454c51283ff7>:0 
+  at Oxide.Plugins.Build.OnPlayerInput (BasePlayer player, InputState state) [0x00105] in <502e9f00e8b94fbea8db454c51283ff7>:0 
+  at Oxide.Plugins.Build.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x000c2] in <502e9f00e8b94fbea8db454c51283ff7>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <9affce1cd15c4ec183941adef8db1722>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <4452f821def6406d834e4149849fe7ea>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <4452f821def6406d834e4149849fe7ea>:0 
+10:57 [Info] [NTeleportation] Smaste teleported back to previous location.
+12:25 [Info] [NTeleportation] Smaste teleported back to previous location.
+13:48 [Info] [NTeleportation] Smaste teleported back to previous location.
+15:40 [Info] [NTeleportation] Smaste teleported back to previous location.
+15:42 [Info] [NTeleportation] jokerswildj teleported back to previous location.
+16:07 [Info] [Death Notes] jokerswildj shot a Horse using their Spas-12 Shotgun over a distance of 40.7 meters.
+16:15 [Info] [Death Notes] jokerswildj shot a Boar using their Thompson over a distance of 29.7 meters.
+16:22 [Info] [Death Notes] jokerswildj did not want to be a part of the Scientist's experiments.
+16:27 [Info] [Death Notes] jokerswildj did not want to be a part of the Scientist's experiments.
+16:30 [Info] [NTeleportation] Smaste teleported back to previous location.
+16:47 [Info] [NTeleportation] Smaste teleported back to previous location.
+16:50 [Info] [NTeleportation] Smaste teleported back to previous location.
+16:52 [Info] [NTeleportation] Smaste teleported back to previous location.
+17:01 [Info] [NTeleportation] Smaste teleported back to previous location.
+17:12 [Info] [NTeleportation] Smaste teleported back to previous location.
+17:31 [Info] [NTeleportation] Smaste teleported back to previous location.
+17:45 [Info] [NTeleportation] Smaste teleported back to previous location.
+20:15 [Info] [NTeleportation] Smaste teleported back to previous location.
+20:46 [Info] [Death Notes] Smaste fought off a Murderer.
+20:46 [Info] [Death Notes] Smaste fought off a Murderer.
+20:46 [Info] [Death Notes] Smaste fought off a Murderer.
+20:47 [Info] [Give] Meretrix 1 x Chainsaw
+20:56 [Info] [Give] Meretrix 100 x Code Lock
+22:13 [Info] [NTeleportation] Smaste teleported back to previous location.
+22:23 [Info] [NTeleportation] Smaste teleported back to previous location.

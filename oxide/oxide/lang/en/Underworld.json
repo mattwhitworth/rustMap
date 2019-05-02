@@ -1,0 +1,19 @@
+{
+  "PositionAdded": "You will now teleport to <color=yellow>{0}</color> on disconnect.",
+  "PositionRemoved1": "You will now teleport under ground on disconnect.",
+  "PositionRemoved2": "You will now teleport to <color=yellow>{0}</color> on disconnect.",
+  "PlayerWakeUp": "You will now teleport above ground when you wake up.",
+  "PlayerWakeUpReset": "You will no longer teleport above ground when you wake up.",
+  "PlayerNoClipEnabled": "You will now automatically be noclipped on reconnect.",
+  "PlayerNoClipDisabled": "You will no longer be noclipped on reconnect.",
+  "SavingInventory": "Your inventory will be saved and stripped on disconnect, and restored when you wake up.",
+  "NotSavingInventory": "Your inventory will no longer be saved.",
+  "Help0": "/uw save - toggles saving inventory (enabled: {0})",
+  "Help1": "/uw set <x y z> - sets your log out position. can specify coordinates <color=yellow>{0}</color>",
+  "Help2": "/uw reset - resets your log out position to be underground unless a position is configured in the config file",
+  "Help3": "/uw wakeup - toggle waking up on land (enabled: {0})",
+  "Help4": "/uw noclip - toggle auto noclip on reconnect (enabled: {0})",
+  "Help5": "/uw g - teleport to the ground",
+  "OutOfBounds": "The specified coordinates are not within the allowed boundaries of the map.",
+  "NoPermission": "You do not have permission to use this command."
+}

@@ -1,0 +1,224 @@
+00:10 [Info] [Give] Meretrix 1 x HBHF Sensor
+00:11 [Info] [Give] Meretrix 1 x Hatchet
+00:12 [Info] [Give] Meretrix 1 x LR-300 Assault Rifle
+00:12 [Info] [NTeleportation] Meretrix teleported Smaste to Meretrix.
+00:14 [Info] [Give] Meretrix 1000 x HV 5.56 Rifle Ammo
+00:15 [Info] [Give] Meretrix 1 x Smoke Rocket WIP!!!!
+00:16 [Info] [Give] Meretrix 1000 x Smoke Rocket WIP!!!!
+00:16 [Info] [Give] Meretrix 1 x Rocket Launcher
+00:17 [Info] [Give] Meretrix 1 x High Velocity Rocket
+00:18 [Info] [Give] Meretrix 1000 x High Velocity Rocket
+00:26 [Info] [Give] Meretrix 1 x Flasher Light
+00:27 [Info] [Give] Meretrix 1 x RF Broadcaster
+00:28 [Info] [Give] Meretrix 1000 x Electrical Branch
+00:30 [Info] [Give] Meretrix 1 x HBHF Sensor
+00:30 [Info] [Give] Meretrix 1 x HBHF Sensor
+00:30 [Info] [Give] Meretrix 1 x HBHF Sensor
+00:32 [Info] [Give] Meretrix 1000 x OR Switch
+00:33 [Info] [Give] Meretrix 1 x RF Receiver
+00:36 [Info] [Give] Meretrix 1 x XOR Switch
+00:42 [Info] [Give] Meretrix 1 x Memory Cell
+00:42 [Info] [Give] Meretrix 1 x Switch
+01:08 [Info] [NTeleportation] Meretrix teleported Smaste to Meretrix.
+01:10 [Info] [NTeleportation] Meretrix teleported Smaste to Meretrix.
+01:10 [Info] [NTeleportation] Meretrix teleported Smaste to Meretrix.
+01:14 [Info] [Give] Meretrix 1 x RF Transmitter
+01:39 [Info] [Death Notes] Meretrix was uncautious and ran into a Landmine.
+01:43 [Info] [Give] Meretrix 1 x Wire Tool
+01:45 [Info] [Give] Meretrix 1 x Pressure Pad
+02:25 [Info] [Death Notes] Smaste fell to their death.
+02:54 [Info] [Give] Meretrix 1000 x Wood
+02:54 [Info] [Give] Meretrix 1000 x Wood
+02:54 [Info] [Give] Meretrix 1000 x Wood
+02:54 [Info] [Give] Meretrix 1000 x Wood
+02:54 [Info] [Give] Meretrix 1000 x Wood
+02:54 [Info] [Give] Meretrix 1000 x Wood
+02:54 [Info] [Give] Meretrix 1000 x Wood
+02:54 [Info] [Give] Meretrix 1000 x Wood
+02:54 [Info] [Give] Meretrix 1000 x Wood
+02:54 [Info] [Give] Meretrix 1000 x Wood
+02:54 [Info] [Give] Meretrix 1000 x Wood
+02:54 [Info] [Give] Meretrix 1000 x Wood
+02:54 [Info] [Give] Meretrix 1000 x Wood
+02:54 [Info] [Give] Meretrix 1000 x Wood
+02:54 [Info] [Give] Meretrix 1000 x Wood
+02:54 [Info] [Give] Meretrix 1000 x Wood
+02:54 [Info] [Give] Meretrix 1000 x Wood
+02:54 [Info] [Give] Meretrix 1000 x Wood
+02:54 [Info] [Give] Meretrix 1000 x Wood
+02:54 [Info] [Give] Meretrix 1000 x Wood
+02:54 [Info] [Give] Meretrix 1000 x Stones
+02:54 [Info] [Give] Meretrix 1000 x Stones
+02:54 [Info] [Give] Meretrix 1000 x Stones
+02:54 [Info] [Give] Meretrix 1000 x Stones
+02:54 [Info] [Give] Meretrix 1000 x Stones
+02:54 [Info] [Give] Meretrix 1000 x Stones
+02:54 [Info] [Give] Meretrix 1000 x Stones
+02:54 [Info] [Give] Meretrix 1000 x Stones
+02:54 [Info] [Give] Meretrix 1000 x Stones
+02:54 [Info] [Give] Meretrix 1000 x Stones
+02:54 [Info] [Give] Meretrix 1000 x Stones
+02:54 [Info] [Give] Meretrix 1000 x Stones
+02:54 [Info] [Give] Meretrix 1000 x Stones
+02:54 [Info] [Give] Meretrix 1000 x Stones
+02:54 [Info] [Give] Meretrix 1000 x Stones
+02:54 [Info] [Give] Meretrix 1000 x Stones
+02:54 [Info] [Give] Meretrix 1000 x Stones
+02:54 [Info] [Give] Meretrix 1000 x Stones
+02:54 [Info] [Give] Meretrix 1000 x Stones
+02:54 [Info] [Give] Meretrix 1000 x Stones
+02:54 [Info] [Give] Meretrix 1000 x Stones
+02:54 [Info] [Give] Meretrix 1000 x Stones
+03:02 [Info] [Give] Meretrix 1 x Hammer
+03:02 [Info] [Give] Meretrix 1 x HBHF Sensor
+03:02 [Info] [Give] Meretrix 1 x HBHF Sensor
+03:05 [Info] [Give] Meretrix 1000 x AND Switch
+03:20 [Info] [Give] [God] Meretrix 1 x RF Broadcaster
+03:23 [Info] [Give] [God] Meretrix 1 x RF Receiver
+06:35 [Info] [Death Notes] jokerswildj shot a Wolf using their Custom SMG over a distance of 0.7 meters.
+07:21 [Info] [Death Notes] jokerswildj shot a Bear using their Custom SMG over a distance of 2.7 meters.
+07:27 [Info] [Death Notes] jokerswildj shot a Boar using their Custom SMG over a distance of 40.4 meters.
+07:28 [Info] [Death Notes] jokerswildj shot a Wolf using their Custom SMG over a distance of 29.5 meters.
+07:30 [Info] [Death Notes] jokerswildj shot a Boar using their Custom SMG over a distance of 9.9 meters.
+07:30 [Info] [Death Notes] jokerswildj shot a Boar using their Custom SMG over a distance of 11.3 meters.
+12:14 [Info] [NTeleportation] Smaste teleported back to previous location.
+12:21 [Info] [NTeleportation] Smaste teleported back to previous location.
+12:45 [Info] [NTeleportation] Smaste teleported back to previous location.
+14:07 [Info] [NTeleportation] Smaste teleported back to previous location.
+14:08 [Info] [NTeleportation] Smaste teleported back to previous location.
+14:25 [Info] [NTeleportation] Smaste teleported back to previous location.
+14:35 [Info] [Death Notes] Smaste did not want to be a part of the Scientist's experiments.
+14:36 [Info] [Death Notes] Smaste shot a Boar using their Assault Rifle over a distance of 16.7 meters.
+14:37 [Info] [Death Notes] Smaste did not want to be a part of the Scientist's experiments.
+14:38 [Info] [Death Notes] Smaste shot a Wolf using their Assault Rifle over a distance of 2.4 meters.
+14:45 [Info] [NTeleportation] Smaste teleported back to previous location.
+15:34 [Info] [NTeleportation] Smaste teleported back to previous location.
+15:52 [Info] [Death Notes] Smaste shot a Bear using their Assault Rifle over a distance of 1.5 meters.
+15:58 [Info] [NTeleportation] Meretrix teleported Meretrix to Smaste.
+15:59 [Info] [NTeleportation] Smaste teleported back to previous location.
+16:08 [Info] [NTeleportation] Meretrix teleported Smaste to Meretrix.
+16:11 [Info] [Give] Meretrix 1 x Rocket Launcher
+16:11 [Info] [Give] Meretrix 1000 x High Velocity Rocket
+16:33 [Info] [NTeleportation] Smaste teleported back to previous location.
+16:47 [Info] [Death Notes] Smaste had enough of life.
+17:04 [Info] [NTeleportation] Smaste teleported back to previous location.
+17:08 [Info] [Death Notes] Smaste did not want to be a part of the Scientist's experiments.
+17:08 [Info] [Give] Meretrix 100 x Splitter
+17:13 [Info] [Death Notes] Smaste shot a Boar using their Assault Rifle over a distance of 12.4 meters.
+17:38 [Info] [Give] Meretrix 1000 x Stones
+17:39 [Info] [Give] Meretrix 1000 x Stones
+17:39 [Info] [Give] Meretrix 1000 x Stones
+17:39 [Info] [Give] Meretrix 1000 x Stones
+17:39 [Info] [Give] Meretrix 1000 x Stones
+17:39 [Info] [Give] Meretrix 1000 x Stones
+17:39 [Info] [Give] Meretrix 1000 x Stones
+17:39 [Info] [Give] Meretrix 1000 x Stones
+17:39 [Info] [Give] Meretrix 1000 x Stones
+17:39 [Info] [Give] Meretrix 1000 x Stones
+17:39 [Info] [Give] Meretrix 1000 x Stones
+17:39 [Info] [Give] Meretrix 1000 x Stones
+17:39 [Info] [Give] Meretrix 1000 x Stones
+17:39 [Info] [Give] Meretrix 1000 x Stones
+17:39 [Info] [Give] Meretrix 1000 x Stones
+17:39 [Info] [Give] Meretrix 1000 x Stones
+17:39 [Info] [Give] Meretrix 1000 x Stones
+17:39 [Info] [Give] Meretrix 1000 x Stones
+17:39 [Info] [Give] Meretrix 1000 x Stones
+17:39 [Info] [Give] Meretrix 1000 x Stones
+17:39 [Info] [Give] Meretrix 1000 x Wood
+17:39 [Info] [Give] Meretrix 1000 x Wood
+17:39 [Info] [Give] Meretrix 1000 x Wood
+17:39 [Info] [Give] Meretrix 1000 x Wood
+17:39 [Info] [Give] Meretrix 1000 x Wood
+17:39 [Info] [Give] Meretrix 1000 x Wood
+17:39 [Info] [Give] Meretrix 1000 x Wood
+17:39 [Info] [Give] Meretrix 1000 x Wood
+17:39 [Info] [Give] Meretrix 1000 x Wood
+17:39 [Info] [Give] Meretrix 1000 x Wood
+17:39 [Info] [Give] Meretrix 1000 x Wood
+17:39 [Info] [Give] Meretrix 1000 x Wood
+17:39 [Info] [Give] Meretrix 1000 x Wood
+17:39 [Info] [Give] Meretrix 1000 x Wood
+17:39 [Info] [Give] Meretrix 1000 x Wood
+17:39 [Info] [Give] Meretrix 1000 x Wood
+17:39 [Info] [Give] Meretrix 1000 x Wood
+17:39 [Info] [Give] Meretrix 1000 x Wood
+17:39 [Info] [Give] Meretrix 1000 x Wood
+17:39 [Info] [Give] Meretrix 1000 x Wood
+17:39 [Info] [Give] Meretrix 1000 x Wood
+17:39 [Info] [Give] Meretrix 1000 x Wood
+17:39 [Info] [Give] Meretrix 1000 x Wood
+17:44 [Info] [Give] Meretrix 1 x Wooden Ladder
+17:56 [Info] [Give] Meretrix 1 x Rocket Launcher
+17:57 [Info] [Give] Meretrix 100 x Rocket
+17:57 [Info] [NTeleportation] Meretrix teleported Smaste to Meretrix.
+18:01 [Info] [Death Notes] Smaste blew up the Bradley APC with their Rocket.
+18:02 [Info] [Give] Meretrix 1 x 12 Gauge Buckshot
+18:04 [Info] [Give] Meretrix 1 x Rocket Launcher
+18:04 [Info] [Give] Meretrix 1000 x High Velocity Rocket
+18:11 [Info] [Give] Meretrix 1 x Counter
+18:15 [Info] [NTeleportation] Smaste teleported back to previous location.
+18:45 [Info] [NTeleportation] Smaste teleported back to previous location.
+18:55 [Info] [Death Notes] Smaste was shredded by the Bradley APC.
+19:00 [Info] [Death Notes] Smaste was shredded by the {killer}.
+19:03 [Info] [Death Notes] Smaste became just a touch too radioactive.
+19:05 [Info] [Give] Smaste 1 x Hazmat Suit
+19:18 [Info] [NTeleportation] Smaste teleported back to previous location.
+19:19 [Info] [Give] Meretrix 1 x Electrical Branch
+19:24 [Info] [NTeleportation] Smaste teleported back to previous location.
+19:29 [Info] [NTeleportation] Smaste teleported back to previous location.
+19:38 [Info] [NTeleportation] Smaste teleported back to previous location.
+19:38 [Info] [Give] Meretrix 1 x Tool Cupboard
+19:38 [Info] [Give] Meretrix 1 x Code Lock
+19:40 [Info] [Death Notes] Smaste blew up the Bradley APC with their .
+19:42 [Info] [NTeleportation] Smaste teleported back to previous location.
+19:47 [Info] [NTeleportation] Smaste teleported back to previous location.
+19:54 [Info] [Give] Meretrix 1 x Blocker
+19:54 [Info] [Give] Meretrix 100 x Blocker
+20:02 [Info] [NTeleportation] Smaste teleported back to previous location.
+20:02 [Info] [NTeleportation] Smaste teleported back to previous location.
+20:03 [Info] [NTeleportation] Smaste teleported back to previous location.
+20:04 [Info] [NTeleportation] Smaste teleported back to previous location.
+20:11 [Info] [Give] Meretrix 1 x Beancan Grenade
+20:11 [Info] [Give] Meretrix 1 x Wooden Ladder
+20:20 [Info] [Give] Meretrix 1 x Switch
+20:40 [Info] [Give] Meretrix 1 x Vending Machine
+20:43 [Info] [NTeleportation] Meretrix teleported Smaste to Meretrix.
+20:44 [Info] [NTeleportation] Smaste teleported back to previous location.
+20:47 [Info] [Death Notes] Smaste shot a Boar using their Assault Rifle over a distance of 16.6 meters.
+20:48 [Info] [Death Notes] Smaste did not want to be a part of the Scientist's experiments.
+20:53 [Info] [Death Notes] Smaste shot a Boar using their Assault Rifle over a distance of 52 meters.
+20:56 [Info] [Give] Meretrix 1 x Counter
+21:06 [Info] [Give] Meretrix 1 x Switch
+21:08 [Info] [NTeleportation] Meretrix teleported Smaste to Meretrix.
+21:16 [Info] [NTeleportation] Smaste teleported back to previous location.
+21:25 [Info] [NTeleportation] Smaste teleported back to previous location.
+21:32 [Info] [NTeleportation] Smaste teleported back to previous location.
+21:43 [Info] [NTeleportation] Smaste teleported back to previous location.
+21:53 [Info] [NTeleportation] Smaste teleported back to previous location.
+21:55 [Info] [NTeleportation] Smaste teleported back to previous location.
+21:56 [Info] [Give] Meretrix 1 x Splitter
+22:02 [Info] [NTeleportation] Smaste teleported back to previous location.
+22:04 [Info] [Death Notes] Smaste did not want to be a part of the Scientist's experiments.
+22:06 [Info] [Death Notes] Smaste shot a Boar using their Assault Rifle over a distance of 13.5 meters.
+22:06 [Info] [NTeleportation] Smaste teleported back to previous location.
+22:22 [Info] [NTeleportation] Smaste teleported back to previous location.
+22:25 [Info] [NTeleportation] Smaste teleported back to previous location.
+22:27 [Info] [NTeleportation] Smaste teleported back to previous location.
+22:29 [Info] [Give] Meretrix 1 x Counter
+22:29 [Info] [Give] Meretrix 1 x Counter
+22:29 [Info] [Give] Meretrix 1 x Counter
+22:32 [Info] [Give] Meretrix 1 x Counter
+22:37 [Info] [Death Notes] ted.lua shot a Chicken using their Thompson over a distance of 1.2 meters.
+22:37 [Info] [NTeleportation] Smaste teleported back to previous location.
+22:39 [Info] [Death Notes] ted.lua shot a Chicken using their Thompson over a distance of 3.2 meters.
+22:39 [Info] [Death Notes] ted.lua shot a Chicken using their Thompson over a distance of 3.5 meters.
+22:39 [Info] [Death Notes] ted.lua shot a Chicken using their Thompson over a distance of 5.8 meters.
+22:48 [Info] [NTeleportation] Smaste teleported back to previous location.
+22:51 [Info] [Give] Meretrix 1 x Switch
+23:01 [Info] [NTeleportation] Smaste teleported back to previous location.
+23:11 [Info] [Death Notes] Smaste was shredded by the Bradley APC.
+23:22 [Info] [NTeleportation] Smaste teleported back to previous location.
+23:23 [Info] [Death Notes] Smaste was shredded by the Bradley APC.
+23:30 [Info] [Death Notes] Smaste was shredded by the Bradley APC.
+23:30 [Info] [Death Notes] Smaste blew up the Bradley APC with their Timed Explosive Charge.

@@ -1,0 +1,363 @@
+00:00 [Info] [Death Notes] Smaste shot Meretrix using their Python Revolver over a distance of 7.1 meters.
+00:00 [Info] [NTeleportation] Meretrix teleported Meretrix to Smaste.
+00:00 [Info] [Death Notes] Smaste shot Meretrix using their Python Revolver over a distance of 4.1 meters.
+00:01 [Info] [Give] Meretrix 1 x Pitchfork
+00:01 [Info] [NTeleportation] [God] Meretrix teleported [God] Meretrix to Smaste.
+00:09 [Info] [Give] [God] Meretrix 1 x Compound Bow
+00:09 [Info] [Give] [God] Meretrix 1000 x Nailgun Nails
+00:10 [Info] [Give] [God] Meretrix 1 x Nailgun
+00:11 [Info] [Death Notes] Smaste shot Meretrix using their Python Revolver over a distance of 16 meters.
+00:11 [Info] [NTeleportation] [God] Meretrix teleported [God] Meretrix to Smaste.
+00:12 [Info] [Give] [God] Meretrix 1 x Mace
+00:13 [Info] [Death Notes] Smaste shot Meretrix using their Python Revolver over a distance of 4.5 meters.
+00:13 [Info] [NTeleportation] Meretrix teleported Meretrix to Smaste.
+00:13 [Info] [Give] [God] Meretrix 1 x Salvaged Sword
+00:17 [Info] [Give] Meretrix 1 x Pitchfork
+00:18 [Info] [Death Notes] Smaste shot Meretrix using their Assault Rifle over a distance of 4.4 meters.
+00:18 [Info] [NTeleportation] [God] Meretrix teleported [God] Meretrix to Smaste.
+00:19 [Info] [Give] [God] Meretrix 1 x Salvaged Cleaver
+00:19 [Info] [NTeleportation] Smaste teleported back to previous location.
+00:19 [Info] [NTeleportation] Meretrix teleported Meretrix to Smaste.
+00:20 [Info] [NTeleportation] [God] Meretrix teleported back to previous location.
+00:25 [Info] [Give] [God] Meretrix 1 x m-facialhair03
+00:25 [Info] [Give] [God] Meretrix 1 x m-hairstyle-1
+00:25 [Info] [Give] [God] Meretrix 1 x m-hairstyle-2
+00:25 [Info] [Give] [God] Meretrix 1 x m-hairstyle-3
+00:25 [Info] [Give] [God] Meretrix 1 x m-hairstyle-4
+00:25 [Info] [Give] [God] Meretrix 1 x m-hairstyle-5
+00:27 [Info] [NTeleportation] [God] Meretrix teleported [God] Meretrix to Smaste.
+00:27 [Info] [NTeleportation] [God] Meretrix teleported back to previous location.
+00:50 [Info] [Give] [God] Meretrix 1 x Nailgun
+00:50 [Info] [Give] [God] Meretrix 1000 x Nailgun Nails
+00:53 [Info] [Give] [God] Meretrix 1 x Compound Bow
+00:54 [Info] [Give] [God] Meretrix 1000 x High Velocity Arrow
+00:56 [Info] [NTeleportation] [God] Meretrix teleported [God] Meretrix to Smaste.
+00:56 [Info] [NTeleportation] [God] Meretrix teleported Smaste to [God] Meretrix.
+00:57 [Info] [Give] [God] Meretrix 1000 x Fire Arrow
+00:57 [Info] [Give] [God] Meretrix 1000 x HV 5.56 Rifle Ammo
+00:58 [Info] [Give] [God] Meretrix 1000 x HV 5.56 Rifle Ammo
+00:58 [Info] [Give] [God] Meretrix 1000 x HV 5.56 Rifle Ammo
+00:58 [Info] [Give] [God] Meretrix 1000 x HV 5.56 Rifle Ammo
+00:59 [Info] [Give] [God] Meretrix 1000 x 5.56 Rifle Ammo
+00:59 [Info] [Give] [God] Meretrix 1000 x 5.56 Rifle Ammo
+01:23 [Info] [Death Notes] Smaste shot Meretrix using their Pump Shotgun over a distance of 1.7 meters.
+01:24 [Info] [NTeleportation] Meretrix teleported Meretrix to Smaste.
+01:24 [Info] [Death Notes] Smaste shot Meretrix using their Python Revolver over a distance of 0.5 meters.
+01:25 [Info] [Give] Meretrix 1 x Butcher Knife
+01:25 [Info] [Give] Meretrix 1 x Candy Cane Club
+01:25 [Info] [Give] Meretrix 1 x Combat Knife
+01:25 [Info] [NTeleportation] Meretrix teleported Meretrix to Smaste.
+01:25 [Info] [Death Notes] Smaste's Flame Turret did its job and killed Smaste.
+01:25 [Info] [Death Notes] Smaste's Flame Turret did its job and killed Meretrix.
+01:25 [Info] [Death Notes] Smaste's Flame Turret did its job and killed Smaste.
+01:25 [Info] [Give] Meretrix 1 x Candy Cane Club
+01:25 [Info] [NTeleportation] Meretrix teleported Meretrix to Smaste.
+01:25 [Info] [Death Notes] Smaste's Flame Turret did its job and killed Meretrix.
+01:26 [Info] [Give] Meretrix 1 x Candy Cane Club
+01:33 [Info] [NTeleportation] Meretrix teleported Smaste to Meretrix.
+01:34 [Info] [Give] [God] Meretrix 1000 x Combat Knife
+01:34 [Info] [Give] [God] Meretrix 1 x Compound Bow
+01:34 [Info] [Give] [God] Meretrix 1000 x Fire Arrow
+01:36 [Info] [NTeleportation] [God] Meretrix teleported back to previous location.
+01:36 [Info] [NTeleportation] [God] Meretrix teleported [God] Meretrix to Smaste.
+01:42 [Info] [Give] [God] Meretrix 1000 x Low Grade Fuel
+01:43 [Info] [Give] [God] Meretrix 200 x Low Grade Fuel
+01:47 [Info] [Death Notes] Smaste shot Meretrix using their L96 Rifle over a distance of 105.7 meters.
+01:47 [Info] [Give] Meretrix 1 x Compound Bow
+01:47 [Info] [Give] Meretrix 1000 x Fire Arrow
+01:48 [Info] [NTeleportation] [God] Meretrix teleported [God] Meretrix to Smaste.
+02:05 [Warning] Calling 'OnTick' on 'RustIO v2.15.0' took 627ms [GARBAGE COLLECT]
+06:54 [Info] [Death Notes] jokerswildj killed a Wolf using their Combat Knife.
+07:25 [Info] [Death Notes] jokerswildj did not want to be a part of the Scientist's experiments.
+07:27 [Info] [Death Notes] jokerswildj did not want to be a part of the Scientist's experiments.
+07:29 [Info] [Death Notes] jokerswildj did not want to be a part of the Scientist's experiments.
+07:30 [Info] [Death Notes] jokerswildj did not want to be a part of the Scientist's experiments.
+07:32 [Info] [Death Notes] jokerswildj did not want to be a part of the Scientist's experiments.
+07:35 [Info] [Death Notes] jokerswildj did not want to be a part of the Scientist's experiments.
+11:20 [Info] [NoDecay] NoDecay.OnEntityTakeDamage took 629.6029 ms to execute.
+11:20 [Warning] Calling 'OnEntityTakeDamage' on 'NoDecay v1.0.32' took 630ms [GARBAGE COLLECT]
+18:04 [Info] [NTeleportation] Smaste teleported back to previous location.
+18:06 [Info] [NTeleportation] Smaste teleported back to previous location.
+18:17 [Info] [NTeleportation] Smaste teleported back to previous location.
+18:23 [Info] [NoDecay] NoDecay.OnEntityTakeDamage took 687.6572 ms to execute.
+18:23 [Warning] Calling 'OnEntityTakeDamage' on 'NoDecay v1.0.32' took 688ms [GARBAGE COLLECT]
+18:44 [Info] [Death Notes] Smaste had no chance against the {killer}.
+20:12 [Info] [Death Notes] Smaste shot a Wolf using their LR-300 Assault Rifle over a distance of 3.8 meters.
+21:10 [Info] [NTeleportation] Smaste teleported back to previous location.
+21:16 [Info] [Give] Meretrix 1 x Flame Thrower
+21:16 [Info] [Give] Meretrix 1 x Flame Thrower
+21:17 [Info] [Give] Meretrix 1000 x Low Grade Fuel
+21:18 [Error] Failed to call hook 'OnPlayerInput' on plugin 'Build v2.0.82' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.Build+PlayerBuild.Execute () [0x00079] in <502e9f00e8b94fbea8db454c51283ff7>:0 
+  at Oxide.Plugins.Build.OnPlayerInput (BasePlayer player, InputState state) [0x00105] in <502e9f00e8b94fbea8db454c51283ff7>:0 
+  at Oxide.Plugins.Build.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x000c2] in <502e9f00e8b94fbea8db454c51283ff7>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <9affce1cd15c4ec183941adef8db1722>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <4452f821def6406d834e4149849fe7ea>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <4452f821def6406d834e4149849fe7ea>:0 
+21:18 [Error] Failed to call hook 'OnPlayerInput' on plugin 'Build v2.0.82' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.Build+PlayerBuild.Execute () [0x00079] in <502e9f00e8b94fbea8db454c51283ff7>:0 
+  at Oxide.Plugins.Build.OnPlayerInput (BasePlayer player, InputState state) [0x00105] in <502e9f00e8b94fbea8db454c51283ff7>:0 
+  at Oxide.Plugins.Build.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x000c2] in <502e9f00e8b94fbea8db454c51283ff7>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <9affce1cd15c4ec183941adef8db1722>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <4452f821def6406d834e4149849fe7ea>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <4452f821def6406d834e4149849fe7ea>:0 
+21:18 [Error] Failed to call hook 'OnPlayerInput' on plugin 'Build v2.0.82' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.Build+PlayerBuild.Execute () [0x00079] in <502e9f00e8b94fbea8db454c51283ff7>:0 
+  at Oxide.Plugins.Build.OnPlayerInput (BasePlayer player, InputState state) [0x00105] in <502e9f00e8b94fbea8db454c51283ff7>:0 
+  at Oxide.Plugins.Build.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x000c2] in <502e9f00e8b94fbea8db454c51283ff7>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <9affce1cd15c4ec183941adef8db1722>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <4452f821def6406d834e4149849fe7ea>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <4452f821def6406d834e4149849fe7ea>:0 
+21:18 [Error] Failed to call hook 'OnPlayerInput' on plugin 'Build v2.0.82' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.Build+PlayerBuild.Execute () [0x00079] in <502e9f00e8b94fbea8db454c51283ff7>:0 
+  at Oxide.Plugins.Build.OnPlayerInput (BasePlayer player, InputState state) [0x00105] in <502e9f00e8b94fbea8db454c51283ff7>:0 
+  at Oxide.Plugins.Build.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x000c2] in <502e9f00e8b94fbea8db454c51283ff7>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <9affce1cd15c4ec183941adef8db1722>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <4452f821def6406d834e4149849fe7ea>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <4452f821def6406d834e4149849fe7ea>:0 
+21:18 [Error] Failed to call hook 'OnPlayerInput' on plugin 'Build v2.0.82' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.Build+PlayerBuild.Execute () [0x00079] in <502e9f00e8b94fbea8db454c51283ff7>:0 
+  at Oxide.Plugins.Build.OnPlayerInput (BasePlayer player, InputState state) [0x00105] in <502e9f00e8b94fbea8db454c51283ff7>:0 
+  at Oxide.Plugins.Build.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x000c2] in <502e9f00e8b94fbea8db454c51283ff7>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <9affce1cd15c4ec183941adef8db1722>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <4452f821def6406d834e4149849fe7ea>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <4452f821def6406d834e4149849fe7ea>:0 
+21:18 [Error] Failed to call hook 'OnPlayerInput' on plugin 'Build v2.0.82' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.Build+PlayerBuild.Execute () [0x00079] in <502e9f00e8b94fbea8db454c51283ff7>:0 
+  at Oxide.Plugins.Build.OnPlayerInput (BasePlayer player, InputState state) [0x00105] in <502e9f00e8b94fbea8db454c51283ff7>:0 
+  at Oxide.Plugins.Build.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x000c2] in <502e9f00e8b94fbea8db454c51283ff7>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <9affce1cd15c4ec183941adef8db1722>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <4452f821def6406d834e4149849fe7ea>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <4452f821def6406d834e4149849fe7ea>:0 
+21:18 [Error] Failed to call hook 'OnPlayerInput' on plugin 'Build v2.0.82' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.Build+PlayerBuild.Execute () [0x00079] in <502e9f00e8b94fbea8db454c51283ff7>:0 
+  at Oxide.Plugins.Build.OnPlayerInput (BasePlayer player, InputState state) [0x00105] in <502e9f00e8b94fbea8db454c51283ff7>:0 
+  at Oxide.Plugins.Build.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x000c2] in <502e9f00e8b94fbea8db454c51283ff7>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <9affce1cd15c4ec183941adef8db1722>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <4452f821def6406d834e4149849fe7ea>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <4452f821def6406d834e4149849fe7ea>:0 
+21:18 [Error] Failed to call hook 'OnPlayerInput' on plugin 'Build v2.0.82' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.Build+PlayerBuild.Execute () [0x00079] in <502e9f00e8b94fbea8db454c51283ff7>:0 
+  at Oxide.Plugins.Build.OnPlayerInput (BasePlayer player, InputState state) [0x00105] in <502e9f00e8b94fbea8db454c51283ff7>:0 
+  at Oxide.Plugins.Build.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x000c2] in <502e9f00e8b94fbea8db454c51283ff7>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <9affce1cd15c4ec183941adef8db1722>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <4452f821def6406d834e4149849fe7ea>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <4452f821def6406d834e4149849fe7ea>:0 
+21:18 [Error] Failed to call hook 'OnPlayerInput' on plugin 'Build v2.0.82' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.Build+PlayerBuild.Execute () [0x00079] in <502e9f00e8b94fbea8db454c51283ff7>:0 
+  at Oxide.Plugins.Build.OnPlayerInput (BasePlayer player, InputState state) [0x00105] in <502e9f00e8b94fbea8db454c51283ff7>:0 
+  at Oxide.Plugins.Build.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x000c2] in <502e9f00e8b94fbea8db454c51283ff7>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <9affce1cd15c4ec183941adef8db1722>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <4452f821def6406d834e4149849fe7ea>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <4452f821def6406d834e4149849fe7ea>:0 
+21:18 [Error] Failed to call hook 'OnPlayerInput' on plugin 'Build v2.0.82' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.Build+PlayerBuild.Execute () [0x00079] in <502e9f00e8b94fbea8db454c51283ff7>:0 
+  at Oxide.Plugins.Build.OnPlayerInput (BasePlayer player, InputState state) [0x00105] in <502e9f00e8b94fbea8db454c51283ff7>:0 
+  at Oxide.Plugins.Build.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x000c2] in <502e9f00e8b94fbea8db454c51283ff7>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <9affce1cd15c4ec183941adef8db1722>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <4452f821def6406d834e4149849fe7ea>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <4452f821def6406d834e4149849fe7ea>:0 
+21:18 [Error] Failed to call hook 'OnPlayerInput' on plugin 'Build v2.0.82' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.Build+PlayerBuild.Execute () [0x00079] in <502e9f00e8b94fbea8db454c51283ff7>:0 
+  at Oxide.Plugins.Build.OnPlayerInput (BasePlayer player, InputState state) [0x00105] in <502e9f00e8b94fbea8db454c51283ff7>:0 
+  at Oxide.Plugins.Build.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x000c2] in <502e9f00e8b94fbea8db454c51283ff7>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <9affce1cd15c4ec183941adef8db1722>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <4452f821def6406d834e4149849fe7ea>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <4452f821def6406d834e4149849fe7ea>:0 
+21:18 [Error] Failed to call hook 'OnPlayerInput' on plugin 'Build v2.0.82' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.Build+PlayerBuild.Execute () [0x00079] in <502e9f00e8b94fbea8db454c51283ff7>:0 
+  at Oxide.Plugins.Build.OnPlayerInput (BasePlayer player, InputState state) [0x00105] in <502e9f00e8b94fbea8db454c51283ff7>:0 
+  at Oxide.Plugins.Build.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x000c2] in <502e9f00e8b94fbea8db454c51283ff7>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <9affce1cd15c4ec183941adef8db1722>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <4452f821def6406d834e4149849fe7ea>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <4452f821def6406d834e4149849fe7ea>:0 
+21:18 [Error] Failed to call hook 'OnPlayerInput' on plugin 'Build v2.0.82' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.Build+PlayerBuild.Execute () [0x00079] in <502e9f00e8b94fbea8db454c51283ff7>:0 
+  at Oxide.Plugins.Build.OnPlayerInput (BasePlayer player, InputState state) [0x00105] in <502e9f00e8b94fbea8db454c51283ff7>:0 
+  at Oxide.Plugins.Build.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x000c2] in <502e9f00e8b94fbea8db454c51283ff7>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <9affce1cd15c4ec183941adef8db1722>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <4452f821def6406d834e4149849fe7ea>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <4452f821def6406d834e4149849fe7ea>:0 
+21:18 [Error] Failed to call hook 'OnPlayerInput' on plugin 'Build v2.0.82' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.Build+PlayerBuild.Execute () [0x00079] in <502e9f00e8b94fbea8db454c51283ff7>:0 
+  at Oxide.Plugins.Build.OnPlayerInput (BasePlayer player, InputState state) [0x00105] in <502e9f00e8b94fbea8db454c51283ff7>:0 
+  at Oxide.Plugins.Build.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x000c2] in <502e9f00e8b94fbea8db454c51283ff7>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <9affce1cd15c4ec183941adef8db1722>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <4452f821def6406d834e4149849fe7ea>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <4452f821def6406d834e4149849fe7ea>:0 
+21:18 [Error] Failed to call hook 'OnPlayerInput' on plugin 'Build v2.0.82' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.Build+PlayerBuild.Execute () [0x00079] in <502e9f00e8b94fbea8db454c51283ff7>:0 
+  at Oxide.Plugins.Build.OnPlayerInput (BasePlayer player, InputState state) [0x00105] in <502e9f00e8b94fbea8db454c51283ff7>:0 
+  at Oxide.Plugins.Build.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x000c2] in <502e9f00e8b94fbea8db454c51283ff7>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <9affce1cd15c4ec183941adef8db1722>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <4452f821def6406d834e4149849fe7ea>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <4452f821def6406d834e4149849fe7ea>:0 
+21:18 [Error] Failed to call hook 'OnPlayerInput' on plugin 'Build v2.0.82' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.Build+PlayerBuild.Execute () [0x00079] in <502e9f00e8b94fbea8db454c51283ff7>:0 
+  at Oxide.Plugins.Build.OnPlayerInput (BasePlayer player, InputState state) [0x00105] in <502e9f00e8b94fbea8db454c51283ff7>:0 
+  at Oxide.Plugins.Build.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x000c2] in <502e9f00e8b94fbea8db454c51283ff7>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <9affce1cd15c4ec183941adef8db1722>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <4452f821def6406d834e4149849fe7ea>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <4452f821def6406d834e4149849fe7ea>:0 
+21:18 [Error] Failed to call hook 'OnPlayerInput' on plugin 'Build v2.0.82' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.Build+PlayerBuild.Execute () [0x00079] in <502e9f00e8b94fbea8db454c51283ff7>:0 
+  at Oxide.Plugins.Build.OnPlayerInput (BasePlayer player, InputState state) [0x00105] in <502e9f00e8b94fbea8db454c51283ff7>:0 
+  at Oxide.Plugins.Build.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x000c2] in <502e9f00e8b94fbea8db454c51283ff7>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <9affce1cd15c4ec183941adef8db1722>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <4452f821def6406d834e4149849fe7ea>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <4452f821def6406d834e4149849fe7ea>:0 
+21:18 [Error] Failed to call hook 'OnPlayerInput' on plugin 'Build v2.0.82' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.Build+PlayerBuild.Execute () [0x00079] in <502e9f00e8b94fbea8db454c51283ff7>:0 
+  at Oxide.Plugins.Build.OnPlayerInput (BasePlayer player, InputState state) [0x00105] in <502e9f00e8b94fbea8db454c51283ff7>:0 
+  at Oxide.Plugins.Build.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x000c2] in <502e9f00e8b94fbea8db454c51283ff7>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <9affce1cd15c4ec183941adef8db1722>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <4452f821def6406d834e4149849fe7ea>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <4452f821def6406d834e4149849fe7ea>:0 
+21:18 [Error] Failed to call hook 'OnPlayerInput' on plugin 'Build v2.0.82' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.Build+PlayerBuild.Execute () [0x00079] in <502e9f00e8b94fbea8db454c51283ff7>:0 
+  at Oxide.Plugins.Build.OnPlayerInput (BasePlayer player, InputState state) [0x00105] in <502e9f00e8b94fbea8db454c51283ff7>:0 
+  at Oxide.Plugins.Build.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x000c2] in <502e9f00e8b94fbea8db454c51283ff7>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <9affce1cd15c4ec183941adef8db1722>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <4452f821def6406d834e4149849fe7ea>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <4452f821def6406d834e4149849fe7ea>:0 
+21:18 [Error] Failed to call hook 'OnPlayerInput' on plugin 'Build v2.0.82' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.Build+PlayerBuild.Execute () [0x00079] in <502e9f00e8b94fbea8db454c51283ff7>:0 
+  at Oxide.Plugins.Build.OnPlayerInput (BasePlayer player, InputState state) [0x00105] in <502e9f00e8b94fbea8db454c51283ff7>:0 
+  at Oxide.Plugins.Build.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x000c2] in <502e9f00e8b94fbea8db454c51283ff7>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <9affce1cd15c4ec183941adef8db1722>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <4452f821def6406d834e4149849fe7ea>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <4452f821def6406d834e4149849fe7ea>:0 
+21:18 [Error] Failed to call hook 'OnPlayerInput' on plugin 'Build v2.0.82' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.Build+PlayerBuild.Execute () [0x00079] in <502e9f00e8b94fbea8db454c51283ff7>:0 
+  at Oxide.Plugins.Build.OnPlayerInput (BasePlayer player, InputState state) [0x00105] in <502e9f00e8b94fbea8db454c51283ff7>:0 
+  at Oxide.Plugins.Build.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x000c2] in <502e9f00e8b94fbea8db454c51283ff7>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <9affce1cd15c4ec183941adef8db1722>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <4452f821def6406d834e4149849fe7ea>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <4452f821def6406d834e4149849fe7ea>:0 
+21:18 [Error] Failed to call hook 'OnPlayerInput' on plugin 'Build v2.0.82' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.Build+PlayerBuild.Execute () [0x00079] in <502e9f00e8b94fbea8db454c51283ff7>:0 
+  at Oxide.Plugins.Build.OnPlayerInput (BasePlayer player, InputState state) [0x00105] in <502e9f00e8b94fbea8db454c51283ff7>:0 
+  at Oxide.Plugins.Build.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x000c2] in <502e9f00e8b94fbea8db454c51283ff7>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <9affce1cd15c4ec183941adef8db1722>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <4452f821def6406d834e4149849fe7ea>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <4452f821def6406d834e4149849fe7ea>:0 
+21:19 [Error] Failed to call hook 'OnPlayerInput' on plugin 'Build v2.0.82' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.Build+PlayerBuild.Execute () [0x00079] in <502e9f00e8b94fbea8db454c51283ff7>:0 
+  at Oxide.Plugins.Build.OnPlayerInput (BasePlayer player, InputState state) [0x00105] in <502e9f00e8b94fbea8db454c51283ff7>:0 
+  at Oxide.Plugins.Build.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x000c2] in <502e9f00e8b94fbea8db454c51283ff7>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <9affce1cd15c4ec183941adef8db1722>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <4452f821def6406d834e4149849fe7ea>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <4452f821def6406d834e4149849fe7ea>:0 
+21:19 [Error] Failed to call hook 'OnPlayerInput' on plugin 'Build v2.0.82' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.Build+PlayerBuild.Execute () [0x00079] in <502e9f00e8b94fbea8db454c51283ff7>:0 
+  at Oxide.Plugins.Build.OnPlayerInput (BasePlayer player, InputState state) [0x00105] in <502e9f00e8b94fbea8db454c51283ff7>:0 
+  at Oxide.Plugins.Build.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x000c2] in <502e9f00e8b94fbea8db454c51283ff7>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <9affce1cd15c4ec183941adef8db1722>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <4452f821def6406d834e4149849fe7ea>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <4452f821def6406d834e4149849fe7ea>:0 
+21:19 [Error] Failed to call hook 'OnPlayerInput' on plugin 'Build v2.0.82' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.Build+PlayerBuild.Execute () [0x00079] in <502e9f00e8b94fbea8db454c51283ff7>:0 
+  at Oxide.Plugins.Build.OnPlayerInput (BasePlayer player, InputState state) [0x00105] in <502e9f00e8b94fbea8db454c51283ff7>:0 
+  at Oxide.Plugins.Build.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x000c2] in <502e9f00e8b94fbea8db454c51283ff7>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <9affce1cd15c4ec183941adef8db1722>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <4452f821def6406d834e4149849fe7ea>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <4452f821def6406d834e4149849fe7ea>:0 
+21:19 [Error] Failed to call hook 'OnPlayerInput' on plugin 'Build v2.0.82' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.Build+PlayerBuild.Execute () [0x00079] in <502e9f00e8b94fbea8db454c51283ff7>:0 
+  at Oxide.Plugins.Build.OnPlayerInput (BasePlayer player, InputState state) [0x00105] in <502e9f00e8b94fbea8db454c51283ff7>:0 
+  at Oxide.Plugins.Build.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x000c2] in <502e9f00e8b94fbea8db454c51283ff7>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <9affce1cd15c4ec183941adef8db1722>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <4452f821def6406d834e4149849fe7ea>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <4452f821def6406d834e4149849fe7ea>:0 
+21:19 [Error] Failed to call hook 'OnPlayerInput' on plugin 'Build v2.0.82' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.Build+PlayerBuild.Execute () [0x00079] in <502e9f00e8b94fbea8db454c51283ff7>:0 
+  at Oxide.Plugins.Build.OnPlayerInput (BasePlayer player, InputState state) [0x00105] in <502e9f00e8b94fbea8db454c51283ff7>:0 
+  at Oxide.Plugins.Build.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x000c2] in <502e9f00e8b94fbea8db454c51283ff7>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <9affce1cd15c4ec183941adef8db1722>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <4452f821def6406d834e4149849fe7ea>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <4452f821def6406d834e4149849fe7ea>:0 
+21:19 [Error] Failed to call hook 'OnPlayerInput' on plugin 'Build v2.0.82' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.Build+PlayerBuild.Execute () [0x00079] in <502e9f00e8b94fbea8db454c51283ff7>:0 
+  at Oxide.Plugins.Build.OnPlayerInput (BasePlayer player, InputState state) [0x00105] in <502e9f00e8b94fbea8db454c51283ff7>:0 
+  at Oxide.Plugins.Build.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x000c2] in <502e9f00e8b94fbea8db454c51283ff7>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <9affce1cd15c4ec183941adef8db1722>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <4452f821def6406d834e4149849fe7ea>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <4452f821def6406d834e4149849fe7ea>:0 
+21:19 [Error] Failed to call hook 'OnPlayerInput' on plugin 'Build v2.0.82' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.Build+PlayerBuild.Execute () [0x00079] in <502e9f00e8b94fbea8db454c51283ff7>:0 
+  at Oxide.Plugins.Build.OnPlayerInput (BasePlayer player, InputState state) [0x00105] in <502e9f00e8b94fbea8db454c51283ff7>:0 
+  at Oxide.Plugins.Build.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x000c2] in <502e9f00e8b94fbea8db454c51283ff7>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <9affce1cd15c4ec183941adef8db1722>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <4452f821def6406d834e4149849fe7ea>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <4452f821def6406d834e4149849fe7ea>:0 
+21:19 [Error] Failed to call hook 'OnPlayerInput' on plugin 'Build v2.0.82' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.Build+PlayerBuild.Execute () [0x00079] in <502e9f00e8b94fbea8db454c51283ff7>:0 
+  at Oxide.Plugins.Build.OnPlayerInput (BasePlayer player, InputState state) [0x00105] in <502e9f00e8b94fbea8db454c51283ff7>:0 
+  at Oxide.Plugins.Build.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x000c2] in <502e9f00e8b94fbea8db454c51283ff7>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <9affce1cd15c4ec183941adef8db1722>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <4452f821def6406d834e4149849fe7ea>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <4452f821def6406d834e4149849fe7ea>:0 
+21:20 [Info] [NTeleportation] Meretrix teleported Smaste to Meretrix.
+21:21 [Info] [Give] Meretrix 1000 x Low Grade Fuel
+21:21 [Info] [Give] Meretrix 1000 x Low Grade Fuel
+21:21 [Info] [NTeleportation] Meretrix teleported Smaste to Meretrix.
+21:23 [Info] [Give] [God] Meretrix 1 x LR-300 Assault Rifle
+21:23 [Info] [Give] [God] Meretrix 1 x Explosive 5.56 Rifle Ammo
+21:23 [Info] [Give] [God] Meretrix 1000 x Explosive 5.56 Rifle Ammo
+21:25 [Info] [Give] Meretrix 1000 x Medical Syringe
+21:26 [Info] [Give] Meretrix 1 x L96 Rifle
+21:27 [Info] [Give] Meretrix 1 x LR-300 Assault Rifle
+21:27 [Info] [Death Notes] Meretrix had no chance against the Helicopter.
+21:27 [Info] [NTeleportation] Meretrix teleported Meretrix to Smaste.
+21:28 [Info] [Death Notes] Smaste had no chance against the Helicopter.
+21:28 [Info] [Death Notes] Meretrix had no chance against the Helicopter.
+21:30 [Info] [Give] Meretrix 1 x M249
+21:30 [Info] [Give] Meretrix 1000 x Explosive 5.56 Rifle Ammo
+21:31 [Info] [Give] [God] Meretrix 1000 x Low Grade Fuel
+21:31 [Info] [Give] [God] Meretrix 1000 x Low Grade Fuel
+21:31 [Info] [Give] [God] Meretrix 1000 x Low Grade Fuel
+21:31 [Info] [Give] [God] Meretrix 1000 x Low Grade Fuel
+21:31 [Info] [Give] [God] Meretrix 1000 x Low Grade Fuel
+21:31 [Info] [NTeleportation] [God] Meretrix teleported Smaste to [God] Meretrix.
+21:35 [Info] [Give] [God] Meretrix 1 x Tactical Gloves
+21:35 [Info] [Give] [God] Meretrix 1 x Metal Chest Plate
+21:35 [Info] [Give] [God] Meretrix 1 x Metal Facemask
+21:35 [Info] [Give] [God] Meretrix 1 x Riot Helmet
+21:35 [Info] [Give] [God] Meretrix 1 x Boots
+21:35 [Info] [Give] [God] Meretrix 1 x Clatter Helmet
+21:35 [Info] [Give] [God] Meretrix 1 x Jacket
+21:35 [Info] [Give] [God] Meretrix 1 x Heavy Scientist Suit
+21:37 [Info] [Give] [God] Meretrix 1 x Road Sign Jacket
+21:37 [Info] [Give] [God] Meretrix 1 x Road Sign Kilt
+21:37 [Info] [Give] [God] Meretrix 1 x Roadsign Gloves
+21:38 [Info] [Give] [God] Meretrix 1 x Pants
+21:39 [Info] [NTeleportation] Meretrix teleported Meretrix to Smaste.
+21:41 [Info] [NTeleportation] Meretrix teleported Meretrix to Smaste.
+21:42 [Info] [Death Notes] Meretrix had no chance against the {killer}.
+21:42 [Info] [Give] Meretrix 1000 x Explosive 5.56 Rifle Ammo
+21:42 [Info] [Give] Meretrix 1 x LR-300 Assault Rifle
+21:42 [Info] [Give] Meretrix 1 x LR-300 Assault Rifle
+21:42 [Info] [Give] Meretrix 1 x LR-300 Assault Rifle
+21:42 [Info] [Give] Meretrix 1 x LR-300 Assault Rifle
+21:42 [Info] [Give] Meretrix 1000 x Explosive 5.56 Rifle Ammo
+21:42 [Info] [Give] Meretrix 1000 x Explosive 5.56 Rifle Ammo
+21:42 [Info] [Give] Meretrix 1 x Heavy Scientist Suit
+21:43 [Info] [NTeleportation] Meretrix teleported Meretrix to Smaste.
+21:43 [Info] [Give] Meretrix 100 x Medical Syringe
+21:43 [Info] [Death Notes] Meretrix had no chance against the Helicopter.
+21:43 [Info] [NTeleportation] Meretrix teleported Meretrix to Smaste.
+21:45 [Info] [Death Notes] Smaste had no chance against the {killer}.
+21:47 [Info] [Death Notes] Meretrix burned to death.
+21:47 [Info] [NTeleportation] Meretrix teleported Meretrix to Smaste.
+21:48 [Info] [Give] Meretrix 100 x Medical Syringe
+21:50 [Info] [NTeleportation] [God] Meretrix teleported Smaste to [God] Meretrix.
+21:52 [Info] [Give] Meretrix 1000 x HV 5.56 Rifle Ammo
+21:52 [Info] [Give] Meretrix 1 x LR-300 Assault Rifle
+21:52 [Info] [Give] Meretrix 1 x LR-300 Assault Rifle
+21:52 [Info] [Give] Meretrix 1 x LR-300 Assault Rifle
+21:52 [Info] [Give] Meretrix 1 x LR-300 Assault Rifle
+21:52 [Info] [Give] Meretrix 1 x LR-300 Assault Rifle
+21:54 [Info] [Give] Meretrix 100 x HV 5.56 Rifle Ammo
+21:54 [Info] [Give] Meretrix 100 x HV 5.56 Rifle Ammo
+22:36 [Info] [NTeleportation] Smaste teleported back to previous location.
+23:37 [Info] [Death Notes] Smaste blew up the Bradley APC with their Rocket.

@@ -1,0 +1,81 @@
+[12:46:04] INFO > Meretrix: Opened the menu
+[08:05:48] INFO > Meretrix: Opened the menu
+[08:05:53] INFO > Meretrix: Healed user ID 76561198060894633 for 100 points
+[08:08:08] INFO > Meretrix: Opened the menu
+[08:08:11] INFO > Meretrix: Healed user ID 76561198060894633 for 100 points
+[08:08:13] INFO > Meretrix: Recovered the metabolism of user ID 76561198060894633
+[08:08:14] INFO > Meretrix: Healed user ID 76561198060894633 for 100 points
+[08:08:16] INFO > Meretrix: Recovered the metabolism of user ID 76561198060894633
+[08:08:18] INFO > Meretrix: Healed user ID 76561198060894633 for 100 points
+[08:08:20] INFO > Meretrix: Recovered the metabolism of user ID 76561198060894633
+[08:08:38] INFO > Meretrix: Opened the menu
+[08:08:42] INFO > Meretrix: Recovered the metabolism of user ID 76561198060894633
+[08:08:45] INFO > Meretrix: Healed user ID 76561198060894633 for 100 points
+[08:08:49] INFO > Meretrix: Healed user ID 76561198060894633 for 100 points
+[08:08:55] INFO > Meretrix: Healed user ID 76561198060894633 for 100 points
+[08:09:01] INFO > Meretrix: Healed user ID 76561198060894633 for 100 points
+[08:09:12] INFO > Meretrix: Healed user ID 76561198060894633 for 100 points
+[08:09:16] INFO > Meretrix: Healed user ID 76561198060894633 for 100 points
+[08:09:24] INFO > Meretrix: Healed user ID 76561198060894633 for 100 points
+[08:09:26] INFO > Meretrix: Recovered the metabolism of user ID 76561198060894633
+[08:09:28] INFO > Meretrix: Healed user ID 76561198060894633 for 100 points
+[08:09:45] INFO > Meretrix: Healed user ID 76561198060894633 for 100 points
+[08:09:47] INFO > Meretrix: Recovered the metabolism of user ID 76561198060894633
+[08:09:52] INFO > Meretrix: Healed user ID 76561198060894633 for 100 points
+[08:09:54] INFO > Meretrix: Recovered the metabolism of user ID 76561198060894633
+[08:09:58] INFO > Meretrix: Healed user ID 76561198060894633 for 100 points
+[08:10:01] INFO > Meretrix: Recovered the metabolism of user ID 76561198060894633
+[08:10:06] INFO > Meretrix: Healed user ID 76561198060894633 for 100 points
+[08:10:09] INFO > Meretrix: Recovered the metabolism of user ID 76561198060894633
+[08:10:14] INFO > Meretrix: Healed user ID 76561198060894633 for 100 points
+[08:10:17] INFO > Meretrix: Recovered the metabolism of user ID 76561198060894633
+[08:10:23] INFO > Meretrix: Healed user ID 76561198060894633 for 100 points
+[08:10:31] INFO > Meretrix: Healed user ID 76561198060894633 for 100 points
+[08:10:35] INFO > Meretrix: Recovered the metabolism of user ID 76561198060894633
+[08:10:36] INFO > Meretrix: Healed user ID 76561198060894633 for 100 points
+[08:10:44] INFO > Meretrix: Recovered the metabolism of user ID 76561198060894633
+[08:10:46] INFO > Meretrix: Healed user ID 76561198060894633 for 100 points
+[08:10:57] INFO > Meretrix: Recovered the metabolism of user ID 76561198060894633
+[08:11:11] INFO > Meretrix: Opened the menu
+[08:11:14] INFO > Meretrix: Healed user ID 76561198060894633 for 100 points
+[08:11:19] INFO > Meretrix: Healed user ID 76561198060894633 for 100 points
+[08:11:22] INFO > Meretrix: Healed user ID 76561198060894633 for 100 points
+[08:11:24] INFO > Meretrix: Recovered the metabolism of user ID 76561198060894633
+[08:11:25] INFO > Meretrix: Healed user ID 76561198060894633 for 100 points
+[08:22:35] INFO > Meretrix: Opened the menu
+[08:22:38] INFO > Meretrix: Recovered the metabolism of user ID 76561198060894633
+[08:22:39] INFO > Meretrix: Healed user ID 76561198060894633 for 100 points
+[08:27:17] INFO > Meretrix: Opened the menu
+[08:27:21] INFO > Meretrix: Recovered the metabolism of user ID 76561198060894633
+[08:27:23] INFO > Meretrix: Healed user ID 76561198060894633 for 100 points
+[08:28:17] INFO > Meretrix: Opened the menu
+[08:28:22] INFO > Meretrix: Recovered the metabolism of user ID 76561198060894633
+[08:28:24] INFO > Meretrix: Healed user ID 76561198060894633 for 100 points
+[09:23:50] INFO > Meretrix: Opened the menu
+[09:23:53] INFO > Meretrix: Recovered the metabolism of user ID 76561198060894633
+[09:23:54] INFO > Meretrix: Healed user ID 76561198060894633 for 100 points
+[09:32:07] INFO > Meretrix: Opened the menu
+[09:32:14] INFO > Meretrix: Healed user ID 76561198060894633 for 100 points
+[09:32:16] INFO > Meretrix: Recovered the metabolism of user ID 76561198060894633
+[10:45:20] INFO > Meretrix: Opened the menu
+[10:45:23] INFO > Meretrix: Healed user ID 76561198066315183 for 100 points
+[10:47:19] INFO > Meretrix: Opened the menu
+[10:47:24] INFO > Meretrix: Healed user ID 76561198066315183 for 100 points
+[10:47:25] INFO > Meretrix: Recovered the metabolism of user ID 76561198066315183
+[10:47:30] INFO > Meretrix: Healed user ID 76561198060894633 for 100 points
+[10:47:32] INFO > Meretrix: Recovered the metabolism of user ID 76561198060894633
+[10:49:01] INFO > Meretrix: Opened the menu
+[10:49:05] INFO > Meretrix: Healed user ID 76561198066315183 for 100 points
+[10:49:06] INFO > Meretrix: Recovered the metabolism of user ID 76561198066315183
+[10:49:49] INFO > Meretrix: Opened the menu
+[10:49:52] INFO > Meretrix: Healed user ID 76561198066315183 for 100 points
+[10:49:53] INFO > Meretrix: Recovered the metabolism of user ID 76561198066315183
+[10:49:57] INFO > Meretrix: Healed user ID 76561198060894633 for 100 points
+[10:49:58] INFO > Meretrix: Recovered the metabolism of user ID 76561198060894633
+[10:51:52] INFO > Meretrix: Opened the menu
+[10:51:56] INFO > Meretrix: Healed user ID 76561198060894633 for 100 points
+[10:51:58] INFO > Meretrix: Recovered the metabolism of user ID 76561198060894633
+[10:52:02] INFO > Meretrix: Healed user ID 76561198066315183 for 100 points
+[10:52:03] INFO > Meretrix: Recovered the metabolism of user ID 76561198066315183
+[10:53:36] INFO > Meretrix: Opened the menu
+[10:53:41] INFO > Meretrix: Healed user ID 76561198066315183 for 100 points

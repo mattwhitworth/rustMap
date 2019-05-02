@@ -1,0 +1,36 @@
+[12:34:46] INFO > Meretrix: Opened the menu
+[12:34:53] INFO > Smaste: Teleported to admin Meretrix
+[12:58:18] INFO > Meretrix: Opened the menu
+[12:58:22] INFO > Meretrix: Healed user ID 76561198060894633 for 0 points
+[12:58:24] INFO > Meretrix: Recovered the metabolism of user ID 76561198060894633
+[12:58:26] INFO > Meretrix: Recovered the metabolism of user ID 76561198060894633
+[01:56:43] INFO > Meretrix: Opened the menu
+[01:56:49] INFO > Meretrix: Healed user ID 76561198060894633 for 0 points
+[01:56:52] INFO > Meretrix: Recovered the metabolism of user ID 76561198060894633
+[04:38:11] INFO > Meretrix: Opened the menu
+[04:38:16] INFO > Meretrix: Recovered the metabolism of user ID 76561198066315183
+[04:38:18] INFO > Meretrix: Healed user ID 76561198066315183 for 0 points
+[04:38:19] INFO > Meretrix: Healed user ID 76561198066315183 for 0 points
+[04:38:21] INFO > Meretrix: Healed user ID 76561198066315183 for 0 points
+[03:53:14] INFO > Meretrix: Opened the menu
+[03:53:28] INFO > Meretrix: Healed user ID 76561198060894633 for 25 points
+[03:53:32] INFO > Meretrix: Hurt user ID 76561198060894633 for 50 points
+[03:53:34] INFO > Meretrix: Healed user ID 76561198060894633 for 100 points
+[03:53:40] INFO > Meretrix: Hurt user ID 76561198106826862 for 25 points
+[03:53:42] INFO > Meretrix: Healed user ID 76561198106826862 for 100 points
+[03:53:46] INFO > Meretrix: Hurt user ID 76561198106826862 for 75 points
+[03:53:48] INFO > Meretrix: Healed user ID 76561198106826862 for 100 points
+[03:53:49] INFO > Meretrix: Hurt user ID 76561198106826862 for 25 points
+[03:53:51] INFO > Meretrix: Hurt user ID 76561198106826862 for 25 points
+[03:53:52] INFO > Meretrix: Hurt user ID 76561198106826862 for 25 points
+[03:53:54] INFO > Meretrix: Healed user ID 76561198106826862 for 25 points
+[03:53:56] INFO > Meretrix: Healed user ID 76561198106826862 for 100 points
+[03:53:58] INFO > Meretrix: Recovered the metabolism of user ID 76561198106826862
+[03:54:03] INFO > Meretrix: Recovered the metabolism of user ID 76561198060894633
+[03:55:21] INFO > Meretrix: Opened the menu
+[03:55:26] INFO > Meretrix: Healed user ID 76561198060894633 for 25 points
+[03:58:35] INFO > Meretrix: Opened the menu
+[03:58:40] INFO > Meretrix: Healed user ID 76561198106826862 for 0 points
+[03:58:44] INFO > Meretrix: Healed user ID 76561198106826862 for 0 points
+[03:58:46] INFO > Meretrix: Healed user ID 76561198106826862 for 100 points
+[03:58:50] INFO > Meretrix: Healed user ID 76561198060894633 for 100 points

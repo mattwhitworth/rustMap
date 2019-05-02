@@ -1,0 +1,484 @@
+00:02 [Info] [NTeleportation] Smaste teleported back to previous location.
+00:06 [Info] [Death Notes] Smaste shot a Wolf using their Assault Rifle over a distance of 1.3 meters.
+00:46 [Info] [NTeleportation] Smaste teleported back to previous location.
+00:55 [Info] [NTeleportation] Smaste teleported back to previous location.
+01:04 [Info] [NTeleportation] Smaste teleported back to previous location.
+01:13 [Info] [NTeleportation] Smaste teleported back to previous location.
+01:15 [Info] [NTeleportation] Smaste teleported back to previous location.
+01:21 [Info] [NTeleportation] Smaste teleported back to previous location.
+01:21 [Info] [NTeleportation] Smaste teleported back to previous location.
+01:33 [Info] [NTeleportation] Smaste teleported back to previous location.
+01:40 [Info] [NTeleportation] Smaste teleported back to previous location.
+01:49 [Info] [NTeleportation] Smaste teleported back to previous location.
+01:59 [Info] [NTeleportation] Smaste teleported back to previous location.
+02:08 [Info] [NTeleportation] Smaste teleported back to previous location.
+02:40 [Info] [NTeleportation] Smaste teleported back to previous location.
+02:54 [Info] [NTeleportation] Smaste teleported back to previous location.
+03:06 [Info] [NTeleportation] Smaste teleported back to previous location.
+03:14 [Info] [NTeleportation] Smaste teleported back to previous location.
+03:22 [Info] [NTeleportation] Smaste teleported back to previous location.
+03:32 [Info] [NTeleportation] Smaste teleported back to previous location.
+03:35 [Info] [NTeleportation] Smaste teleported back to previous location.
+03:40 [Info] [NTeleportation] Smaste teleported back to previous location.
+03:51 [Info] [NTeleportation] Smaste teleported back to previous location.
+03:54 [Info] [NTeleportation] Smaste teleported back to previous location.
+03:59 [Info] [NTeleportation] Smaste teleported back to previous location.
+04:07 [Info] [NTeleportation] Smaste teleported back to previous location.
+04:10 [Info] [NTeleportation] Smaste teleported back to previous location.
+04:28 [Info] [NTeleportation] Smaste teleported back to previous location.
+04:36 [Info] [NTeleportation] Smaste teleported back to previous location.
+04:39 [Info] [NTeleportation] Smaste teleported back to previous location.
+06:14 [Info] [NTeleportation] Smaste teleported back to previous location.
+06:26 [Info] [NTeleportation] Smaste teleported back to previous location.
+06:28 [Info] [NTeleportation] Smaste teleported back to previous location.
+06:33 [Info] [NTeleportation] Smaste teleported back to previous location.
+06:40 [Info] [NTeleportation] Smaste teleported back to previous location.
+06:53 [Info] [NTeleportation] Smaste teleported back to previous location.
+07:06 [Info] [NTeleportation] Smaste teleported back to previous location.
+07:10 [Info] [NTeleportation] Smaste teleported back to previous location.
+07:24 [Info] [NTeleportation] Smaste teleported back to previous location.
+07:30 [Info] [NTeleportation] Smaste teleported back to previous location.
+07:39 [Info] [NTeleportation] Smaste teleported back to previous location.
+07:45 [Info] [NTeleportation] Smaste teleported back to previous location.
+07:48 [Info] [NTeleportation] Smaste teleported back to previous location.
+07:50 [Info] [NTeleportation] Smaste teleported back to previous location.
+07:51 [Info] [NTeleportation] Smaste teleported back to previous location.
+07:55 [Info] [NTeleportation] Smaste teleported back to previous location.
+08:00 [Info] [NTeleportation] Smaste teleported back to previous location.
+08:02 [Info] [NTeleportation] Smaste teleported back to previous location.
+08:04 [Info] [NTeleportation] Smaste teleported back to previous location.
+08:08 [Info] [NTeleportation] Smaste teleported back to previous location.
+08:10 [Warning] Calling 'OnTick' on 'RustIO v2.15.0' took 525ms [GARBAGE COLLECT]
+08:17 [Info] [NTeleportation] Smaste teleported back to previous location.
+08:23 [Info] [NTeleportation] Smaste teleported back to previous location.
+08:28 [Info] [NTeleportation] Smaste teleported back to previous location.
+08:31 [Info] [NTeleportation] Smaste teleported back to previous location.
+08:37 [Info] [NTeleportation] Smaste teleported back to previous location.
+08:41 [Info] [NTeleportation] Smaste teleported back to previous location.
+08:45 [Info] [NTeleportation] Smaste teleported back to previous location.
+08:46 [Info] [NTeleportation] Smaste teleported back to previous location.
+08:50 [Info] [Death Notes] Smaste shot a Boar using their Bolt Action Rifle over a distance of 12.8 meters.
+08:51 [Info] [NTeleportation] Smaste teleported back to previous location.
+09:14 [Info] [NTeleportation] Smaste teleported back to previous location.
+09:48 [Info] [NTeleportation] Smaste teleported back to previous location.
+09:52 [Info] [NTeleportation] Smaste teleported back to previous location.
+10:00 [Info] [NTeleportation] Smaste teleported back to previous location.
+10:12 [Info] [NTeleportation] Smaste teleported back to previous location.
+10:24 [Info] [NTeleportation] Smaste teleported back to previous location.
+10:27 [Info] [NTeleportation] Smaste teleported back to previous location.
+10:34 [Info] [NTeleportation] Smaste teleported back to previous location.
+10:41 [Info] [NTeleportation] Smaste teleported back to previous location.
+10:50 [Info] [NTeleportation] Smaste teleported back to previous location.
+10:54 [Info] [NTeleportation] Smaste teleported back to previous location.
+11:00 [Info] [NTeleportation] Smaste teleported back to previous location.
+11:03 [Info] [NTeleportation] Smaste teleported back to previous location.
+11:05 [Info] [NTeleportation] Smaste teleported back to previous location.
+11:13 [Info] [NTeleportation] Smaste teleported back to previous location.
+11:30 [Info] [NTeleportation] Smaste teleported back to previous location.
+11:37 [Info] [NTeleportation] Smaste teleported back to previous location.
+11:42 [Info] [NTeleportation] Smaste teleported back to previous location.
+11:54 [Info] [NTeleportation] Smaste teleported back to previous location.
+12:00 [Info] [NTeleportation] Smaste teleported back to previous location.
+12:06 [Info] [NTeleportation] Smaste teleported back to previous location.
+12:10 [Info] [NTeleportation] Smaste teleported back to previous location.
+12:14 [Info] [NTeleportation] Smaste teleported back to previous location.
+12:16 [Info] [Death Notes] Smaste did not want to be a part of the Scientist's experiments.
+12:17 [Info] [Death Notes] Smaste did not want to be a part of the Scientist's experiments.
+12:19 [Info] [NTeleportation] Smaste teleported back to previous location.
+12:55 [Info] [NTeleportation] Smaste teleported back to previous location.
+13:14 [Info] [NTeleportation] Smaste teleported back to previous location.
+13:20 [Info] [NTeleportation] Smaste teleported back to previous location.
+13:24 [Info] [NTeleportation] Smaste teleported back to previous location.
+13:38 [Info] [NTeleportation] Smaste teleported back to previous location.
+13:54 [Info] [NTeleportation] Smaste teleported back to previous location.
+13:57 [Info] [NTeleportation] Smaste teleported back to previous location.
+13:59 [Info] [NTeleportation] Smaste teleported back to previous location.
+14:05 [Info] [NTeleportation] Smaste teleported back to previous location.
+14:18 [Info] [Death Notes] Smaste shot a Stag using their Bolt Action Rifle over a distance of 88.1 meters.
+14:21 [Info] [NTeleportation] Smaste teleported back to previous location.
+14:24 [Info] [NTeleportation] Smaste teleported back to previous location.
+14:34 [Info] [NTeleportation] Smaste teleported back to previous location.
+14:41 [Info] [Death Notes] jokerswildj shot a Boar using their Custom SMG over a distance of 2.8 meters.
+14:51 [Info] [NTeleportation] Smaste teleported back to previous location.
+15:00 [Info] [NTeleportation] Smaste teleported back to previous location.
+15:03 [Info] [NTeleportation] Smaste teleported back to previous location.
+15:15 [Warning] Calling 'OnTick' on 'RustIO v2.15.0' took 538ms [GARBAGE COLLECT]
+15:19 [Info] [NTeleportation] Smaste teleported back to previous location.
+15:20 [Info] [NTeleportation] Smaste teleported back to previous location.
+15:22 [Info] [NTeleportation] Smaste teleported back to previous location.
+15:23 [Info] [NTeleportation] Smaste teleported back to previous location.
+15:25 [Info] [NTeleportation] Smaste teleported back to previous location.
+15:27 [Info] [NTeleportation] Smaste teleported back to previous location.
+15:35 [Info] [NTeleportation] Smaste teleported back to previous location.
+15:38 [Info] [NTeleportation] jokerswildj teleported back to previous location.
+15:43 [Info] [Give] Meretrix 1 x Wire Tool
+15:53 [Info] [NTeleportation] Smaste teleported back to previous location.
+15:57 [Info] [NTeleportation] jokerswildj teleported back to previous location.
+16:09 [Info] [Give] Smaste 100 x Graveyard Fence
+16:09 [Info] [NTeleportation] Smaste teleported back to previous location.
+16:09 [Info] [Give] Meretrix 1 x Graveyard Fence
+16:14 [Info] [Give] [God] Meretrix 1 x Snowball
+16:14 [Info] [Give] Smaste 1 x Snowball
+16:16 [Info] [Give] Smaste 1 x Mining Quarry
+16:16 [Info] [Give] jokerswildj 1 x Mining Quarry
+16:16 [Info] [Give] Meretrix 1 x Mining Quarry
+16:17 [Info] [Give] Smaste 10 x Survey Charge
+16:17 [Info] [Give] jokerswildj 10 x Survey Charge
+16:17 [Info] [Give] Meretrix 10 x Survey Charge
+16:21 [Info] [Give] Smaste 1 x Pump Jack
+16:21 [Info] [Give] jokerswildj 1 x Pump Jack
+16:21 [Info] [Give] Meretrix 1 x Pump Jack
+16:23 [Info] [Give] Smaste 100 x Survey Charge
+16:23 [Info] [Give] jokerswildj 100 x Survey Charge
+16:23 [Info] [Give] Meretrix 100 x Survey Charge
+16:28 [Info] [Give] [God] Meretrix 1 x Mining Quarry
+16:30 [Info] [Give] [God] Meretrix 1 x Mining Quarry
+16:33 [Info] [Give] [God] Meretrix 1000 x Low Grade Fuel
+16:33 [Info] [Give] [God] Meretrix 1000 x Low Grade Fuel
+16:38 [Info] Build was compiled successfully in 3297ms
+16:38 [Warning] Calling 'OnServerInitialized' on 'Build v2.0.82' took 2964ms
+16:38 [Info] Loaded plugin Build v2.0.82 by Reneb & NoGrod
+16:38 [Warning] Calling 'OnPlayerInput' on 'Build v2.0.82' took average 2970ms
+16:39 [Info] [NTeleportation] Smaste teleported back to previous location.
+16:41 [Info] [NTeleportation] Smaste teleported back to previous location.
+16:45 [Info] [Death Notes] Smaste shot a Boar using their Bolt Action Rifle over a distance of 62 meters.
+16:45 [Info] [Give] Smaste 100 x Survey Charge
+16:45 [Info] [Give] jokerswildj 100 x Survey Charge
+16:45 [Info] [Give] Meretrix 100 x Survey Charge
+16:53 [Info] [NTeleportation] Smaste teleported back to previous location.
+16:54 [Info] [NTeleportation] Smaste teleported back to previous location.
+16:56 [Info] Loading Oxide Core v2.0.3867...
+16:56 [Info] Loading extensions...
+16:56 [Info] Latest compiler MD5: 5fbca0bf39b1c09ddf2fb3686b869242
+16:56 [Info] Local compiler MD5: 5fbca0bf39b1c09ddf2fb3686b869242
+16:56 [Info] Loaded extension CSharp v2.0.4000 by Oxide and Contributors
+16:56 [Info] Loaded extension Rust:IO for Oxide v2.15.0 by playrust.io / dcode
+16:56 [Info] Loaded extension MySql v2.0.3755 by Oxide and Contributors
+16:56 [Info] Loaded extension Rust v2.0.4185 by Oxide and Contributors
+16:56 [Info] Loaded extension SQLite v2.0.3754 by Oxide and Contributors
+16:56 [Info] Loaded extension Unity v2.0.3756 by Oxide and Contributors
+16:56 [Info] Using Covalence provider for game 'Rust'
+16:56 [Info] Loading plugins...
+16:56 [Info] Loaded plugin Rust v2.0.4185 by Oxide and Contributors
+16:56 [Info] Loaded plugin Unity v2.0.3756 by Oxide and Contributors
+16:56 [Info] Loaded plugin Rust:IO for Oxide v2.15.0 by playrust.io / dcode
+16:56 [Info] Added '// Reference: System.Drawing' in plugin 'SignArtist'
+16:56 [Info] Build, DeathNotes, FurnaceSplitter, Give, Godmode, InfoPanel, Kits, MonumentRadiation, NoDecay, NoEscape, NTeleportation, PermissionsManager, PlayerAdministration, QuickSort, RemoveDefaultRadiation, RemoverTool, SaveAnnouncer, ServerRewards, SignArtist, SkipNightVote, SmoothRestart, StackSizeController, Vanish and ZLevelsRemastered were compiled successfully in 3719ms
+16:56 [Info] Loaded plugin Build v2.0.82 by Reneb & NoGrod
+16:56 [Info] Loaded plugin Death Notes v6.2.0 by LaserHydra
+16:56 [Info] Loaded plugin Furnace Splitter v2.1.7 by Skipcast
+16:56 [Info] Loaded plugin Give v3.0.2 by Wulf/lukespragg
+16:56 [Info] Loaded plugin Godmode v4.1.1 by Wulf/lukespragg
+16:56 [Info] Loaded plugin InfoPanel v0.9.9 by Ghosst / Nogrod
+16:56 [Info] Loaded plugin Kits v3.2.93 by Reneb
+16:56 [Info] Loaded plugin MonumentRadiation v0.2.55 by k1lly0u
+16:56 [Info] Loaded plugin NoDecay v1.0.32 by Diesel_42o
+16:56 [Info] Loaded plugin NoEscape v2.1.22 by Calytic
+16:56 [Info] Loaded plugin NTeleportation v1.0.53 by RFC1920
+16:56 [Info] Loaded plugin PermissionsManager v0.1.1 by Steenamaroo
+16:56 [Info] Loaded plugin PlayerAdministration v1.3.21 by ThibmoRozier
+16:56 [Info] Loaded plugin Quick Sort v1.3.4 by Frenk92
+16:56 [Info] Loaded plugin RemoveDefaultRadiation v0.1.0 by k1lly0u
+16:56 [Info] Loaded plugin RemoverTool v4.2.10 by Reneb/Fuji
+16:56 [Info] Loaded plugin Save Announcer v1.0.4 by Ryan
+16:56 [Info] Loaded plugin ServerRewards v0.4.67 by k1lly0u
+16:56 [Info] Loaded plugin Sign Artist v1.1.2 by Mughisi
+16:56 [Info] Loaded plugin SkipNightVote v0.1.4 by k1lly0u
+16:56 [Info] Loaded plugin SmoothRestart v1.2.5 by Fujikura/Visagalis
+16:56 [Info] Loaded plugin Stack Size Controller v2.0.0 by Canopy Sheep
+16:56 [Info] Loaded plugin Vanish v0.7.4 by nivex
+16:56 [Info] Loaded plugin ZLevelsRemastered v2.9.5 by FuJiCuRa
+17:00 [Info] IP address from command-line: 172.96.165.106
+17:00 [Info] Updating Rust:IO ...
+17:00 [Info] Rust:IO: Update complete
+17:00 [Warning] Calling 'OnServerInitialized' on 'Build v2.0.82' took 1777ms [GARBAGE COLLECT]
+17:00 [Warning] Calling 'OnServerInitialized' on 'InfoPanel v0.9.9' took 735ms
+17:00 [Info] [MonumentRadiation] Created 4 monument radiation zones
+17:00 [Warning] Calling 'OnServerInitialized' on 'MonumentRadiation v0.2.55' took 648ms
+17:00 [Warning] [RemoveDefaultRadiation] All radiation elements destroyed, reloading plugins that use radiation
+17:00 [Warning] Calling 'OnServerInitialized' on 'RemoveDefaultRadiation v0.1.0' took 190ms
+17:00 [Warning] Calling 'OnServerInitialized' on 'RemoverTool v4.2.10' took 178ms
+17:00 [Warning] [ServerRewards] Image Library not detected, unloading ServerRewards
+17:00 [Info] Unloaded plugin ServerRewards v0.4.67 by k1lly0u
+17:00 [Info] [ZLevelsRemastered] Stats can be reset by > zl.reset <
+17:00 [Warning] Calling 'OnServerInitialized' on 'ZLevelsRemastered v2.9.5' took 223ms
+17:00 [Info] [SmoothRestart] Your servers Oxide build is up to date
+17:00 [Info] Installing Rust:IO ...
+17:00 [Info] Rust:IO> Setting up Rust:IO 2.3.6854.11652 ...
+17:00 [Info] Rust:IO> Creating directories ...
+17:00 [Info] Rust:IO> Applying config ...
+17:00 [Info] Rust:IO> Initializing database ...
+17:00 [Info] Rust:IO> Generating map image (this may take a while) ...
+17:01 [Info] Rust:IO> Generation complete
+--------- Summary --------
+Render       :  5618.011ms
+Postprocess  :  5859.180ms
+  Shadows    :   367.428ms
+  FXAA       :  5457.677ms
+Encoding     :    56.466ms
+Other        :    19.208ms
+--------------------------
+Total        :  11552.865ms
+17:01 [Info] Rust:IO> Starting HTTP server on 172.96.165.106:28435 ...
+17:01 [Info] Rust:IO> Installed.
+17:01 [Info] Rust:IO> Now ticking
+17:01 [Warning] Calling 'OnTick' on 'RustIO v2.15.0' took 11914ms [GARBAGE COLLECT]
+17:01 [Warning] Calling 'OnTick' on 'RustIO v2.15.0' took average 0ms [GARBAGE COLLECT]
+17:01 [Info] MonumentRadiation was compiled successfully in 3366ms
+17:01 [Warning] Calling 'Unload' on 'MonumentRadiation v0.2.55' took 188ms
+17:01 [Info] Unloaded plugin MonumentRadiation v0.2.55 by k1lly0u
+17:01 [Info] [MonumentRadiation] Created 4 monument radiation zones
+17:01 [Warning] Calling 'OnServerInitialized' on 'MonumentRadiation v0.2.55' took 987ms [GARBAGE COLLECT]
+17:01 [Info] Loaded plugin MonumentRadiation v0.2.55 by k1lly0u
+17:01 [Info] Rust:IO> External IP address obtained from lookup: 172.96.165.106
+17:07 [Info] [Give] Meretrix 1 x LR-300 Assault Rifle
+17:07 [Info] [NTeleportation] Smaste teleported back to previous location.
+17:13 [Info] [Give] [God] Meretrix 1000 x Survey Charge
+17:18 [Info] [NTeleportation] Smaste teleported back to previous location.
+17:23 [Info] [NTeleportation] Smaste teleported back to previous location.
+17:25 [Warning] 
+17:25 [Warning]   at (wrapper managed-to-native) UnityEngine.GameObject.GetComponentInParent(UnityEngine.GameObject,System.Type)
+  at UnityEngine.GameObject.GetComponentInParent[T] () [0x00001] in <945c24c342914372bc599495ca1ade0d>:0 
+  at Oxide.Plugins.Build.cmdBuildSelect (ConsoleSystem+Arg arg) [0x00753] in <502e9f00e8b94fbea8db454c51283ff7>:0 
+17:25 [Warning] 
+17:25 [Warning]   at (wrapper managed-to-native) UnityEngine.GameObject.GetComponentInParent(UnityEngine.GameObject,System.Type)
+  at UnityEngine.GameObject.GetComponentInParent[T] () [0x00001] in <945c24c342914372bc599495ca1ade0d>:0 
+  at Oxide.Plugins.Build.cmdBuildSelect (ConsoleSystem+Arg arg) [0x00753] in <502e9f00e8b94fbea8db454c51283ff7>:0 
+17:25 [Warning] 
+17:25 [Warning]   at (wrapper managed-to-native) UnityEngine.GameObject.GetComponentInParent(UnityEngine.GameObject,System.Type)
+  at UnityEngine.GameObject.GetComponentInParent[T] () [0x00001] in <945c24c342914372bc599495ca1ade0d>:0 
+  at Oxide.Plugins.Build.cmdBuildSelect (ConsoleSystem+Arg arg) [0x00753] in <502e9f00e8b94fbea8db454c51283ff7>:0 
+17:25 [Warning] 
+17:25 [Warning]   at (wrapper managed-to-native) UnityEngine.GameObject.GetComponentInParent(UnityEngine.GameObject,System.Type)
+  at UnityEngine.GameObject.GetComponentInParent[T] () [0x00001] in <945c24c342914372bc599495ca1ade0d>:0 
+  at Oxide.Plugins.Build.cmdBuildSelect (ConsoleSystem+Arg arg) [0x00753] in <502e9f00e8b94fbea8db454c51283ff7>:0 
+17:25 [Warning] 
+17:25 [Warning]   at (wrapper managed-to-native) UnityEngine.GameObject.GetComponentInParent(UnityEngine.GameObject,System.Type)
+  at UnityEngine.GameObject.GetComponentInParent[T] () [0x00001] in <945c24c342914372bc599495ca1ade0d>:0 
+  at Oxide.Plugins.Build.cmdBuildSelect (ConsoleSystem+Arg arg) [0x00753] in <502e9f00e8b94fbea8db454c51283ff7>:0 
+17:25 [Warning] 
+17:25 [Warning]   at (wrapper managed-to-native) UnityEngine.GameObject.GetComponentInParent(UnityEngine.GameObject,System.Type)
+  at UnityEngine.GameObject.GetComponentInParent[T] () [0x00001] in <945c24c342914372bc599495ca1ade0d>:0 
+  at Oxide.Plugins.Build.cmdBuildSelect (ConsoleSystem+Arg arg) [0x00753] in <502e9f00e8b94fbea8db454c51283ff7>:0 
+17:25 [Warning] 
+17:25 [Warning]   at (wrapper managed-to-native) UnityEngine.GameObject.GetComponentInParent(UnityEngine.GameObject,System.Type)
+  at UnityEngine.GameObject.GetComponentInParent[T] () [0x00001] in <945c24c342914372bc599495ca1ade0d>:0 
+  at Oxide.Plugins.Build.cmdBuildSelect (ConsoleSystem+Arg arg) [0x00753] in <502e9f00e8b94fbea8db454c51283ff7>:0 
+17:25 [Warning] 
+17:25 [Warning]   at (wrapper managed-to-native) UnityEngine.GameObject.GetComponentInParent(UnityEngine.GameObject,System.Type)
+  at UnityEngine.GameObject.GetComponentInParent[T] () [0x00001] in <945c24c342914372bc599495ca1ade0d>:0 
+  at Oxide.Plugins.Build.cmdBuildSelect (ConsoleSystem+Arg arg) [0x00753] in <502e9f00e8b94fbea8db454c51283ff7>:0 
+17:25 [Warning] 
+17:25 [Warning]   at (wrapper managed-to-native) UnityEngine.GameObject.GetComponentInParent(UnityEngine.GameObject,System.Type)
+  at UnityEngine.GameObject.GetComponentInParent[T] () [0x00001] in <945c24c342914372bc599495ca1ade0d>:0 
+  at Oxide.Plugins.Build.cmdBuildSelect (ConsoleSystem+Arg arg) [0x00753] in <502e9f00e8b94fbea8db454c51283ff7>:0 
+17:30 [Info] [NTeleportation] Smaste teleported back to previous location.
+17:33 [Info] [NTeleportation] [God] Meretrix teleported Smaste to [God] Meretrix.
+17:37 [Warning] 
+17:37 [Warning]   at (wrapper managed-to-native) UnityEngine.GameObject.GetComponentInParent(UnityEngine.GameObject,System.Type)
+  at UnityEngine.GameObject.GetComponentInParent[T] () [0x00001] in <945c24c342914372bc599495ca1ade0d>:0 
+  at Oxide.Plugins.Build.cmdBuildSelect (ConsoleSystem+Arg arg) [0x00753] in <502e9f00e8b94fbea8db454c51283ff7>:0 
+17:37 [Warning] 
+17:37 [Warning]   at (wrapper managed-to-native) UnityEngine.GameObject.GetComponentInParent(UnityEngine.GameObject,System.Type)
+  at UnityEngine.GameObject.GetComponentInParent[T] () [0x00001] in <945c24c342914372bc599495ca1ade0d>:0 
+  at Oxide.Plugins.Build.cmdBuildSelect (ConsoleSystem+Arg arg) [0x00753] in <502e9f00e8b94fbea8db454c51283ff7>:0 
+17:37 [Warning] 
+17:37 [Warning]   at (wrapper managed-to-native) UnityEngine.GameObject.GetComponentInParent(UnityEngine.GameObject,System.Type)
+  at UnityEngine.GameObject.GetComponentInParent[T] () [0x00001] in <945c24c342914372bc599495ca1ade0d>:0 
+  at Oxide.Plugins.Build.cmdBuildSelect (ConsoleSystem+Arg arg) [0x00753] in <502e9f00e8b94fbea8db454c51283ff7>:0 
+17:37 [Warning] 
+17:37 [Warning]   at (wrapper managed-to-native) UnityEngine.GameObject.GetComponentInParent(UnityEngine.GameObject,System.Type)
+  at UnityEngine.GameObject.GetComponentInParent[T] () [0x00001] in <945c24c342914372bc599495ca1ade0d>:0 
+  at Oxide.Plugins.Build.cmdBuildSelect (ConsoleSystem+Arg arg) [0x00753] in <502e9f00e8b94fbea8db454c51283ff7>:0 
+17:37 [Warning] 
+17:37 [Warning]   at (wrapper managed-to-native) UnityEngine.GameObject.GetComponentInParent(UnityEngine.GameObject,System.Type)
+  at UnityEngine.GameObject.GetComponentInParent[T] () [0x00001] in <945c24c342914372bc599495ca1ade0d>:0 
+  at Oxide.Plugins.Build.cmdBuildSelect (ConsoleSystem+Arg arg) [0x00753] in <502e9f00e8b94fbea8db454c51283ff7>:0 
+17:37 [Warning] 
+17:37 [Warning]   at (wrapper managed-to-native) UnityEngine.GameObject.GetComponentInParent(UnityEngine.GameObject,System.Type)
+  at UnityEngine.GameObject.GetComponentInParent[T] () [0x00001] in <945c24c342914372bc599495ca1ade0d>:0 
+  at Oxide.Plugins.Build.cmdBuildSelect (ConsoleSystem+Arg arg) [0x00753] in <502e9f00e8b94fbea8db454c51283ff7>:0 
+17:37 [Warning] 
+17:37 [Warning]   at (wrapper managed-to-native) UnityEngine.GameObject.GetComponentInParent(UnityEngine.GameObject,System.Type)
+  at UnityEngine.GameObject.GetComponentInParent[T] () [0x00001] in <945c24c342914372bc599495ca1ade0d>:0 
+  at Oxide.Plugins.Build.cmdBuildSelect (ConsoleSystem+Arg arg) [0x00753] in <502e9f00e8b94fbea8db454c51283ff7>:0 
+17:37 [Warning] 
+17:37 [Warning]   at (wrapper managed-to-native) UnityEngine.GameObject.GetComponentInParent(UnityEngine.GameObject,System.Type)
+  at UnityEngine.GameObject.GetComponentInParent[T] () [0x00001] in <945c24c342914372bc599495ca1ade0d>:0 
+  at Oxide.Plugins.Build.cmdBuildSelect (ConsoleSystem+Arg arg) [0x00753] in <502e9f00e8b94fbea8db454c51283ff7>:0 
+17:38 [Info] [Give] [God] Meretrix 1000 x Low Grade Fuel
+17:39 [Info] [Give] [God] Meretrix 1000 x Low Grade Fuel
+17:40 [Info] [NTeleportation] Smaste teleported back to previous location.
+17:40 [Warning] Calling 'OnPlayerSleepEnded' on 'ZLevelsRemastered v2.9.5' took 409ms [GARBAGE COLLECT]
+17:43 [Warning] 
+17:43 [Warning]   at (wrapper managed-to-native) UnityEngine.GameObject.GetComponentInParent(UnityEngine.GameObject,System.Type)
+  at UnityEngine.GameObject.GetComponentInParent[T] () [0x00001] in <945c24c342914372bc599495ca1ade0d>:0 
+  at Oxide.Plugins.Build.cmdBuildSelect (ConsoleSystem+Arg arg) [0x00753] in <502e9f00e8b94fbea8db454c51283ff7>:0 
+17:43 [Warning] 
+17:43 [Warning]   at (wrapper managed-to-native) UnityEngine.GameObject.GetComponentInParent(UnityEngine.GameObject,System.Type)
+  at UnityEngine.GameObject.GetComponentInParent[T] () [0x00001] in <945c24c342914372bc599495ca1ade0d>:0 
+  at Oxide.Plugins.Build.cmdBuildSelect (ConsoleSystem+Arg arg) [0x00753] in <502e9f00e8b94fbea8db454c51283ff7>:0 
+17:43 [Warning] 
+17:43 [Warning]   at (wrapper managed-to-native) UnityEngine.GameObject.GetComponentInParent(UnityEngine.GameObject,System.Type)
+  at UnityEngine.GameObject.GetComponentInParent[T] () [0x00001] in <945c24c342914372bc599495ca1ade0d>:0 
+  at Oxide.Plugins.Build.cmdBuildSelect (ConsoleSystem+Arg arg) [0x00753] in <502e9f00e8b94fbea8db454c51283ff7>:0 
+17:43 [Warning] 
+17:43 [Warning]   at (wrapper managed-to-native) UnityEngine.GameObject.GetComponentInParent(UnityEngine.GameObject,System.Type)
+  at UnityEngine.GameObject.GetComponentInParent[T] () [0x00001] in <945c24c342914372bc599495ca1ade0d>:0 
+  at Oxide.Plugins.Build.cmdBuildSelect (ConsoleSystem+Arg arg) [0x00753] in <502e9f00e8b94fbea8db454c51283ff7>:0 
+17:43 [Warning] 
+17:43 [Warning]   at (wrapper managed-to-native) UnityEngine.GameObject.GetComponentInParent(UnityEngine.GameObject,System.Type)
+  at UnityEngine.GameObject.GetComponentInParent[T] () [0x00001] in <945c24c342914372bc599495ca1ade0d>:0 
+  at Oxide.Plugins.Build.cmdBuildSelect (ConsoleSystem+Arg arg) [0x00753] in <502e9f00e8b94fbea8db454c51283ff7>:0 
+17:43 [Warning] 
+17:43 [Warning]   at (wrapper managed-to-native) UnityEngine.GameObject.GetComponentInParent(UnityEngine.GameObject,System.Type)
+  at UnityEngine.GameObject.GetComponentInParent[T] () [0x00001] in <945c24c342914372bc599495ca1ade0d>:0 
+  at Oxide.Plugins.Build.cmdBuildSelect (ConsoleSystem+Arg arg) [0x00753] in <502e9f00e8b94fbea8db454c51283ff7>:0 
+17:43 [Warning] 
+17:43 [Warning]   at (wrapper managed-to-native) UnityEngine.GameObject.GetComponentInParent(UnityEngine.GameObject,System.Type)
+  at UnityEngine.GameObject.GetComponentInParent[T] () [0x00001] in <945c24c342914372bc599495ca1ade0d>:0 
+  at Oxide.Plugins.Build.cmdBuildSelect (ConsoleSystem+Arg arg) [0x00753] in <502e9f00e8b94fbea8db454c51283ff7>:0 
+17:43 [Warning] 
+17:43 [Warning]   at (wrapper managed-to-native) UnityEngine.GameObject.GetComponentInParent(UnityEngine.GameObject,System.Type)
+  at UnityEngine.GameObject.GetComponentInParent[T] () [0x00001] in <945c24c342914372bc599495ca1ade0d>:0 
+  at Oxide.Plugins.Build.cmdBuildSelect (ConsoleSystem+Arg arg) [0x00753] in <502e9f00e8b94fbea8db454c51283ff7>:0 
+17:43 [Warning] 
+17:43 [Warning]   at (wrapper managed-to-native) UnityEngine.GameObject.GetComponentInParent(UnityEngine.GameObject,System.Type)
+  at UnityEngine.GameObject.GetComponentInParent[T] () [0x00001] in <945c24c342914372bc599495ca1ade0d>:0 
+  at Oxide.Plugins.Build.cmdBuildSelect (ConsoleSystem+Arg arg) [0x00753] in <502e9f00e8b94fbea8db454c51283ff7>:0 
+17:43 [Warning] 
+17:43 [Warning]   at (wrapper managed-to-native) UnityEngine.GameObject.GetComponentInParent(UnityEngine.GameObject,System.Type)
+  at UnityEngine.GameObject.GetComponentInParent[T] () [0x00001] in <945c24c342914372bc599495ca1ade0d>:0 
+  at Oxide.Plugins.Build.cmdBuildSelect (ConsoleSystem+Arg arg) [0x00753] in <502e9f00e8b94fbea8db454c51283ff7>:0 
+17:43 [Warning] 
+17:43 [Warning]   at (wrapper managed-to-native) UnityEngine.GameObject.GetComponentInParent(UnityEngine.GameObject,System.Type)
+  at UnityEngine.GameObject.GetComponentInParent[T] () [0x00001] in <945c24c342914372bc599495ca1ade0d>:0 
+  at Oxide.Plugins.Build.cmdBuildSelect (ConsoleSystem+Arg arg) [0x00753] in <502e9f00e8b94fbea8db454c51283ff7>:0 
+17:43 [Warning] 
+17:43 [Warning]   at (wrapper managed-to-native) UnityEngine.GameObject.GetComponentInParent(UnityEngine.GameObject,System.Type)
+  at UnityEngine.GameObject.GetComponentInParent[T] () [0x00001] in <945c24c342914372bc599495ca1ade0d>:0 
+  at Oxide.Plugins.Build.cmdBuildSelect (ConsoleSystem+Arg arg) [0x00753] in <502e9f00e8b94fbea8db454c51283ff7>:0 
+17:43 [Warning] 
+17:43 [Warning]   at (wrapper managed-to-native) UnityEngine.GameObject.GetComponentInParent(UnityEngine.GameObject,System.Type)
+  at UnityEngine.GameObject.GetComponentInParent[T] () [0x00001] in <945c24c342914372bc599495ca1ade0d>:0 
+  at Oxide.Plugins.Build.cmdBuildSelect (ConsoleSystem+Arg arg) [0x00753] in <502e9f00e8b94fbea8db454c51283ff7>:0 
+17:43 [Warning] 
+17:43 [Warning]   at (wrapper managed-to-native) UnityEngine.GameObject.GetComponentInParent(UnityEngine.GameObject,System.Type)
+  at UnityEngine.GameObject.GetComponentInParent[T] () [0x00001] in <945c24c342914372bc599495ca1ade0d>:0 
+  at Oxide.Plugins.Build.cmdBuildSelect (ConsoleSystem+Arg arg) [0x00753] in <502e9f00e8b94fbea8db454c51283ff7>:0 
+17:43 [Warning] 
+17:43 [Warning]   at (wrapper managed-to-native) UnityEngine.GameObject.GetComponentInParent(UnityEngine.GameObject,System.Type)
+  at UnityEngine.GameObject.GetComponentInParent[T] () [0x00001] in <945c24c342914372bc599495ca1ade0d>:0 
+  at Oxide.Plugins.Build.cmdBuildSelect (ConsoleSystem+Arg arg) [0x00753] in <502e9f00e8b94fbea8db454c51283ff7>:0 
+17:43 [Warning] 
+17:43 [Warning]   at (wrapper managed-to-native) UnityEngine.GameObject.GetComponentInParent(UnityEngine.GameObject,System.Type)
+  at UnityEngine.GameObject.GetComponentInParent[T] () [0x00001] in <945c24c342914372bc599495ca1ade0d>:0 
+  at Oxide.Plugins.Build.cmdBuildSelect (ConsoleSystem+Arg arg) [0x00753] in <502e9f00e8b94fbea8db454c51283ff7>:0 
+17:43 [Warning] 
+17:43 [Warning]   at (wrapper managed-to-native) UnityEngine.GameObject.GetComponentInParent(UnityEngine.GameObject,System.Type)
+  at UnityEngine.GameObject.GetComponentInParent[T] () [0x00001] in <945c24c342914372bc599495ca1ade0d>:0 
+  at Oxide.Plugins.Build.cmdBuildSelect (ConsoleSystem+Arg arg) [0x00753] in <502e9f00e8b94fbea8db454c51283ff7>:0 
+17:45 [Info] [Death Notes] Smaste did not did not follow the rules in a safezone and was killed by a Scientist Sentry.
+17:46 [Info] [NTeleportation] Meretrix teleported Smaste to Meretrix.
+17:46 [Info] [NTeleportation] Smaste teleported back to previous location.
+17:53 [Info] [NTeleportation] [God] Meretrix teleported [God] Meretrix to jokerswildj.
+18:17 [Warning] 
+18:17 [Warning]   at (wrapper managed-to-native) UnityEngine.GameObject.GetComponentInParent(UnityEngine.GameObject,System.Type)
+  at UnityEngine.GameObject.GetComponentInParent[T] () [0x00001] in <945c24c342914372bc599495ca1ade0d>:0 
+  at Oxide.Plugins.Build.cmdBuildSelect (ConsoleSystem+Arg arg) [0x00753] in <502e9f00e8b94fbea8db454c51283ff7>:0 
+18:17 [Warning] 
+18:17 [Warning]   at (wrapper managed-to-native) UnityEngine.GameObject.GetComponentInParent(UnityEngine.GameObject,System.Type)
+  at UnityEngine.GameObject.GetComponentInParent[T] () [0x00001] in <945c24c342914372bc599495ca1ade0d>:0 
+  at Oxide.Plugins.Build.cmdBuildSelect (ConsoleSystem+Arg arg) [0x00753] in <502e9f00e8b94fbea8db454c51283ff7>:0 
+18:17 [Warning] 
+18:17 [Warning]   at (wrapper managed-to-native) UnityEngine.GameObject.GetComponentInParent(UnityEngine.GameObject,System.Type)
+  at UnityEngine.GameObject.GetComponentInParent[T] () [0x00001] in <945c24c342914372bc599495ca1ade0d>:0 
+  at Oxide.Plugins.Build.cmdBuildSelect (ConsoleSystem+Arg arg) [0x00753] in <502e9f00e8b94fbea8db454c51283ff7>:0 
+18:17 [Warning] 
+18:17 [Warning]   at (wrapper managed-to-native) UnityEngine.GameObject.GetComponentInParent(UnityEngine.GameObject,System.Type)
+  at UnityEngine.GameObject.GetComponentInParent[T] () [0x00001] in <945c24c342914372bc599495ca1ade0d>:0 
+  at Oxide.Plugins.Build.cmdBuildSelect (ConsoleSystem+Arg arg) [0x00753] in <502e9f00e8b94fbea8db454c51283ff7>:0 
+18:17 [Warning] 
+18:17 [Warning]   at (wrapper managed-to-native) UnityEngine.GameObject.GetComponentInParent(UnityEngine.GameObject,System.Type)
+  at UnityEngine.GameObject.GetComponentInParent[T] () [0x00001] in <945c24c342914372bc599495ca1ade0d>:0 
+  at Oxide.Plugins.Build.cmdBuildSelect (ConsoleSystem+Arg arg) [0x00753] in <502e9f00e8b94fbea8db454c51283ff7>:0 
+18:17 [Warning] 
+18:17 [Warning]   at (wrapper managed-to-native) UnityEngine.GameObject.GetComponentInParent(UnityEngine.GameObject,System.Type)
+  at UnityEngine.GameObject.GetComponentInParent[T] () [0x00001] in <945c24c342914372bc599495ca1ade0d>:0 
+  at Oxide.Plugins.Build.cmdBuildSelect (ConsoleSystem+Arg arg) [0x00753] in <502e9f00e8b94fbea8db454c51283ff7>:0 
+18:17 [Warning] 
+18:17 [Warning]   at (wrapper managed-to-native) UnityEngine.GameObject.GetComponentInParent(UnityEngine.GameObject,System.Type)
+  at UnityEngine.GameObject.GetComponentInParent[T] () [0x00001] in <945c24c342914372bc599495ca1ade0d>:0 
+  at Oxide.Plugins.Build.cmdBuildSelect (ConsoleSystem+Arg arg) [0x00753] in <502e9f00e8b94fbea8db454c51283ff7>:0 
+18:17 [Warning] 
+18:17 [Warning]   at (wrapper managed-to-native) UnityEngine.GameObject.GetComponentInParent(UnityEngine.GameObject,System.Type)
+  at UnityEngine.GameObject.GetComponentInParent[T] () [0x00001] in <945c24c342914372bc599495ca1ade0d>:0 
+  at Oxide.Plugins.Build.cmdBuildSelect (ConsoleSystem+Arg arg) [0x00753] in <502e9f00e8b94fbea8db454c51283ff7>:0 
+18:17 [Warning] 
+18:17 [Warning]   at (wrapper managed-to-native) UnityEngine.GameObject.GetComponentInParent(UnityEngine.GameObject,System.Type)
+  at UnityEngine.GameObject.GetComponentInParent[T] () [0x00001] in <945c24c342914372bc599495ca1ade0d>:0 
+  at Oxide.Plugins.Build.cmdBuildSelect (ConsoleSystem+Arg arg) [0x00753] in <502e9f00e8b94fbea8db454c51283ff7>:0 
+18:17 [Warning] 
+18:17 [Warning]   at (wrapper managed-to-native) UnityEngine.GameObject.GetComponentInParent(UnityEngine.GameObject,System.Type)
+  at UnityEngine.GameObject.GetComponentInParent[T] () [0x00001] in <945c24c342914372bc599495ca1ade0d>:0 
+  at Oxide.Plugins.Build.cmdBuildSelect (ConsoleSystem+Arg arg) [0x00753] in <502e9f00e8b94fbea8db454c51283ff7>:0 
+18:17 [Warning] 
+18:17 [Warning]   at (wrapper managed-to-native) UnityEngine.GameObject.GetComponentInParent(UnityEngine.GameObject,System.Type)
+  at UnityEngine.GameObject.GetComponentInParent[T] () [0x00001] in <945c24c342914372bc599495ca1ade0d>:0 
+  at Oxide.Plugins.Build.cmdBuildSelect (ConsoleSystem+Arg arg) [0x00753] in <502e9f00e8b94fbea8db454c51283ff7>:0 
+18:18 [Warning] 
+18:18 [Warning]   at (wrapper managed-to-native) UnityEngine.GameObject.GetComponentInParent(UnityEngine.GameObject,System.Type)
+  at UnityEngine.GameObject.GetComponentInParent[T] () [0x00001] in <945c24c342914372bc599495ca1ade0d>:0 
+  at Oxide.Plugins.Build.cmdBuildSelect (ConsoleSystem+Arg arg) [0x00753] in <502e9f00e8b94fbea8db454c51283ff7>:0 
+18:18 [Warning] 
+18:18 [Warning]   at (wrapper managed-to-native) UnityEngine.GameObject.GetComponentInParent(UnityEngine.GameObject,System.Type)
+  at UnityEngine.GameObject.GetComponentInParent[T] () [0x00001] in <945c24c342914372bc599495ca1ade0d>:0 
+  at Oxide.Plugins.Build.cmdBuildSelect (ConsoleSystem+Arg arg) [0x00753] in <502e9f00e8b94fbea8db454c51283ff7>:0 
+18:18 [Warning] Calling 'cmdBuildSelect' on 'Build v2.0.82' took 405ms
+18:24 [Warning] 
+18:24 [Warning]   at (wrapper managed-to-native) UnityEngine.GameObject.GetComponentInParent(UnityEngine.GameObject,System.Type)
+  at UnityEngine.GameObject.GetComponentInParent[T] () [0x00001] in <945c24c342914372bc599495ca1ade0d>:0 
+  at Oxide.Plugins.Build.cmdBuildSelect (ConsoleSystem+Arg arg) [0x00753] in <502e9f00e8b94fbea8db454c51283ff7>:0 
+19:04 [Info] [Give] [God] Meretrix 1 x Armored Door
+19:07 [Warning] 
+19:07 [Warning]   at (wrapper managed-to-native) UnityEngine.GameObject.GetComponentInParent(UnityEngine.GameObject,System.Type)
+  at UnityEngine.GameObject.GetComponentInParent[T] () [0x00001] in <945c24c342914372bc599495ca1ade0d>:0 
+  at Oxide.Plugins.Build.cmdBuildSelect (ConsoleSystem+Arg arg) [0x00753] in <502e9f00e8b94fbea8db454c51283ff7>:0 
+21:25 [Warning] 
+21:25 [Warning]   at (wrapper managed-to-native) UnityEngine.GameObject.GetComponentInParent(UnityEngine.GameObject,System.Type)
+  at UnityEngine.GameObject.GetComponentInParent[T] () [0x00001] in <945c24c342914372bc599495ca1ade0d>:0 
+  at Oxide.Plugins.Build.cmdBuildSelect (ConsoleSystem+Arg arg) [0x00753] in <502e9f00e8b94fbea8db454c51283ff7>:0 
+21:33 [Warning] 
+21:33 [Warning]   at (wrapper managed-to-native) UnityEngine.GameObject.GetComponentInParent(UnityEngine.GameObject,System.Type)
+  at UnityEngine.GameObject.GetComponentInParent[T] () [0x00001] in <945c24c342914372bc599495ca1ade0d>:0 
+  at Oxide.Plugins.Build.cmdBuildSelect (ConsoleSystem+Arg arg) [0x00753] in <502e9f00e8b94fbea8db454c51283ff7>:0 
+21:33 [Warning] 
+21:33 [Warning]   at (wrapper managed-to-native) UnityEngine.GameObject.GetComponentInParent(UnityEngine.GameObject,System.Type)
+  at UnityEngine.GameObject.GetComponentInParent[T] () [0x00001] in <945c24c342914372bc599495ca1ade0d>:0 
+  at Oxide.Plugins.Build.cmdBuildSelect (ConsoleSystem+Arg arg) [0x00753] in <502e9f00e8b94fbea8db454c51283ff7>:0 
+21:37 [Warning] 
+21:37 [Warning]   at (wrapper managed-to-native) UnityEngine.GameObject.GetComponentInParent(UnityEngine.GameObject,System.Type)
+  at UnityEngine.GameObject.GetComponentInParent[T] () [0x00001] in <945c24c342914372bc599495ca1ade0d>:0 
+  at Oxide.Plugins.Build.cmdBuildSelect (ConsoleSystem+Arg arg) [0x00753] in <502e9f00e8b94fbea8db454c51283ff7>:0 
+21:37 [Warning] 
+21:37 [Warning]   at (wrapper managed-to-native) UnityEngine.GameObject.GetComponentInParent(UnityEngine.GameObject,System.Type)
+  at UnityEngine.GameObject.GetComponentInParent[T] () [0x00001] in <945c24c342914372bc599495ca1ade0d>:0 
+  at Oxide.Plugins.Build.cmdBuildSelect (ConsoleSystem+Arg arg) [0x00753] in <502e9f00e8b94fbea8db454c51283ff7>:0 
+21:41 [Warning] 
+21:41 [Warning]   at (wrapper managed-to-native) UnityEngine.GameObject.GetComponentInParent(UnityEngine.GameObject,System.Type)
+  at UnityEngine.GameObject.GetComponentInParent[T] () [0x00001] in <945c24c342914372bc599495ca1ade0d>:0 
+  at Oxide.Plugins.Build.cmdBuildSelect (ConsoleSystem+Arg arg) [0x00753] in <502e9f00e8b94fbea8db454c51283ff7>:0 
+21:50 [Info] [Give] Meretrix 1000 x Small Oil Refinery
+21:50 [Info] [Give] Meretrix 1000 x Skull Fire Pit
+21:51 [Info] [Give] Meretrix 1000 x Chinese Lantern
+21:51 [Info] [Give] Meretrix 1000 x Mining Quarry
+21:51 [Info] [Give] Meretrix 1000 x Pump Jack
+21:52 [Info] [Give] Meretrix 1000 x Survey Charge
+21:52 [Info] [Give] Meretrix 1000 x Survey Charge
+21:52 [Info] [Give] Meretrix 1000 x Survey Charge
+21:52 [Info] [Give] Meretrix 1000 x Survey Charge
+21:52 [Info] [Give] Meretrix 1000 x Survey Charge
+21:53 [Info] [Give] Meretrix 1000 x Cursed Cauldron
+21:53 [Info] [Give] Meretrix 1000 x Graveyard Fence
+21:55 [Info] [Give] Meretrix 10000 x Survey Charge
+21:57 [Info] [Give] Meretrix 1000 x Scrap

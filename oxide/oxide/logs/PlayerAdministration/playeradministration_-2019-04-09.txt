@@ -1,0 +1,71 @@
+[03:50:10] ERROR > Meretrix: Tried to execute a command requiring the '' permission
+[03:50:57] INFO > Meretrix: Opened the menu
+[03:51:22] INFO > Meretrix: Opened the permissions manager for user ID 76561198066315183
+[03:53:18] INFO > Meretrix: Opened the menu
+[03:53:41] INFO > Meretrix: Healed user ID 76561198060894633 for 0 points
+[03:53:44] INFO > Meretrix: Healed user ID 76561198060894633 for 0 points
+[03:53:47] INFO > Meretrix: Healed user ID 76561198060894633 for 0 points
+[03:53:48] INFO > Meretrix: Reset the blueprints of user ID 76561198060894633
+[03:54:01] INFO > Meretrix: Reset the metabolism of user ID 76561198060894633
+[03:54:29] INFO > Meretrix: Opened the permissions manager for user ID 76561198060894633
+[03:54:34] INFO > Meretrix: Opened the permissions manager for user ID 76561198060894633
+[03:57:53] INFO > Meretrix: Opened the menu
+[03:57:59] INFO > Meretrix: Opened the permissions manager for user ID 76561198066315183
+[03:58:45] INFO > Meretrix: Teleported to admin Meretrix
+[04:05:37] INFO > Meretrix: Opened the menu
+[04:05:41] INFO > Meretrix: Opened the permissions manager for user ID 76561198066315183
+[04:06:36] INFO > Meretrix: Hurt user ID 76561198066315183 for 25 points
+[04:06:41] INFO > Meretrix: Hurt user ID 76561198066315183 for 25 points
+[04:07:07] INFO > Meretrix: Opened the menu
+[04:07:11] INFO > Meretrix: Hurt user ID 76561198066315183 for 25 points
+[04:07:29] INFO > Meretrix: Opened the menu
+[04:07:33] INFO > Meretrix: Hurt user ID 76561198066315183 for 25 points
+[04:07:34] INFO > Meretrix: Reset the blueprints of user ID 76561198066315183
+[04:07:37] INFO > Meretrix: Hurt user ID 76561198066315183 for 25 points
+[04:07:41] INFO > Meretrix: Healed user ID 76561198066315183 for 100 points
+[04:07:44] INFO > Meretrix: Recovered the metabolism of user ID 76561198066315183
+[04:07:46] INFO > Meretrix: Reset the metabolism of user ID 76561198066315183
+[04:07:47] INFO > Meretrix: Recovered the metabolism of user ID 76561198066315183
+[02:32:28] INFO > Meretrix: Opened the menu
+[02:32:52] INFO > Meretrix: Opened the permissions manager for user ID 76561198060894633
+[02:32:58] INFO > Meretrix: Opened the permissions manager for user ID 76561198060894633
+[02:33:03] INFO > Meretrix: Opened the permissions manager for user ID 76561198060894633
+[02:34:28] INFO > Meretrix: Opened the menu
+[02:34:33] INFO > Meretrix: Opened the permissions manager for user ID 76561198066315183
+[02:37:40] INFO > Meretrix: Opened the menu
+[02:37:56] INFO > Meretrix: Opened the permissions manager for user ID 76561198066315183
+[02:39:37] INFO > Meretrix: Opened the menu
+[02:39:41] INFO > Meretrix: Opened the permissions manager for user ID 76561198066315183
+[04:32:57] INFO > Meretrix: Opened the menu
+[04:33:01] INFO > Meretrix: Opened the permissions manager for user ID 76561198060894633
+[05:09:24] INFO > Meretrix: Opened the menu
+[06:39:51] INFO > Meretrix: Opened the menu
+[06:39:57] INFO > Smaste: Teleported to admin Meretrix
+[06:40:07] INFO > Meretrix: Opened the menu
+[06:40:13] INFO > Meretrix: Healed user ID 76561198060894633 for 0 points
+[06:40:17] INFO > Meretrix: Healed user ID 76561198060894633 for 0 points
+[06:40:18] INFO > Meretrix: Recovered the metabolism of user ID 76561198060894633
+[06:40:19] INFO > Meretrix: Healed user ID 76561198060894633 for 0 points
+[06:40:20] INFO > Meretrix: Recovered the metabolism of user ID 76561198060894633
+[06:41:36] INFO > Meretrix: Opened the menu
+[06:41:42] INFO > Meretrix: Healed user ID 76561198060894633 for 25 points
+[06:41:42] INFO > Meretrix: Healed user ID 76561198060894633 for 25 points
+[06:41:43] INFO > Meretrix: Healed user ID 76561198060894633 for 25 points
+[06:41:49] INFO > Meretrix: Hurt user ID 76561198060894633 for 50 points
+[06:41:51] INFO > Meretrix: Healed user ID 76561198060894633 for 50 points
+[06:41:52] INFO > Meretrix: Hurt user ID 76561198060894633 for 50 points
+[06:41:53] INFO > Meretrix: Healed user ID 76561198060894633 for 50 points
+[06:41:55] INFO > Meretrix: Hurt user ID 76561198060894633 for 50 points
+[06:41:56] INFO > Meretrix: Healed user ID 76561198060894633 for 50 points
+[06:41:58] INFO > Meretrix: Hurt user ID 76561198060894633 for 75 points
+[06:42:00] INFO > Meretrix: Healed user ID 76561198060894633 for 50 points
+[06:42:01] INFO > Meretrix: Hurt user ID 76561198060894633 for 50 points
+[06:42:04] INFO > Meretrix: Healed user ID 76561198060894633 for 100 points
+[06:50:22] INFO > Meretrix: Opened the menu
+[06:50:26] INFO > Meretrix: Opened the permissions manager for user ID 76561198106826862
+[06:59:04] INFO > Meretrix: Opened the menu
+[06:59:15] INFO > Meretrix: Healed user ID 76561198066315183 for 100 points
+[09:33:38] INFO > Meretrix: Opened the menu
+[09:33:42] INFO > Meretrix: Healed user ID 76561198066315183 for 50 points
+[09:52:26] INFO > Meretrix: Opened the menu
+[09:52:44] INFO > Meretrix: Opened the permissions manager for user ID 76561198060894633
