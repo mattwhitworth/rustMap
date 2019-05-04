@@ -1,0 +1,2 @@
+[01:37:17] INFO > Meretrix: Opened the menu
+[01:37:22] INFO > Meretrix: Opened the permissions manager for user ID 76561198066315183

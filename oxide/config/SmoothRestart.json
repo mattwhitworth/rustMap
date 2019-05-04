@@ -3,7 +3,7 @@
     "autoRebootCountDown": 3,
     "checkIntervalMinutes": 5,
     "currentDevblog": 0,
-    "currentOxideBuild": 4185,
+    "currentOxideBuild": 4200,
     "enableAutoChecks": true,
     "enableAutoReboot": false,
     "notifyOnlineAdmins": true

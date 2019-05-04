@@ -25,6 +25,26 @@
     "smaste": {
       "max": 1,
       "cooldown": 0.0
+    },
+    "playtest": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "snow patrol": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "spec ops": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "forest patrol": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "lt": {
+      "max": 0,
+      "cooldown": 0.0
     }
   },
   "76561198106826862": {
@@ -34,6 +54,14 @@
     },
     "emergency": {
       "max": 1,
+      "cooldown": 0.0
+    },
+    "smaste": {
+      "max": 1,
+      "cooldown": 0.0
+    },
+    "playtest": {
+      "max": 0,
       "cooldown": 0.0
     }
   },
@@ -47,6 +75,36 @@
     "basics": {
       "max": 0,
       "cooldown": 1555020696.9484882
+    }
+  },
+  "76561198026638809": {
+    "basics": {
+      "max": 0,
+      "cooldown": 1556923535.0682769
+    },
+    "playtest": {
+      "max": 0,
+      "cooldown": 0.0
+    }
+  },
+  "76561198113803855": {
+    "basics": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "playtest": {
+      "max": 0,
+      "cooldown": 0.0
+    }
+  },
+  "76561197980497740": {
+    "basics": {
+      "max": 0,
+      "cooldown": 1556947787.2250729
+    },
+    "playtest": {
+      "max": 0,
+      "cooldown": 0.0
     }
   }
 }

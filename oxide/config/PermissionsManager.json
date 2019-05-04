@@ -6,5 +6,5 @@
   "GUI - Off colour": "0.2 0.2 0.2 1",
   "GUI - On colour": "0.7 0.32 0.17 1",
   "Options - GUI Transparency 0-1": 0.5,
-  "Options - Plugin BlockList": "playerranks,botspawn,give"
+  "Options - Plugin BlockList": "playerranks,botspawn"
 }

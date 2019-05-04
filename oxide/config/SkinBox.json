@@ -1,0 +1,148 @@
+{
+  "AvailableSkins": {
+    "approvedSkinsLimit": -1,
+    "maxPagesShown": 2,
+    "useApprovedSkins": false,
+    "usedConnectionsToWorkshop": 1,
+    "usedRankedByTrendDays": 30,
+    "useInbuiltSkins": true,
+    "useManualAddedSkins": true,
+    "useWebskinsRankedByTrend": true
+  },
+  "Cooldown": {
+    "activateAfterSkinTaken": true,
+    "cooldownBox": 60,
+    "cooldownOverrideAdmin": true,
+    "cooldownOverrideAuthLevel": 2,
+    "enableCooldown": false
+  },
+  "CustomPermissions": {
+    "enableCustomPerms": false,
+    "permCustomDeployable": "skinbox.deployable",
+    "permCustomPlayerwearable": "skinbox.playerwearable",
+    "permCustomWeapon": "skinbox.weapon"
+  },
+  "Settings": {
+    "accessOverrideAuthLevel": 2,
+    "allowStackedItems": false,
+    "exludedSkinsAuthLevel": 2,
+    "hideQuickSort": true,
+    "permissionUse": "skinbox.use",
+    "showLoadedSkinCounts": true,
+    "skinBoxCommand": "skinbox",
+    "steamApiKey": "https://steamcommunity.com/dev/apikey << get the key there"
+  },
+  "SkinsAdded": {
+    "SkinList": {
+      "metal.facemask": [
+        1341831929,
+        1102936657,
+        1295932385,
+        1203888714,
+        1248454402,
+        804076631
+      ],
+      "hoodie": [
+        1150760640,
+        804075553
+      ],
+      "deer.skull.mask": [
+        831479076
+      ],
+      "pants": [
+        814357295,
+        799897014
+      ],
+      "metal.plate.torso": [
+        1308739286,
+        1547974191,
+        1399001359,
+        788567235,
+        818746875
+      ],
+      "burlap.gloves": [
+        829783408
+      ],
+      "burlap.shirt": [
+        1475677502
+      ],
+      "door.hinged.metal": [
+        1089515568,
+        1472586215,
+        1475535099,
+        1493944658,
+        1574938335,
+        1610356827,
+        1611587235,
+        1613837800,
+        1615905592,
+        1622801814,
+        1629876439
+      ],
+      "door.hinged.toptier": [
+        952822645,
+        1300934521,
+        1076772160,
+        1093816557,
+        876532527,
+        842047509,
+        811849057,
+        1636676695,
+        1639547911
+      ],
+      "tshirt": [
+        841772058,
+        1096474324,
+        1371879102
+      ],
+      "sleepingbag": [
+        952424076,
+        1121318464,
+        1475442230
+      ],
+      "wall.frame.garagedoor": [
+        1472517592,
+        1562586047,
+        1567858117,
+        1607643361,
+        1611234577,
+        1611281325,
+        1611369030,
+        1638104854,
+        1646230101,
+        1681581810,
+        1688725612
+      ],
+      "rug": [
+        1472531857,
+        1472661946,
+        1561159111,
+        1575941725
+      ],
+      "burlap.trousers": [
+        1473398772
+      ],
+      "roadsign.jacket": [
+        878210406
+      ],
+      "shoes.boots": [
+        804640572
+      ]
+    }
+  },
+  "SkinsExcluded": {
+    "SkinList": []
+  },
+  "UsageCost": {
+    "costBoxOpen": 5,
+    "costDeployable": 10,
+    "costExcludeAdmins": true,
+    "costExcludePerm": "skinbox.costexcluded",
+    "costExcludePermEnabled": false,
+    "costPlayerwearable": 20,
+    "costWeapon": 30,
+    "enableUsageCost": false,
+    "useEconomics": false,
+    "useServerRewards": true
+  }
+}
