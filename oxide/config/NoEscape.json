@@ -11,7 +11,7 @@
         "Heat",
         "ElectricShock"
       ],
-      "duration": 180.0,
+      "duration": 60.0,
       "enabled": true,
       "notify": false
     },
@@ -55,7 +55,7 @@
         "Heat"
       ],
       "distance": 100.0,
-      "duration": 300.0,
+      "duration": 900.0,
       "enabled": true,
       "excludePrefabs": [
         "ladder.wooden"

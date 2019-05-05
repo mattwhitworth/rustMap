@@ -45,6 +45,34 @@
     "lt": {
       "max": 0,
       "cooldown": 0.0
+    },
+    "paratrooper": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "desert patrol": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "spec ops officer": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "bandit1": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "bandit2": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "bandit generic": {
+      "max": 0,
+      "cooldown": 0.0
+    },
+    "bandit3": {
+      "max": 0,
+      "cooldown": 0.0
     }
   },
   "76561198106826862": {
@@ -101,6 +129,16 @@
     "basics": {
       "max": 0,
       "cooldown": 1556947787.2250729
+    },
+    "playtest": {
+      "max": 0,
+      "cooldown": 0.0
+    }
+  },
+  "76561198384022968": {
+    "basics": {
+      "max": 0,
+      "cooldown": 1557008237.9689779
     },
     "playtest": {
       "max": 0,

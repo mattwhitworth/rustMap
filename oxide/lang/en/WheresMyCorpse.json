@@ -1,0 +1,13 @@
+{
+  "WMC_NoData": "No data was found on your last death.  The WheresMyCorpse plugin may have been reloaded or you have not died yet.",
+  "WMC_LastSeen": "Your corpse was last seen {0} meters from here.",
+  "WMC_LastSeenDirection": "Your corpse was last seen <color=yellow>{0}m</color> away in direction <color=yellow>{1}</color>.",
+  "WMC_Dir_North": "North",
+  "WMC_Dir_NorthEast": "NorthEast",
+  "WMC_Dir_East": "East",
+  "WMC_Dir_SouthEast": "SouthEast",
+  "WMC_Dir_South": "South",
+  "WMC_Dir_SouthWest": "SouthWest",
+  "WMC_Dir_West": "West",
+  "WMC_Dir_NorthWest": "NorthWest"
+}

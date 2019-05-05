@@ -2355,3 +2355,285 @@ Total        :  11136.301ms
 20:56 [Info] [Give] Smaste 1 x Timed Explosive Charge
 20:56 [Info] [Give] Smaste 1 x Timed Explosive Charge
 20:56 [Info] [Death Notes] Smaste blew up the Bradley APC with their Timed Explosive Charge.
+21:53 [Error] Plugin filename Class1.cs must match the main class ClassLibary3 (should be ClassLibary3.cs)
+21:59 [Info] [Death Notes] katt did not want to be a part of the Teri's experiments.
+22:26 [Warning] Calling 'OnEntityDeath' on 'RustIO v2.15.0' took 168ms
+22:26 [Info] [Death Notes] katt did not want to be a part of the Iva's experiments.
+22:27 [Info] [Death Notes] katt did not want to be a part of the Mauro's experiments.
+22:28 [Info] [Death Notes] katt did not want to be a part of the Hildegard's experiments.
+22:28 [Info] [Death Notes] katt did not want to be a part of the Mabelle's experiments.
+22:28 [Info] [Death Notes] katt did not want to be a part of the Katelyn's experiments.
+22:28 [Info] [Death Notes] katt did not want to be a part of the Dianne's experiments.
+22:28 [Info] [Death Notes] katt did not want to be a part of the Daysi's experiments.
+22:30 [Info] [Death Notes] katt did not want to be a part of the Ossie's experiments.
+22:30 [Info] [Death Notes] katt did not want to be a part of the Virgilio's experiments.
+22:31 [Info] [Death Notes] katt did not want to be a part of the Mauricio's experiments.
+22:31 [Info] [Death Notes] katt did not want to be a part of the Rebecka's experiments.
+22:31 [Info] [Death Notes] katt did not want to be a part of the Johanne's experiments.
+22:32 [Info] [Death Notes] katt did not want to be a part of the Will's experiments.
+22:36 [Info] [Death Notes] katt did not want to be a part of the Ardelia's experiments.
+22:37 [Info] [Death Notes] katt did not want to be a part of the Margarette's experiments.
+22:37 [Info] [Death Notes] katt did not want to be a part of the Alta's experiments.
+22:37 [Info] [Death Notes] katt did not want to be a part of the Eliseo's experiments.
+22:39 [Info] [Death Notes] katt did not want to be a part of the Tamar's experiments.
+22:40 [Info] [Death Notes] katt did not want to be a part of the Meghann's experiments.
+22:42 [Info] [Death Notes] katt did not want to be a part of the Nichol's experiments.
+22:47 [Info] [Death Notes] katt did not want to be a part of the Richelle's experiments.
+22:48 [Info] [Death Notes] katt did not want to be a part of the Syreeta's experiments.
+22:49 [Info] [Death Notes] katt did not want to be a part of the Junior's experiments.
+22:49 [Info] [Death Notes] katt did not want to be a part of the Gaylord's experiments.
+22:51 [Info] [Death Notes] katt did not want to be a part of the Rana's experiments.
+22:54 [Info] [Death Notes] katt did not want to be a part of the Versie's experiments.
+22:54 [Info] [Death Notes] katt did not want to be a part of the Golden's experiments.
+22:55 [Info] [Death Notes] katt did not want to be a part of the Tarah's experiments.
+22:55 [Info] [Death Notes] katt did not want to be a part of the Dirk's experiments.
+22:56 [Info] [Death Notes] katt did not want to be a part of the Genny's experiments.
+23:07 [Info] [Death Notes] katt did not want to be a part of the Cortez's experiments.
+23:08 [Warning] [BotSpawn] Duplicate userID save attempted. Please notify author.
+23:08 [Info] [Death Notes] katt shot a Stag using their LR-300 Assault Rifle over a distance of 44.9 meters.
+23:10 [Info] [Death Notes] katt did not want to be a part of the Stephan's experiments.
+23:12 [Info] [Death Notes] katt shot a Boar using their MP5A4 over a distance of 26 meters.
+23:25 [Info] Loading Oxide Core v2.0.3867...
+23:25 [Info] Loading extensions...
+23:25 [Info] Latest compiler MD5: 5fbca0bf39b1c09ddf2fb3686b869242
+23:25 [Info] Local compiler MD5: 5fbca0bf39b1c09ddf2fb3686b869242
+23:25 [Info] Loaded extension CSharp v2.0.4000 by Oxide and Contributors
+23:25 [Info] Loaded extension Rust:IO for Oxide v2.15.0 by playrust.io / dcode
+23:25 [Info] Loaded extension MySql v2.0.3755 by Oxide and Contributors
+23:25 [Info] Loaded extension Rust v2.0.4200 by Oxide and Contributors
+23:25 [Info] Loaded extension SQLite v2.0.3754 by Oxide and Contributors
+23:25 [Info] Loaded extension Unity v2.0.3756 by Oxide and Contributors
+23:25 [Info] Using Covalence provider for game 'Rust'
+23:25 [Info] Loading plugins...
+23:25 [Info] Loaded plugin Rust v2.0.4200 by Oxide and Contributors
+23:25 [Info] Loaded plugin Unity v2.0.3756 by Oxide and Contributors
+23:25 [Info] Loaded plugin Rust:IO for Oxide v2.15.0 by playrust.io / dcode
+23:25 [Error] Plugin filename Class1.cs must match the main class ClassLibary3 (should be ClassLibary3.cs)
+23:25 [Info] Added '// Reference: System.Drawing' in plugin 'SignArtist'
+23:25 [Info] BotSpawn, Build, DeathNotes, FurnaceSplitter, Give, Godmode, InfoPanel, Kits, MonumentRadiation, NoEscape, NTeleportation, PermissionsManager, PlayerAdministration, QuickSort, RemoveDefaultRadiation, RemoverTool, SaveAnnouncer, SignArtist, SkinBox, SkipNightVote, SmoothRestart, StackSizeController, Vanish and ZLevelsRemastered were compiled successfully in 4174ms
+23:25 [Info] Loaded plugin BotSpawn v1.9.0 by Steenamaroo
+23:25 [Info] Loaded plugin Build v2.0.82 by Reneb & NoGrod
+23:25 [Info] Loaded plugin Death Notes v6.2.0 by LaserHydra
+23:25 [Info] Loaded plugin Furnace Splitter v2.1.7 by Skipcast
+23:25 [Info] Loaded plugin Give v3.0.2 by Wulf/lukespragg
+23:25 [Info] Loaded plugin Godmode v4.1.1 by Wulf/lukespragg
+23:25 [Info] Loaded plugin InfoPanel v0.9.9 by Ghosst / Nogrod
+23:25 [Info] Loaded plugin Kits v3.2.93 by Reneb
+23:25 [Info] Loaded plugin MonumentRadiation v0.2.55 by k1lly0u
+23:25 [Info] Loaded plugin NoEscape v2.1.22 by Calytic
+23:25 [Info] Loaded plugin NTeleportation v1.0.53 by RFC1920
+23:25 [Info] Loaded plugin PermissionsManager v0.1.1 by Steenamaroo
+23:25 [Info] Loaded plugin PlayerAdministration v1.3.21 by ThibmoRozier
+23:25 [Info] Loaded plugin Quick Sort v1.3.4 by Frenk92
+23:25 [Info] Loaded plugin RemoveDefaultRadiation v0.1.0 by k1lly0u
+23:25 [Info] Loaded plugin RemoverTool v4.2.10 by Reneb/Fuji
+23:25 [Info] Loaded plugin Save Announcer v1.0.4 by Ryan
+23:25 [Info] Loaded plugin Sign Artist v1.1.2 by Mughisi
+23:25 [Info] Loaded plugin SkinBox v1.13.7 by FuJiCuRa
+23:25 [Info] Loaded plugin SkipNightVote v0.1.4 by k1lly0u
+23:25 [Info] Loaded plugin SmoothRestart v1.2.5 by Fujikura/Visagalis
+23:25 [Info] Loaded plugin Stack Size Controller v2.0.0 by Canopy Sheep
+23:25 [Info] Loaded plugin Vanish v0.7.4 by nivex
+23:25 [Info] Loaded plugin ZLevelsRemastered v2.9.5 by FuJiCuRa
+23:31 [Info] IP address from command-line: 172.96.165.106
+23:31 [Info] Updating Rust:IO ...
+23:31 [Info] Rust:IO: Update complete
+23:31 [Warning] Calling 'OnServerInitialized' on 'BotSpawn v1.9.0' took 1066ms
+23:31 [Warning] Calling 'OnServerInitialized' on 'Build v2.0.82' took 1393ms
+23:31 [Warning] Calling 'OnServerInitialized' on 'InfoPanel v0.9.9' took 773ms
+23:31 [Info] [MonumentRadiation] Created 4 monument radiation zones
+23:31 [Warning] Calling 'OnServerInitialized' on 'MonumentRadiation v0.2.55' took 667ms
+23:31 [Warning] [RemoveDefaultRadiation] All radiation elements destroyed, reloading plugins that use radiation
+23:31 [Warning] Calling 'OnServerInitialized' on 'RemoveDefaultRadiation v0.1.0' took 205ms
+23:31 [Warning] Calling 'OnServerInitialized' on 'RemoverTool v4.2.10' took 198ms
+23:31 [Info] [SkinBox] SkinBox command overview: > skinbox.cmds <
+23:31 [Info] [SkinBox] Calling workshop to validate '62' manual added skins
+23:31 [Info] [ZLevelsRemastered] Stats can be reset by > zl.reset <
+23:31 [Warning] Calling 'OnServerInitialized' on 'ZLevelsRemastered v2.9.5' took 303ms
+23:31 [Info] [SmoothRestart] Your servers Oxide build is up to date
+23:31 [Info] Installing Rust:IO ...
+23:31 [Info] Rust:IO> Setting up Rust:IO 2.3.6854.11652 ...
+23:31 [Info] Rust:IO> Creating directories ...
+23:31 [Info] Rust:IO> Applying config ...
+23:31 [Info] Rust:IO> Initializing database ...
+23:31 [Info] Rust:IO> Generating map image (this may take a while) ...
+23:31 [Info] Rust:IO> Generation complete
+--------- Summary --------
+Render       :  6559.729ms
+Postprocess  :  4924.812ms
+  Shadows    :   355.998ms
+  FXAA       :  4529.701ms
+Encoding     :    51.731ms
+Other        :    21.819ms
+--------------------------
+Total        :  11558.091ms
+23:31 [Info] Rust:IO> Starting HTTP server on 172.96.165.106:28435 ...
+23:31 [Info] Rust:IO> Installed.
+23:31 [Info] Rust:IO> Now ticking
+23:31 [Warning] Calling 'OnTick' on 'RustIO v2.15.0' took 11935ms [GARBAGE COLLECT]
+23:31 [Warning] Calling 'OnTick' on 'RustIO v2.15.0' took average 1ms [GARBAGE COLLECT]
+23:31 [Info] MonumentRadiation was compiled successfully in 3237ms
+23:31 [Warning] Calling 'Unload' on 'MonumentRadiation v0.2.55' took 189ms
+23:31 [Info] Unloaded plugin MonumentRadiation v0.2.55 by k1lly0u
+23:31 [Info] [MonumentRadiation] Created 4 monument radiation zones
+23:31 [Warning] Calling 'OnServerInitialized' on 'MonumentRadiation v0.2.55' took 677ms
+23:31 [Info] Loaded plugin MonumentRadiation v0.2.55 by k1lly0u
+23:31 [Info] Rust:IO> External IP address obtained from lookup: 172.96.165.106
+23:31 [Info] [SkinBox] Manual skinlist successful validated
+23:31 [Info] [SkinBox] Loaded 126 inbuilt skins
+23:31 [Info] [SkinBox] Loaded 62 manual added skins
+23:31 [Info] [SkinBox] Filling up the Cache by '1' workshop threads
+23:33 [Info] [SkinBox] Cache for 90 Skinnables filled with 7045 ranked skins
+23:35 [Info] [Give] Smaste 1000 x High Quality Metal
+23:35 [Info] [Give] Smaste 1000 x High Quality Metal
+23:35 [Info] [Give] Smaste 1000 x High Quality Metal
+23:35 [Info] [Give] Smaste 1000 x High Quality Metal
+23:35 [Info] [Give] Smaste 1000 x High Quality Metal
+23:35 [Info] [Give] Smaste 1000 x High Quality Metal
+23:35 [Info] [Give] Smaste 1000 x High Quality Metal
+23:35 [Info] [Give] Smaste 1000 x High Quality Metal
+23:35 [Info] [Give] Smaste 1000 x High Quality Metal
+23:35 [Info] [Give] Smaste 1000 x High Quality Metal
+23:35 [Info] [Give] Smaste 1000 x Wood
+23:35 [Info] [Give] Smaste 1000 x Wood
+23:35 [Info] [Give] Smaste 1000 x Wood
+23:35 [Info] [Give] Smaste 1000 x Wood
+23:35 [Info] [Give] Smaste 1000 x Wood
+23:35 [Info] [Give] Smaste 1000 x Wood
+23:35 [Info] [Give] Smaste 1000 x Wood
+23:35 [Info] [Give] Smaste 1000 x Wood
+23:35 [Info] [Give] Smaste 1000 x Wood
+23:35 [Info] [Give] Smaste 1000 x Wood
+23:35 [Info] [Give] Smaste 1000 x Wood
+23:35 [Info] [Give] Smaste 1000 x Wood
+23:35 [Info] [Give] Smaste 1000 x Wood
+23:35 [Info] [Give] Smaste 1000 x Wood
+23:35 [Info] [Give] Smaste 1000 x Wood
+23:35 [Info] [Give] Smaste 1000 x Wood
+23:35 [Info] [Give] Smaste 1000 x Wood
+23:35 [Info] [Give] Smaste 1000 x Wood
+23:35 [Info] [Give] Smaste 1000 x Wood
+23:35 [Info] [Give] Smaste 1000 x Wood
+23:35 [Info] [Give] Smaste 1000 x Wood
+23:35 [Info] [Give] Smaste 1000 x Wood
+23:35 [Info] [Give] Smaste 1000 x Wood
+23:35 [Info] [Give] Smaste 1000 x Wood
+23:35 [Info] [Give] Smaste 1000 x Wood
+23:35 [Info] [Give] Smaste 1000 x Wood
+23:35 [Info] [Give] Smaste 1000 x Wood
+23:35 [Info] [Give] Smaste 1000 x Wood
+23:35 [Info] [Give] Smaste 1000 x Wood
+23:35 [Info] [Give] Smaste 1000 x Wood
+23:35 [Info] [Give] Smaste 1000 x Wood
+23:35 [Info] [Give] Smaste 1000 x Wood
+23:35 [Info] [Give] Smaste 1000 x Wood
+23:35 [Info] [Give] Smaste 1000 x Metal Fragments
+23:35 [Info] [Give] Smaste 1000 x Metal Fragments
+23:35 [Info] [Give] Smaste 1000 x Metal Fragments
+23:35 [Info] [Give] Smaste 1000 x Metal Fragments
+23:35 [Info] [Give] Smaste 1000 x Metal Fragments
+23:35 [Info] [Give] Smaste 1000 x Metal Fragments
+23:35 [Info] [Give] Smaste 1000 x Metal Fragments
+23:35 [Info] [Give] Smaste 1000 x Metal Fragments
+23:35 [Info] [Give] Smaste 1000 x Metal Fragments
+23:35 [Info] [Give] Smaste 1000 x Metal Fragments
+23:35 [Info] [Give] Smaste 1000 x Metal Fragments
+23:35 [Info] [Give] Smaste 1000 x Metal Fragments
+23:35 [Info] [Give] Smaste 1000 x Metal Fragments
+23:35 [Info] [Give] Smaste 1000 x Metal Fragments
+23:35 [Info] [Give] Smaste 1000 x Metal Fragments
+23:35 [Info] [Give] Smaste 1000 x Metal Fragments
+23:35 [Info] [Give] Smaste 1000 x Metal Fragments
+23:35 [Info] [Give] Smaste 1000 x Metal Fragments
+23:35 [Info] [Give] Smaste 1000 x Metal Fragments
+23:35 [Info] [Give] Smaste 1000 x Metal Fragments
+23:35 [Info] [Give] Smaste 1000 x Metal Fragments
+23:35 [Info] [Give] Smaste 1000 x Metal Fragments
+23:35 [Info] [Give] Smaste 1000 x Metal Fragments
+23:35 [Info] [Give] Smaste 1000 x Metal Fragments
+23:35 [Info] [Give] Smaste 1000 x Metal Fragments
+23:35 [Info] [Give] Smaste 1000 x Metal Fragments
+23:35 [Info] [Give] Smaste 1000 x Metal Fragments
+23:35 [Info] [Give] Smaste 1000 x Metal Fragments
+23:35 [Info] [Give] Smaste 1000 x Metal Fragments
+23:35 [Info] [Give] Smaste 1000 x Metal Fragments
+23:35 [Info] [Give] Smaste 1000 x Metal Fragments
+23:35 [Info] [Give] Smaste 1000 x Stones
+23:35 [Info] [Give] Smaste 1000 x Stones
+23:35 [Info] [Give] Smaste 1000 x Stones
+23:35 [Info] [Give] Smaste 1000 x Stones
+23:35 [Info] [Give] Smaste 1000 x Stones
+23:35 [Info] [Give] Smaste 1000 x Stones
+23:35 [Info] [Give] Smaste 1000 x Stones
+23:35 [Info] [Give] Smaste 1000 x Stones
+23:35 [Info] [Give] Smaste 1000 x Stones
+23:35 [Info] [Give] Smaste 1000 x Stones
+23:35 [Info] [Give] Smaste 1000 x Stones
+23:35 [Info] [Give] Smaste 1000 x Stones
+23:35 [Info] [Give] Smaste 1000 x Stones
+23:35 [Info] [Give] Smaste 1000 x Stones
+23:35 [Info] [Give] Smaste 1000 x Stones
+23:35 [Info] [Give] Smaste 1000 x Stones
+23:35 [Info] [Give] Smaste 1000 x Stones
+23:35 [Info] [Give] Smaste 1000 x Stones
+23:35 [Info] [Give] Smaste 1000 x Stones
+23:35 [Info] [Give] Smaste 1000 x Stones
+23:35 [Info] [Give] Smaste 1000 x Stones
+23:35 [Info] [Give] Smaste 1000 x Stones
+23:35 [Info] [Give] Smaste 1000 x Stones
+23:35 [Info] [Give] Smaste 1000 x Stones
+23:35 [Info] [Give] Smaste 1000 x Scrap
+23:35 [Info] [Give] Smaste 1000 x Scrap
+23:35 [Info] [Give] Smaste 1000 x Scrap
+23:35 [Info] [Give] Smaste 1000 x Scrap
+23:35 [Info] [Give] Smaste 1000 x Scrap
+23:35 [Info] [Give] Smaste 1000 x Scrap
+23:35 [Info] [Give] Smaste 1000 x Scrap
+23:35 [Info] [Give] Smaste 1000 x Scrap
+23:35 [Info] [Give] Smaste 1000 x Scrap
+23:35 [Info] [Give] Smaste 1000 x Scrap
+23:35 [Info] [Give] Smaste 1000 x Scrap
+23:35 [Info] [Give] Smaste 1000 x Scrap
+23:35 [Info] [Give] Smaste 1000 x Scrap
+23:35 [Info] [Give] Smaste 1000 x Scrap
+23:35 [Info] [Give] Smaste 1000 x Scrap
+23:35 [Info] [Give] Smaste 1000 x Scrap
+23:35 [Info] [Give] Smaste 1000 x Scrap
+23:36 [Info] [Give] Smaste 1 x Hatchet
+23:36 [Info] [Give] Smaste 1 x Pickaxe
+23:36 [Info] [Give] Smaste 1 x Hammer
+23:36 [Info] [Give] Smaste 1 x Building Plan
+23:37 [Info] [Give] Smaste 1000 x Stones
+23:37 [Info] [Give] Smaste 1000 x Stones
+23:37 [Info] [Give] Smaste 1000 x Stones
+23:37 [Info] [Give] Smaste 1000 x Stones
+23:37 [Info] [Give] Smaste 1000 x Stones
+23:37 [Info] [Give] Smaste 1000 x Stones
+23:37 [Info] [Give] Smaste 1000 x Stones
+23:37 [Info] [Give] Smaste 1000 x Stones
+23:37 [Info] [Give] Smaste 1000 x Stones
+23:37 [Info] [Give] Smaste 1000 x Stones
+23:37 [Info] [Death Notes] katt shot a Boar using their LR-300 Assault Rifle over a distance of 11.4 meters.
+23:39 [Info] [Death Notes] katt shot a Boar using their LR-300 Assault Rifle over a distance of 10.3 meters.
+23:39 [Info] [Death Notes] katt shot a Boar using their LR-300 Assault Rifle over a distance of 14.3 meters.
+23:39 [Info] [NTeleportation] Smaste teleported katt to Smaste.
+23:42 [Info] [NTeleportation] Smaste teleported katt to Smaste.
+23:43 [Info] [Death Notes] katt did not want to be a part of the Diann's experiments.
+23:44 [Info] [Death Notes] Smaste did not want to be a part of the Domingo's experiments.
+23:44 [Info] [Death Notes] katt did not want to be a part of the Phoebe's experiments.
+23:44 [Info] [Death Notes] Smaste did not want to be a part of the Assunta's experiments.
+23:45 [Info] [Death Notes] Smaste did not want to be a part of the Candis's experiments.
+23:45 [Info] [Death Notes] Smaste did not want to be a part of the Bill's experiments.
+23:45 [Info] [Death Notes] katt did not want to be a part of the Ophelia's experiments.
+23:45 [Info] [Death Notes] Smaste did not want to be a part of the Myrta's experiments.
+23:46 [Info] [Death Notes] katt did not want to be a part of the Ivory's experiments.
+23:46 [Info] [Death Notes] Smaste did not want to be a part of the Tambra's experiments.
+23:47 [Info] [Death Notes] Smaste did not want to be a part of the Marcellus's experiments.
+23:47 [Info] [Death Notes] Smaste did not want to be a part of the Alaina's experiments.
+23:47 [Info] [Death Notes] Smaste did not want to be a part of the Nellie's experiments.
+23:48 [Info] [Death Notes] Smaste did not want to be a part of the Latisha's experiments.
+23:49 [Info] [Death Notes] Smaste did not want to be a part of the Magan's experiments.
+23:50 [Info] [Death Notes] Smaste did not want to be a part of the Irvin's experiments.
+23:51 [Info] [Death Notes] Smaste did not want to be a part of the Darlena's experiments.
+23:51 [Info] [Death Notes] Smaste did not want to be a part of the Wendi's experiments.
+23:52 [Info] [Death Notes] Smaste did not want to be a part of the Kris's experiments.

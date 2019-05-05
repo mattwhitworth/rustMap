@@ -116,6 +116,19 @@
         "refinery_small_deployed": 3,
         "skull_fire_pit": 2
       }
+    },
+    "76561198384022968": {
+      "Enabled": true,
+      "TotalStacks": {
+        "furnace": 3,
+        "bbq.deployed": 9,
+        "campfire": 2,
+        "fireplace.deployed": 2,
+        "furnace.large": 15,
+        "hobobarrel_static": 2,
+        "refinery_small_deployed": 3,
+        "skull_fire_pit": 2
+      }
     }
   }
 }

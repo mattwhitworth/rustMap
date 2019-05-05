@@ -1,0 +1,18 @@
+{
+  "bad check frequency": "Check frequency must be between 10 and 600",
+  "bad check frequency2": "Check frequency must be between 60 and 6000",
+  "bad prefab": "Bad Prefab Name, not found in devices or lights: ",
+  "bad dusk time": "Dusk time must be between 0 and 24",
+  "bad dawn time": "Dawn time must be between 0 and 24",
+  "dawn=dusk": "Dawn can't be the same value as dusk",
+  "dawn": "Lights going off.  Next lights on at ",
+  "default": "Loading default config for LightsOn",
+  "dusk": "Lights coming on.  Ending at ",
+  "lights off": "Lights Off",
+  "lights on": "Lights On",
+  "nopermission": "You do not have permission to use that command.",
+  "one or the other": "Please select one (and only one) of Always On or Night Toggle",
+  "prefix": "LightsOn: ",
+  "state": "unknown state: please use on or off",
+  "syntax": "syntax: Lights State (on/off) Optional: prefabshortname (part of the prefab name) to change their state, use all to force all lights' state"
+}
